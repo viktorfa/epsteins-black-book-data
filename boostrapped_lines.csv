@@ -1,5 +1,5 @@
 text,label,has_next_line,page,column,is_col_end,is_block_start
-Abby ,person_name,,1,2,0,0
+Abby ,person_name,,1,2,0,1
 7944574202,phone,,1,2,0,0
 "Abousleiman, Joanna ",person_name,,1,2,0,1
 603338787,phone,,1,2,0,0
@@ -8,35 +8,35 @@ joannachevalier@hotmail.c ,email,,1,2,0,0
 "Adam, Nick ",person_name,,1,2,0,1
 19 Rue De Lille ,street,,1,2,0,0
 75007 Paris ,address,,1,2,0,0
-00 331 538 97260(W) ,phone,,1,2,0,0
-00 331 40150061(h) ,phone,,1,2,0,0
+00 331 538 97260(w) ,phone,1,1,2,0,0
+00 331 40150061(h) ,phone,1,1,2,0,0
 0033 607 341 980 (p) ,phone,,1,2,0,0
 Agag Alejandro ,person_name,,1,2,0,1
 00 44 771 730 6038 ,phone,,1,2,0,0
 Email: ,,,1,2,0,0
 aagag@aslinvestments.com ,email,,1,2,0,0
-"Agnew, Marie Claire & ",person_name,,1,2,0,1
+"Agnew, Marie Claire & ",person_name,1,1,2,0,1
 John ,,,1,2,0,0
 51 Eaton Square ,street,,1,2,0,0
-"London SW1 , ",,,1,2,0,0
-0207-235 7589 (h ,phone,,1,2,0,0
+"London SW1 , 0QY",address,,1,2,0,0
+0207-235 7589 (h),phone,1,1,2,0,0
 0207 621 0011 (w) ,phone,,1,2,0,0
 Alai Azzedine ,person_name,,1,2,0,1
 00 331 4272 1919 ,phone,0,1,2,0,0
-"Albermarle, Rufus & ",person_name,,1,2,0,1
+"Albermarle, Rufus & ",person_name,1,1,2,0,1
 Sally ,,,1,2,0,0
 511 6th Ave ,street,,1,2,0,0
-p.o. box 394 ,,,1,2,0,0
-"New York, NY 10011 ",zip,,1,2,0,0
+p.o. box 394 ,address,,1,2,0,0
+"New York, NY 10011 ",address,,1,2,0,0
 1 212 465 9867(W) ,phone,,1,2,0,0
 Email: rulusa @mac.com ,email,,1,2,0,0
-1 917 969 2168 (p) Rufus ,phone,,1,2,0,0
-1917 257 9735 Saly ,phone,,1,2,0,0
+1 917 969 2168 (p) Rufus ,phone,1,1,2,0,0
+1917 257 9735 Saly ,phone,1,1,2,0,0
 212 271 3481 (try his first) ,phone,0,1,2,1,0
-Aldridge Saffron ,person_name,,1,3,0,0
+Aldridge Saffron ,person_name,,1,3,0,1
 47 Ladbroke Rd ,street,,1,3,0,0
-London W11 3PD ,,,1,3,0,0
-0207-727 1006 ,phone,,1,3,0,0
+London W11 3PD ,address,,1,3,0,0
+0207-727 1006 ,phone,1,1,3,0,0
 001 212-879-7653 ,phone,,1,3,0,0
 Email: saffya @aol.com ,email,,1,3,0,0
 0207-221-3627 ,phone,,1,3,0,0
@@ -44,345 +44,345 @@ Alexander Pam ,person_name,,1,3,0,1
 01 415 644 3055(w) ,phone,,1,3,0,0
 Email: palexander@alexanderrogil ,email,0,1,3,0,0
 Algranti Giacomo ,person_name,,1,3,0,1
-Flap4 83 Dilke St ,street,,1,3,0,0
-83 Dilke St ,street,,1,3,0,0
+Flap4 83 Dilke St ,street,1,1,3,0,0
+83 Dilke St ,street,1,1,3,0,0
 Flat 4 ,street,,1,3,0,0
-LondonW1 ,,,1,3,0,0
-0207-493 6171 ,phone,,1,3,0,0
-0208.68 27 ,phone,,1,3,0,0
-0208-746 1181 w ,phone,,1,3,0,0
-0207-746 1151 ' ,phone,,1,3,0,0
-0207-930 3703 gw) ,phone,,1,3,0,0
-0386 438 218 (PT ,phone,,1,3,0,0
+LondonW1 ,address,,1,3,0,0
+0207-493 6171 ,phone,1,1,3,0,0
+2089690027 (h),phone,1,1,3,0,0
+0208-746 1181 (w) ,phone,1,1,3,0,0
+0207-746 1157 (f),phone,1,1,3,0,0
+0207-930 3703 (gw) ,phone,1,1,3,0,0
+0386 438 218 (p),phone,,1,3,0,0
 Allan Paul ,person_name,,1,3,0,1
 001 206 355 5777 ,phone,,1,3,0,0
 Email: paul@vulcan.com ,email,,1,3,0,0
 "Allan, Nick & Sarah ",person_name,,1,3,0,1
-B5 Banyan Villas ,street,,1,3,0,0
+B5 Banyan Villas ,street,1,1,3,0,0
 9 Stanley Village Road ,street,,1,3,0,0
-"Hong Kong, ",,,1,3,0,0
+"Hong Kong, ",country,,1,3,0,0
 00-852-813-0762 ,phone,0,1,3,0,0
 "Althorp, Charlie ",person_name,,1,3,0,1
-Althors ,,,1,3,0,0
-0207-229 1573 (h) ,phone,0,1,3,1,0
+Althors ,address,,1,3,0,0
+0207-229 1573 (h) ,phone,1,1,3,1,0
 0207-637 8655 (w) ,phone,,2,2,0,0
 "Alun-Jones, Carella ",person_name,,2,2,0,1
 34 Eaton Place ,street,,2,2,0,0
-London SW1. ,,,2,2,0,0
-0207-235 7500 (h) ,phone,,2,2,0,0
+London SW1. ,address,,2,2,0,0
+0207-235 7500 (h) ,phone,1,2,2,0,0
 0372 58158 (c) ,phone,,2,2,0,0
-"Alun Jones, Jeremy & ",person_name,,2,2,0,1
+"Alun Jones, Jeremy & ",person_name,1,2,2,0,1
 Deborah ,,,2,2,0,0
-Old Park ,,,2,2,0,0
-Fishbourne ,,,2,2,0,0
-"West Sussex, PO18 SAP ",,,2,2,0,0
-0207 878 3381(w) ,phone,,2,2,0,0
-0124 357 2102'n ,phone,,2,2,0,0
+Old Park ,street,1,2,2,0,0
+Fishbourne ,street,,2,2,0,0
+"West Sussex, PO18 8AP ",address,,2,2,0,0
+0207 878 3381(w) ,phone,1,2,2,0,0
+0124 357 2102 (h),phone,,2,2,0,0
 Emaildajo old-park.co.uk ,email,,2,2,0,0
-"Hm 21 s, James Square ",,,2,2,0,0
-ondon SW17 4JP ,,,2,2,0,0
-Jeremy! ,,,2,2,0,0
-777412,phone,,2,2,0,0
-0207 936 4333 ,phone,,2,2,0,0
-"Alvarez, Senor ",person_name,,2,2,0,1
+Hm 21 st James Square ,address,1,2,2,0,0
+London SW17 4JP ,address,,2,2,0,0
+(Jeremy),,,2,2,0,0
+7774121212(Dp),phone,1,2,2,0,0
+0207 936 4333 (wf),phone,,2,2,0,0
+"Alvarez, Senor ",person_name,1,2,2,0,1
 Vincente ,,,2,2,0,0
-00 34 1 276 8697 (h) ,phone,,2,2,0,0
-011 34 915 903490 (w) ,phone,,2,2,0,0
-00 34 1 563 8466 ( ) ,phone,0,2,2,0,0
+00 34 1 276 8697 (h) ,phone,1,2,2,0,0
+011 34 915 903490 (w) ,phone,1,2,2,0,0
+00 34 1 563 8466 (f ) ,phone,0,2,2,0,0
 "Amon, Mr Philippe ",person_name,,2,2,0,1
-Domaine de Bougy ,,,2,2,0,0
+Domaine de Bougy ,street,1,2,2,0,0
 1170 Aubonne ,street,,2,2,0,0
-"Swilzerland, ",,,2,2,0,0
-41 21 681 5555(w). ,phone,,2,2,0,0
-00 41 21 821 2222h) ,phone,,2,2,0,0
+Switzerland,country,,2,2,0,0
+41 21 681 5555(w). ,phone,1,2,2,0,0
+00 41 21 821 2222 (h) ,phone,,2,2,0,0
 philippe.amon@sicpa.com ,email,,2,2,0,0
-Hm)25 Eaton Square (2nd ,street,,2,2,0,0
-Email: ,,0,2,2,0,0
-SW1. ,,,2,2,0,1
-41 21 8212 12200 (hr) ,phone,,2,2,0,0
-00 41 792103175 ) ,phone,,2,2,0,0
-00 41 21 627 5920 w) ,phone,,2,2,0,0
-004123 821 2200 hộ ,phone,,2,2,0,0
-41 21 627 5925 (Wf} ,phone,0,2,2,1,0
-0207-235-7769/9169 (2nd home ,phone,,2,3,0,0
-phone & fax) ,,,2,3,0,0
-"Amon, Roberta & ",person_name,,2,3,0,1
+(Hm)25 Eaton Square (2nd home) ,address,1,2,2,0,0
+Flat D,address,1,2,2,0,0
+London SW1. ,address,,2,2,0,0
+41 21 8212 12200 (hf) ,phone,1,2,2,0,0
+00 41 792103175 (p) ,phone,1,2,2,0,0
+00 41 21 627 5920 (w) ,phone,1,2,2,0,0
+004123 821 2200 (hf),phone,1,2,2,0,0
+41 21 627 5925 (Wf} ,phone,1,2,2,1,0
+0207-235-7769/9169 (2nd home  ,phone,1,2,3,0,0
+phone & fax),,,2,3,0,0
+"Amon, Roberta & ",person_name,1,2,3,0,1
 Maurice ,,,2,3,0,0
 4 East 72 Street ,street,,2,3,0,0
-New York NY 10021 ,zip,,2,3,0,0
-001 212 535 9877 ,phone,,2,3,0,0
-001 212319 2020 ,phone,0,2,3,0,0
+New York NY 10021 ,address,,2,3,0,0
+001 212 535 9877 (h),phone,1,2,3,0,0
+001 212319 2020 (w),phone,0,2,3,0,0
 WY ,address,,2,3,0,0
 "Anastos, Lisa ",person_name,,2,3,0,1
-200 E 72nd ,address,,2,3,0,0
+200 E 72nd ,address,1,2,3,0,0
 New York ,address,,2,3,0,0
-10021,address,,2,3,0,0
-001 212 446 4761(w) ,phone,,2,3,0,0
-001 213 737 1722(b),phone,,2,3,0,0
-001 917 923 4513 L ,phone,,2,3,0,0
-001 212 446 4900 Wt) ,phone,,2,3,0,0
+10021,zip,,2,3,0,0
+001 212 446 4761(w) ,phone,1,2,3,0,0
+001 213 737 1722(h),phone,1,2,3,0,0
+001 917 923 4513 (p),phone,1,2,3,0,0
+001 212 446 4900 (Wt) ,phone,,2,3,0,0
 "Anderson, Lulu ",person_name,,2,3,0,1
-0207-937 7730 ,phone,,2,3,0,0
+0207-937 7730 ,phone,1,2,3,0,0
 0976 287 20Z ,phone,0,2,3,0,0
 "Appleby, Robert & Alex ",person_name,,2,3,0,1
 16 Grafton Square ,street,,2,3,0,0
-"London SW, ",,,2,3,0,0
+London SW 4,address,,2,3,0,0
 0207 498 3400 (h) ,phone,,2,3,0,0
-RAAsiadebl.com ,email,,2,3,0,0
+RAAsiadebl.com ,email,1,2,3,0,0
 Email: alex@rockgecko.com ,email,,2,3,0,0
-Hm}House ,,,2,3,0,0
-Consort Rise ,,,2,3,0,0
-b52 9104 2651 AP) ,phone,,2,3,0,0
-00 852 2817 4181 b ,phone,,2,3,0,0
-00 852 2817 4281 bh ,phone,,2,3,0,0
-00 852 2536 4567 RW) ,phone,,2,3,0,0
-00 852 2141 2813 wi. ,phone,,2,3,0,0
-00 852 9104 2615 RD) ,phone,0,2,3,0,0
+(Hm)House ,street,1,2,3,0,0
+3 Consort Rise ,street,,2,3,0,0
+00 852 9104 2651 (AP) ,phone,1,2,3,0,0
+00 852 2817 4181 (h),phone,1,2,3,0,0
+00 852 2817 4281 (hf),phone,1,2,3,0,0
+00 852 2536 4567 (RW) ,phone,1,2,3,0,0
+00 852 2141 2813 (wf),phone,1,2,3,0,0
+00 852 9104 2615 (Rp) ,phone,0,2,3,0,0
 "Arango, Maite ",person_name,,2,3,0,1
-Espaiter #10 (home) ,,0,2,3,1,0
+Espaiter #10 (home) ,address,1,2,3,1,0
 9C ,address,,3,2,0,0
 "Madrid, Spain 28014 ",zip,,3,2,0,0
 Email: marango@mail.vips.es ,email,,3,2,0,0
-011 34 91 590 6710 (w) ,phone,,3,2,0,0
-011 34 91 420 3776 h ,phone,,3,2,0,0
+011 34 91 590 6710 (w) ,phone,1,3,2,0,0
+011 34 91 420 3776 (h) ,phone,1,3,2,0,0
 00 34 63 913 6063 (P) ,phone,,3,2,0,0
 "Arellano, Victor ",person_name,,3,2,0,1
 15 Cadogan Square ,street,,3,2,0,0
-"London, England SW1X OHT ",,,3,2,0,0
-0207-245 6064 ,phone,,3,2,0,0
-0207-245 60650 ,phone,,3,2,0,0
-001 212 606 7795 (w) ,phone,,3,2,0,0
-001 212 772 3880 h) ,phone,0,3,2,0,0
-Arion Joaquin ,person_name,,3,2,0,1
+"London, England SW1X OHT ",address,,3,2,0,0
+0207-245 6064 ,phone,1,3,2,0,0
+0207-245 60650 (f),phone,1,3,2,0,0
+001 212 606 7795 (w) ,phone,1,3,2,0,0
+001 212 772 3880 (h) ,phone,0,3,2,0,0
+Arion Joaquin ,person_name,1,3,2,0,1
 Fernandez de ,,,3,2,0,0
-Cordoba ,,,3,2,0,0
-Castillo de Malpicas ,,,3,2,0,0
-Malpicas de Taga ,,,3,2,0,0
-Provincia di Toledo. ,,,3,2,0,0
-(Hm Bidasoa 6 ,,,3,2,0,0
-28002,address,,3,2,0,0
-Madrid ,,,3,2,0,0
-"Spain, ",,,3,2,0,0
-00 34 25 877113 (h). ,phone,,3,2,0,0
-00 34 1 411 7575 h). ,phone,,3,2,0,0
-00 34 262 4531 (w,phone,,3,2,0,0
+Cordoba ,street,1,3,2,0,0
+Castillo de Malpicas ,street,1,3,2,0,0
+Malpicas de Taga ,street,1,3,2,0,0
+Provincia di Toledo. ,street,,3,2,0,0
+(Hm) Bidasoa 6 ,address,,3,2,0,0
+28002,zip,,3,2,0,0
+Madrid ,address,,3,2,0,0
+"Spain, ",country,,3,2,0,0
+00 34 25 877113 (h). ,phone,1,3,2,0,0
+00 34 1 411 7575 (h). ,phone,1,3,2,0,0
+00 34 262 4531 (w),phone,,3,2,0,0
 "Arion, Fernando ",person_name,,3,2,0,1
-120 & 1/2 E 65th Street ,,,3,2,0,0
+120 & 1/2 E 65th Street ,street,,3,2,0,0
 "NY, NY 10021 ",zip,,3,2,0,0
-001 212 826 7426{w] ,phone,,3,2,0,0
+001 212 826 7426{w] ,phone,1,3,2,0,0
 001 212 772 1029 (h) ,phone,0,3,2,1,0
-"Armstrong, Arthur & ",person_name,,3,3,0,0
+"Armstrong, Arthur & ",person_name,1,3,3,0,1
 Cathy ,,,3,3,0,0
 001 212 737 7290 (h) ,phone,,3,3,0,0
-"Aron, Herve & Marine ",person_name,,3,3,0,1
+"Aron, Herve & Marlne ",person_name,,3,3,0,1
 32 East 67th Street ,street,,3,3,0,0
 "New York, NY 10021. ",zip,,3,3,0,0
-001 212 535 8623 h). ,phone,,3,3,0,0
-001 212 988 5248 () ,phone,,3,3,0,0
+001 212 535 8623 h). ,phone,1,3,3,0,0
+001 212 988 5248 (m) ,phone,,3,3,0,0
 "Ash, Lorinda ",person_name,,3,3,0,1
-765 Park Ave ,street,,3,3,0,0
-#88 ,,,3,3,0,0
-001 212 535 8835{h) ,phone,,3,3,0,0
-001 212 734 0100{,phone,0,3,3,0,0
+765 Park Ave ,street,1,3,3,0,0
+#88 ,street,,3,3,0,0
+001 212 535 8835{h) ,phone,1,3,3,0,0
+001 212 734 0100 {w),phone,0,3,3,0,0
 Ashley & Allegra Hicks ,person_name,,3,3,0,1
 32 Walpole St. ,street,,3,3,0,0
-London ,,,3,3,0,0
-SW3 4QS ,,,3,3,0,0
+London ,country,,3,3,0,0
+SW3 4QS ,zip,,3,3,0,0
 0207 7303130 ,phone,0,3,3,0,0
 "Ashley, Nick & Ari ",person_name,,3,3,0,1
 57 Ledbury Rd ,street,,3,3,0,0
-London ,,,3,3,0,0
+London ,country,,3,3,0,0
 W11 2AA ,address,,3,3,0,0
-0207-2311221W) ,phone,,3,3,0,0
-0207-937 106813 ,phone,,3,3,0,0
-0207-937 1086 K,phone,,3,3,0,0
-0207-736 6700 W ,phone,,3,3,0,0
-0207-221-1221 w ,phone,,3,3,0,0
-0159 12461 ,phone,0,3,3,1,0
-601 281 651 2232 ,phone,,3,4,0,0
+0207-2311221(W) ,phone,1,3,3,0,0
+0207-937 1068(h),phone,1,3,3,0,0
+0207-937 1086 (h),phone,1,3,3,0,0
+0207-736 6700 (W),phone,1,3,3,0,0
+0207-221-1221 (w) ,phone,1,3,3,0,0
+0159 12461 ,phone,1,3,3,1,0
+601 281 651 2232 ,phone,1,3,4,0,0
 con-001 646 831 1929 ,phone,0,3,4,0,0
-Aznar Jose ,person_name,,3,4,0,0
-$&$ Capital ,,,3,4,0,0
-140 West 57th Street ,street,,3,4,0,0
+Aznar Jose ,person_name,,3,4,0,1
+S&S Capital ,street,1,3,4,0,0
+140 West 57th Street ,street,1,3,4,0,0
 7th Floor ,street,,3,4,0,0
 "New York, NY ",address,,3,4,0,0
 Email: jose@slscapital.com ,email,,3,4,0,0
 "Baddeley, Jean ",person_name,,3,4,0,1
-Finca Las Colinas ,,,3,4,0,0
-Lista de Correos ,,,3,4,0,0
-29100 COIN ,address,,3,4,0,0
-"Malaga, Spain ",,,3,4,0,0
+Finca Las Colinas ,street,1,3,4,0,0
+Lista de Correos ,street,,3,4,0,0
+29100 COIN ,address,1,3,4,0,0
+"Malaga, Spain ",address,,3,4,0,0
 Email: queenbee@mercuryin.es ,email,,3,4,0,0
-34 952 1 28 14 (1) ,phone,,3,4,0,0
-00 34 52 783865 ,phone,,3,4,0,0
-295768285,phone,,3,4,0,0
+34 952 1 28 14 (h) ,phone,1,3,4,0,0
+00 34 52 783865 ,phone,1,3,4,0,0
+295768285,phone,1,3,4,0,0
 0385 170 977 (p) ,phone,0,3,4,0,0
 Bahrke Peter ,person_name,,3,4,0,1
-0207-973 8250 ,phone,,3,4,0,0
+0207-973 8250 ,phone,1,3,4,0,0
 00 46 707766655 ,phone,,3,4,0,0
 Email: pb@arkwright.co.uk ,email,,3,4,0,0
 Baker Danny ,person_name,,3,4,0,1
 001 917 647 9649 ,phone,,3,4,0,0
 "Bakhtiar, Shariar ",person_name,,3,4,0,1
-Church Palm Colage ,,,3,4,0,0
-Coats Cirencester Gloss ,,0,3,4,1,0
-"Assaf, Charlotte & ",person_name,,3,5,0,0
+Church Palm Colage ,address,1,3,4,0,0
+Coats Cirencester Gloss ,address,0,3,4,1,0
+"Assaf, Charlotte & ",person_name,1,3,5,0,1
 Vittorio ,,,3,5,0,0
 21 East 65th St (h) ,street,,3,5,0,0
-New York ,address,,3,5,0,0
+New York ,country,,3,5,0,0
 "NY, 10021 ",zip,,3,5,0,0
-001 212 688 3820 (h) ,phone,,3,5,0,0
+001 212 688 3820 (h) ,phone,1,3,5,0,0
 001 212 593 9040 ,phone,,3,5,0,0
 Email: bellacharlotte@aol.com ,email,,3,5,0,0
-001 917 3314656 (p) ,phone,,3,5,0,0
-646 431 3052 femergency ,phone,,3,5,0,0
-tact) ,,,3,5,0,0
+001 917 3314656 (p) ,phone,1,3,5,0,0
+646 431 3052 (emergency con-,phone,1,3,5,0,0
+tact) ,phone,,3,5,0,0
 "Astaire, Mr Simon ",person_name,,3,5,0,1
 60 Cathcart Road ,street,,3,5,0,0
-London SW10. ,,,3,5,0,0
-001 212 353 1285 (h) ,phone,,3,5,0,0
-0207-351 7973 h) ,phone,,3,5,0,0
+London SW10. ,address,,3,5,0,0
+001 212 353 1285 (h) ,phone,1,3,5,0,0
+0207-351 7973 (h) ,phone,1,3,5,0,0
 001 212 235 5757 ,phone,,3,5,0,0
 Astor Viscount William ,person_name,,3,5,0,1
 0207-412 0703(w) ,phone,,3,5,0,0
 Atkin Helene ,person_name,,3,5,0,1
 508 and a hall conneticut St ,street,,3,5,0,0
 SF 94107 ,zip,,3,5,0,0
-001 650 851 2669 ,phone,,3,5,0,0
-001 650 851 2689 ,phone,,3,5,0,0
-001 650 9878 (w,phone,,3,5,0,0
-00 1 650 224 2198 (p) ,phone,,3,5,0,0
+001 650 851 2669 ,phone,1,3,5,0,0
+001 650 851 2689 ,phone,1,3,5,0,0
+001 650 9878 (w,phone,1,3,5,0,0
+00 1 650 224 2198 (p) ,phone,1,3,5,0,0
 850 851 2689 (h) Home ,phone,,3,5,0,0
 "Atkin, Mike & Ami ",person_name,,3,5,0,1
 825 Washington Street #5A ,street,,3,5,0,0
 Hoboken N507030 USA ,address,0,3,5,1,0
-0285 770067 (,phone,,4,2,0,0
-8285 770196 (,phone,0,4,2,0,0
+0285 770067 (f),phone,1,4,2,0,0
+08285 770146 (h),phone,1,4,2,0,0
 25 336-1555 th) ,phone,0,4,2,0,0
 "Balazs, Andre ",person_name,,4,2,0,1
-The Mercer ,,,4,2,0,0
+The Mercer ,company,,4,2,0,0
 142 Greene Street #5A (h) ,street,,4,2,0,0
 "New York, NY 10012 ",zip,,4,2,0,0
-Hm 33 Wostransol.com ,address,,4,2,0,0
+(Hm)33 Wostransol.com ,address,,4,2,0,0
 "Shelter Island, NY 11965 ",zip,,4,2,0,0
 51292 Ans. Svc. ,address,,4,2,0,0
-66.286 4170 (P) ,phone,,4,2,0,1
-631 749 0494 h,phone,,4,2,0,0
-631 749 0512 h). ,phone,,4,2,0,0
+66.286 4170 (P) ,phone,1,4,2,0,1
+631 749 0494 (p),phone,1,4,2,0,0
+631 749 0512 (hf). ,phone,1,4,2,0,0
 212 226 5656 X 201 (w) ,phone,0,4,2,0,0
 2113655,phone,,4,2,0,1
 1010,,0,4,2,0,0
-Baldwin Alec ,,,4,2,0,0
+Baldwin Alec ,person_name,,4,2,0,1
 881 312 283 293310 ,phone,0,4,2,0,0
 "Balliol College, Oxford ",person_name,,4,2,0,1
-"Oxford, Enlgand OX1 38J ",,,4,2,0,0
+"Oxford, Enlgand OX1 38J ",address,,4,2,0,0
 0865 277803 ,phone,,4,2,0,0
-Bamford ,person_name,,4,2,0,1
+Bamford George/alice,person_name,,4,2,0,1
 Georgelalice ,,,4,2,0,0
-Daylesford House ,,,4,2,0,0
-Moretort- in- Marsh ,,,4,2,0,0
-Gloucestershire ,,,4,2,0,0
+Daylesford House ,street,1,4,2,0,0
+Moretort- in- Marsh ,street,,4,2,0,0
+Gloucestershire ,address,1,4,2,0,0
 GL.56 OYH. ,address,,4,2,0,0
 01608 659777 ,phone,,4,2,0,0
 Email: alice@scbpartners.com ,email,0,4,2,1,0
-+44 7831 136 210 Alice (p,phone,,4,3,0,0
++44 7831 136 210 Alice (p,phone,1,4,3,0,0
 00 1917 873 9156 George ,phone,0,4,3,0,0
-Bamford Sir Anthony ,person_name,,4,3,0,1
+Bamford Sir Anthony ,person_name,1,4,3,0,1
 and Lady C ,,,4,3,0,0
-018895 90312sa) ,phone,,4,3,0,0
-01608 659777{fc) ,phone,,4,3,0,0
+018895 90312(sa) ,phone,1,4,3,0,0
+01608 659777(lc) ,phone,1,4,3,0,0
 243 320 4109 P ,phone,,4,3,0,0
 Email,,,4,3,0,0
 * West 60th ,address,,4,3,0,0
-NY ,address,,4,3,0,1
-"Bands, Doug ",,,4,3,0,0
-Office of William J. Clinton ,,,4,3,0,0
+NY ,address,,4,3,0,0
+"Bands, Doug ",person_name,,4,3,0,1
+Office of William J. Clinton ,address,,4,3,0,0
 55 West 125th St ,street,,4,3,0,0
 New York ,address,,4,3,0,0
 "NY 10027, 001 212 977 112 ",phone,,4,3,0,0
 348 8882 ,phone,,4,3,0,0
 wic@imcingular.com ,email,,4,3,0,0
-Api. ,,,4,3,0,0
-New ,address,,4,3,0,0
-212346,phone,,4,3,0,0
-Mike Lee (w) ,,,4,3,0,0
-301 627 8125 Mike Lee h) ,,,4,3,0,0
-914 806 0462 Mike Lee car) ,,,4,3,0,0
-77 741 2905 Mike Lee b) ,,,4,3,0,0
+Apt.22G,address,1,4,3,0,0
+New York,address,,4,3,0,0
+2123486751 David Slade,phone,1,4,3,0,0
+2024068002 Mike Lee (w) ,phone,1,4,3,0,0
+301 627 8125 Mike Lee (h) ,phone,1,4,3,0,0
+914 806 0462 Mike Lee (car) ,phone,1,4,3,0,0
+77 741 2905 Mike Lee (b) ,phone,,4,3,0,0
 Mike Lee email ,,,4,3,0,0
 mlee@usss.lreas.gov ,email,,4,3,0,0
-07 787 524 101 Sara Lalham ,phone,,4,3,0,0
-646 227 4930 Denise Diorio ,,,4,3,0,0
-348 0452 Joe Cashion asst,,,4,3,0,0
-Uma ,,,4,3,0,0
-Mark Gaiespie ,,,4,3,0,0
-212 928 8321 Jim Morrison ,,,4,3,0,0
-212 348 4963 Hanna Richert ,,,4,3,0,0
-212 348 1779 Laura (Clinton's ,,0,4,3,1,0
-scheduler). ,,,4,4,0,0
-941 349 6467 doug bands h ,phone,,4,4,0,0
-917 887 8468 Jim Ken- ,phone,,4,4,0,0
-212'977 1120 (guy Doug friend h,,,4,4,0,0
-914 861 9380 no.42 do not use ,phone,,4,4,0,0
+07 787 524 101 Sara Lalham ,phone,1,4,3,0,0
+646 227 4930 Denise Diorio ,phone,1,4,3,0,0
+348 0452 Joe Cashion asst,phone,1,4,3,0,0
+202 236 5546Uma ,phone,1,4,3,0,0
+9148060463 Mark Gaiespie ,phone,1,4,3,0,0
+212 928 8321 Jim Morrison ,phone,1,4,3,0,0
+212 348 4963 Hanna Richert ,phone,1,4,3,0,0
+212 348 1779 Laura (Clinton's ,phone,1,4,3,1,0
+scheduler). ,phone,1,4,4,0,0
+941 349 6467 doug bands h ,phone,1,4,4,0,0
+917 887 8468 Jim Ken- ,phone,1,4,4,0,0
+212'977 1120 (guy Doug friend h,phone,1,4,4,0,0
+914 861 9380 no.42 do not use),phone,,4,4,0,0
 "Bannister, Clive ",person_name,,4,4,0,1
-HSBC Investment Bank plc ,,,4,4,0,0
+HSBC Investment Bank plc ,company,,4,4,0,0
 8 Canada Square ,street,,4,4,0,0
-"London, E74 5KQ UK ",,,4,4,0,0
+"London, E74 5KQ UK ",address,1,4,4,0,0
 WAYAN20 ,address,,4,4,0,0
-portable ,,,4,4,0,0
-44 20 7221 1878 home ,phone,,4,4,0,0
-011442079914320 fax ,phone,,4,4,0,0
-011442079916182 Clive Direct at ,phone,,4,4,0,0
-work ,,,4,4,0,0
+44 777 1840 portable ,phone,1,4,4,0,0
+44 20 7221 1878 home ,phone,1,4,4,0,0
+011442079914320 fax ,phone,1,4,4,0,0
+011442079916182 Clive Direct at ,phone,1,4,4,0,0
+work ,phone,,4,4,0,0
 "Banon, Javier ",person_name,,4,4,0,1
-IFB International Finance Sank ,,,4,4,0,0
+IFB International Finance Sank ,company,,4,4,0,0
 55 East 59th Street ,street,,4,4,0,0
 "New York, NY 10022 ",zip,,4,4,0,0
-1,,,4,4,0,0
-7545(w ,,,4,4,0,0
-001 212 249 0259 (h) ,phone,,4,4,0,0
-001 212 687 2816 ,phone,,4,4,0,0
+0012123080300 (p),phone,1,4,4,0,0
+0012122507545 (w),phone,1,4,4,0,0
+001 212 249 0259 (h) ,phone,1,4,4,0,0
+001 212 687 2816 ,phone,1,4,4,0,0
 001 646 734 78 18 (p) ,phone,,4,4,0,0
-"Barham, Nicholas & ",person_name,,4,4,0,1
+"Barham, Nicholas & ",person_name,1,4,4,0,1
 Gretat ,,,4,4,0,0
 95 Eaton Terrace ,street,,4,4,0,0
-Belgravia ,,,4,4,0,0
-"London SW1W 87Y, ",,,4,4,0,0
-0207- 823 67601h) ,phone,,4,4,0,0
+Belgravia ,address,1,4,4,0,0
+"London SW1W 87Y, ",address,,4,4,0,0
+0207- 823 67601(h) ,phone,1,4,4,0,0
 0207 389 5010 (w) ,phone,,4,4,0,0
 Email: ,,,4,4,0,0
 nbarham@arlingtongroup.co ,email,0,4,4,1,0
-(Hm 103-87/97 Yarranabbe ,,,4,5,0,0
-ថ្មី,,,4,5,0,0
-Darling Point ,,,4,5,0,0
-"Sydney, Australia ",,,4,5,0,0
-) NSW ,address,,4,5,0,0
-69480 Portable ,address,,4,5,0,0
-0.01.917 p) ,phone,,4,5,0,0
-822.5,,,4,5,0,0
-0207.730 3856 ,phone,,4,5,0,0
-Yh3856 -hi-Australia,,,4,5,0,0
-7007 (other porta,street,,4,5,0,0
-ble) ,,,4,5,0,0
-020 7389 5019 w.direct line ,phone,,4,5,0,0
-020 7389 5015 (Asst. Helen ,phone,,4,5,0,0
+(Hm) 103-87/97 Yarranabbe Gar-,street,1,4,5,0,0
+dens,street,1,4,5,0,0
+Darling Point ,street,,4,5,0,0
+"Sydney, Australia ",address,1,4,5,0,0
+NSW 2027,address,1,4,5,0,0
+07836569480 Portable ,phone,1,4,5,0,0
+01734713398 country,phone,1,4,5,0,0
+0019178265946 (p),phone,1,4,5,0,0
+0207730 3856 (hf) ,phone,1,4,5,0,0
+61293273565(h-Australia),phone,1,4,5,0,0
+0061402097007 (other porta,phone,1,4,5,0,0
+ble) ,,1,4,5,0,0
+020 7389 5019 w.direct line ,phone,1,4,5,0,0
+020 7389 5015 (Asst. Helen ,phone,1,4,5,0,0
 Andrews) ,,,4,5,0,0
-020 7389 5011 (w) ,phone,0,4,5,0,0
+020 7389 5011 (w) ,phone,1,4,5,0,0
 Australia) ,,,4,5,0,0
-"Barnes, Peter ",person_name,,4,5,0,0
+"Barnes, Peter ",person_name,,4,5,0,1
 001 213 621 2332 (w) ,phone,0,4,5,0,0
 "Barnett, Craig ",person_name,,4,5,0,1
 983 Park Avenue ,street,,4,5,0,0
-001 212 272 4012 ,phone,,4,5,0,0
+001 212 272 4012 ,phone,1,4,5,0,0
 001 917-754-7456 (p) ,phone,0,4,5,0,0
 "Bastone, Hillary ",person_name,,4,5,0,1
 0207-259 6070 ,phone,0,4,5,0,0
 Batstone Hillary ,person_name,,4,5,0,1
 8 Holbein Place ,street,,4,5,0,0
-London SW1 WBNL ,,,4,5,0,0
-0171-730-5335(w,phone,,4,5,0,0
-"Hm 24, 1st Street ",address,,4,5,0,0
-London SW1 WXNL ,,,4,5,0,0
+London SW1 WBNL ,address,,4,5,0,0
+0171-730-5335(w),phone,,4,5,0,0
+"Hm 24, 1st Street ",address,1,4,5,0,0
+London SW1 WXNL ,address,,4,5,0,0
 0171-581-2554(h) ,phone,0,4,5,1,0
 the ,,,4,6,0,0
 ranger ,,,4,6,0,0
@@ -397,376 +397,376 @@ vier ,,,4,6,0,1
 Wandern ,,0,4,6,1,0
 0836-594-908(P). ,phone,,5,2,0,0
 "Batstone, Tim Natasha ",person_name,,5,2,0,1
-01492 580274(b) ,phone,,5,2,0,0
-01492 876593w ,phone,,5,2,0,0
-0492 860584 (h) ,phone,,5,2,0,0
+01492 580274(h) ,phone,1,5,2,0,0
+01492 876593(w),phone,1,5,2,0,0
+0492 860584 (h) ,phone,1,5,2,0,0
 0492 76593 (W) ,phone,,5,2,0,0
 "Baumer, Lorenzo ",person_name,,5,2,0,1
-00 33 1 4286 9933 ,phone,,5,2,0,0
-00 33 1 4286 9944(0,phone,,5,2,0,0
+00 33 1 4286 9933 ,phone,1,5,2,0,0
+00 33 1 4286 9944(f),phone,,5,2,0,0
 Email: www.lorenzbaumer.com ,email,0,5,2,0,0
 "Beaumont, Lord & Lady ",person_name,,5,2,0,1
 40 Elms Road ,street,,5,2,0,0
-"London SW4, ",,,5,2,0,0
+"London SW4, ",address,,5,2,0,0
 0207-498 8604 ,phone,,5,2,0,0
 "Beckwith, Tamara ",person_name,,5,2,0,1
 001 323 864 4005 ,phone,,5,2,0,0
 "Belzberg, Lisa ",person_name,,5,2,0,1
 7 E. 67th Street ,address,,5,2,0,0
 New YorkNY 10021 ,zip,,5,2,0,0
-001 212 6477777 mw,phone,,5,2,0,0
+001 212 6477777 mw,phone,1,5,2,0,0
 001 212 517 5009/h) ,phone,,5,2,0,0
 West 28th Street ,street,,5,2,0,0
 "New York, NY 10010 ",zip,,5,2,0,0
-001 914 234 3087 (h) ,phone,,5,2,0,0
-212 249 7742 hi) ,phone,,5,2,0,0
+001 914 234 3087 (h) ,phone,1,5,2,0,0
+212 249 7742 hi) ,phone,1,5,2,0,0
 646 638 0565 (W,phone,0,5,2,0,0
 2nd ,address,0,5,2,1,1
-212 249 6801 (Asst Erin Eagan) ,,,5,3,0,0
+212 249 6801 (Asst Erin Eagan) ,phone,,5,3,0,0
 "Benson, Steven ",person_name,,5,3,0,1
-001 212 715 7352 {w,phone,,5,3,0,0
-001 212 832 0091 h1 ,phone,,5,3,0,0
+001 212 715 7352 (w),phone,1,5,3,0,0
+001 212 832 0091 (h) ,phone,,5,3,0,0
 "Bentinck, Baron ",person_name,,5,3,0,1
-Moyns Park ,,,5,3,0,0
-Birdbroak near Halstead ,,,5,3,0,0
-"Essex, England C094BP ",,,5,3,0,0
+Moyns Park ,street,1,5,3,0,0
+Birdbroak near Halstead ,street,,5,3,0,0
+"Essex, England C094BP ",address,,5,3,0,0
 001 917 734 4663(p) ,phone,,5,3,0,0
 Email: Ste-,,1,5,3,0,0
 ven Bentinck@msn.com ,email,,5,3,0,0
-00 268 864 224 (p) ,phone,,5,3,0,0
-01440 730073 (h,phone,,5,3,0,0
+00 268 864 224 (p) ,phone,1,5,3,0,0
+01440 730073 (h),phone,,5,3,0,0
 Email: ,,,5,3,0,0
 Hotel h) ,,,5,3,0,0
-"Berggruen, Nicolas ",person_name,,5,3,0,0
-Alpha Investment Management ,,,5,3,0,0
-110 East 59th Street (w} ,street,,5,3,0,0
+"Berggruen, Nicolas ",person_name,,5,3,0,1
+Alpha Investment Management ,company,,5,3,0,0
+110 East 59th Street (w} ,street,1,5,3,0,0
 33rd Floor ,street,,5,3,0,0
 "New York, NY 10022 ",zip,,5,3,0,0
-001 212 421-0110 W ,phone,,5,3,0,0
-001 212 421-0169 ,phone,,5,3,0,0
+001 212 421-0110 (W),phone,1,5,3,0,0
+001 212 421-0169  (f),phone,,5,3,0,0
 nicolasb@atphamgmt.com ,email,,5,3,0,0
-Avenue ,street,,5,3,0,0
-Suite 3104 ,,,5,3,0,0
+795 Fifth Avenue,street,1,5,3,0,0
+Suite 3104 ,street,,5,3,0,0
 "NYC i 10021, ",zip,,5,3,0,0
-001 212-838-8000 (h) ,phone,,5,3,0,0
-001 786 553 7277 ,phone,,5,3,0,0
-001 212 702 0511 (w ,phone,,5,3,0,0
+001 212-838-8000 (h) ,phone,1,5,3,0,0
+001 786 553 7277 ,phone,1,5,3,0,0
+001 212 702 0511 (w ,phone,1,5,3,0,0
 646 824 0111 (Emergency Con-,phone,1,5,3,0,0
 lact) ,,0,5,3,1,0
-"Berkman, Bill ",person_name,,5,4,0,0
-The Associated Group ,,,5,4,0,0
-650 Madison Avenue ,street,,5,4,0,0
-25th Floor ,street,,5,4,0,0
+"Berkman, Bill ",person_name,,5,4,0,1
+The Associated Group ,company,,5,4,0,0
+650 Madison Avenue ,street,1,5,4,0,0
+25th Floor ,street,1,5,4,0,0
 "New York, NY 10022 ",zip,,5,4,0,0
-212 301 2800 0) ,phone,,5,4,0,0
+212 301 2800 0) ,phone,1,5,4,0,0
 212 301 28110 ,phone,,5,4,0,0
-(Um) 158 Morcer si (home) ,street,,5,4,0,0
+(Um) 158 Morcer si (home) ,address,1,5,4,0,0
 10012,address,,5,4,0,0
-001 917 520 8910 ,phone,,5,4,0,0
+001 917 520 8910 ,phone,1,5,4,0,0
 001 212 625 0066(h ,phone,,5,4,0,0
 "Bernard, Tara ",person_name,,5,4,0,1
 07 770 523 149(p) ,phone,0,5,4,0,0
 "Birchall, Martyn ",person_name,,5,4,0,1
 "44 E, 12th Street ",address,,5,4,0,0
 "New York, NY 10003 ",zip,,5,4,0,0
-212 254 1548 (h) ,phone,,5,4,0,0
-212 253 0437 ,phone,,5,4,0,0
+212 254 1548 (h) ,phone,1,5,4,0,0
+212 253 0437 ,phone,1,5,4,0,0
 212 253-0438 Office Fax ,phone,0,5,4,0,0
 "Birley, Robin ",person_name,,5,4,0,1
-35 Brompton Square ,street,,5,4,0,0
-Flat 2 ,,,5,4,0,0
-"London SW3 2AE, ",,,5,4,0,0
-0207.591 1940 h ,phone,,5,4,0,0
-07730 396 656 () ,phone,,5,4,0,0
+35 Brompton Square ,street,1,5,4,0,0
+Flat 2 ,street,1,5,4,0,0
+"London SW3 2AE, ",street,,5,4,0,0
+0207.591 1940 (h) ,phone,1,5,4,0,0
+07730 396 656 (p) ,phone,,5,4,0,0
 Emali: rbirley@birleys.co.uk ,email,,5,4,0,0
-ImBirleys ,,,5,4,0,0
-Hse ,,,5,4,0,0
+(Hm)Birleys Limited (w),street,1,5,4,0,0
+Sulte K3 Cubrian Hse,street,1,5,4,0,0
 217 Marsh Wall ,street,,5,4,0,0
-London ,,,5,4,0,0
-3 w). ,,,5,4,0,0
-00 34 52 78 1621 Mar) ,phone,,5,4,0,0
+London  E149FJ,address,,5,4,0,0
+02075138886 (w),phone,1,5,4,0,0
+00 34 52 78 1621 Mar) ,phone,1,5,4,0,0
 020 7538 1347 (w) ,phone,0,5,4,1,0
-"Bismarck, Debbie & ",person_name,,5,5,0,0
+"Bismarck, Debbie & ",person_name,1,5,5,0,1
 Bola Von ,,,5,5,0,0
-1 Gerald Road ,street,,5,5,0,0
-"London, SW1W 9EH ",,,5,5,0,0
-0207-808 4800 67 ,phone,,5,5,0,0
+1 Gerald Road ,street,1,5,5,0,0
+"London, SW1W 9EH ",street,,5,5,0,0
+0207-808 4800 67 ,phone,1,5,5,0,0
 0207-808 4801(hi ,phone,,5,5,0,0
 Email: bis-,,1,5,5,0,0
 marck@netcomuk.co.uk. ,email,,5,5,0,0
-0207-730 6224 ,phone,,5,5,0,0
+0207-730 6224 ,phone,1,5,5,0,0
 07 77 05 23 026 (p) ,phone,,5,5,0,0
 Bismark Vanessa Von ,person_name,,5,5,0,1
-43 West 13th St. ,street,,5,5,0,0
-Apt. PHF ,,,5,5,0,0
+43 West 13th St. ,street,1,5,5,0,0
+Apt. PHF ,street,,5,5,0,0
 New York ,address,,5,5,0,0
 "NY, 10011 ",zip,,5,5,0,0
-001 917 497 4970 ,phone,,5,5,0,0
+001 917 497 4970 ,phone,1,5,5,0,0
 001 212 741 0141/w) ,phone,,5,5,0,0
 Um 112 West 27th (w) ,address,,5,5,0,0
-001 212 645 6331 {h) ,phone,,5,5,0,1
-001 212 529 3400 ,phone,,5,5,0,0
-001 212 517 5697 ,phone,,5,5,0,0
+001 212 645 6331 {h) ,phone,1,5,5,0,1
+001 212 529 3400 ,phone,1,5,5,0,0
+001 212 517 5697 ,phone,1,5,5,0,0
 001 212 741 0630 (wf) ,phone,0,5,5,0,0
 CW V1 ,address,0,5,5,0,1
-"Bisson, Jean Marc ",person_name,,5,5,0,0
-001 212 989 4228 (h) ,phone,,5,5,0,0
-001 917 699 4523 p) ,phone,,5,5,0,0
+"Bisson, Jean Marc ",person_name,,5,5,0,1
+001 212 989 4228 (h) ,phone,1,5,5,0,0
+001 917 699 4523 p) ,phone,1,5,5,0,0
 001 917 983 0642 Beeper ,phone,0,5,5,0,0
 "Bjorlin, Jean Paul ",person_name,,5,5,0,1
-Juilliard School ,,,5,5,0,0
+Juilliard School ,company,,5,5,0,0
 60 Lincoln Center Plaza ,street,,5,5,0,0
-Box 800 ,,,5,5,0,0
+Box 800 ,address,,5,5,0,0
 "NY, NY 10023 ",zip,,5,5,0,0
-1,,0,5,5,1,0
+9178229168,phone,,5,5,1,0
 0208-964 2662h) ,phone,,6,2,0,0
 "Bodini, Daniel ",person_name,,6,2,0,1
-American Properties ,,,6,2,0,0
+American Properties ,company,,6,2,0,0
 400 Park Avenue ,street,,6,2,0,0
 "New York, New York ",address,,6,2,0,0
-001 212 826 9700 (w) ,phone,,6,2,0,0
+001 212 826 9700 (w) ,phone,1,6,2,0,0
 212 935 0773 (h) ,phone,,6,2,0,0
-(HmyHome) ,,,6,2,0,0
+(Hm)Home) ,,,6,2,0,0
 800 Fifth Avenue ,street,,6,2,0,0
 "New York, NY 10023 ",zip,,6,2,0,0
-"Boisgelin, Edward ",person_name,,6,2,0,1
+"Boisgelin, Edward de",person_name,,6,2,0,1
 69 Stanhope Mews East ,street,,6,2,0,0
-London SW7. ,,,6,2,0,0
+London SW7. ,address,,6,2,0,0
 0207-584 1456 (h) ,phone,0,6,2,0,0
-"Boisguilbert, Pierre ",person_name,,6,2,0,1
-00 33 1 45 63 03 62 ,phone,,6,2,0,0
-00 33 147 71 08 54 ,phone,,6,2,0,0
+"Boisguilbert, Pierre de",person_name,,6,2,0,1
+00 33 1 45 63 03 62 ,phone,1,6,2,0,0
+00 33 147 71 08 54 ,phone,1,6,2,0,0
 00 33 1 4026 1529 fax ,phone,,6,2,0,0
 Bond Anabelle ,person_name,,6,2,0,1
 0776 6012181 ,phone,,6,2,0,0
 Email: ab@annabellebond.com ,email,,6,2,0,0
-"Bonomi, Andrea & ",person_name,,6,2,0,1
-Via della Spiga 26 ,,,6,2,0,0
+"Bonomi, Andrea & Giola",person_name,,6,2,0,1
+Via della Spiga 26 ,street,,6,2,0,0
 "Milano, 20121 ",zip,,6,2,0,0
-02 454 71579 ,phone,,6,2,0,0
+02 454 71579 ,phone,1,6,2,0,0
 0041795426093(Gp) ,phone,,6,2,0,0
 Email: gcbonomi@aol.com ,email,0,6,2,1,0
-Bookis Nicholas ,person_name,,6,3,0,0
+Bookis Nicholas ,person_name,,6,3,0,1
 001 212 265 6930h) ,phone,,6,3,0,0
 Booth Mark & Lauren ,person_name,,6,3,0,1
-NetJets ,,,6,3,0,0
+NetJets ,company,,6,3,0,0
 60 Sloane Avenue ,street,,6,3,0,0
-London SW3 3DO ,,,6,3,0,0
-020 7590 51101,phone,,6,3,0,0
+London SW3 3DO ,zip,,6,3,0,0
+020 7590 51101,phone,1,6,3,0,0
 0207-373 9847h,phone,,6,3,0,0
 Email: booh@netjats.com ,email,,6,3,0,0
 Hm 13 Collingham Gardens ,street,,6,3,0,0
 WOHS (),address,,6,3,0,0
-0207 7590 5117 (wi) ,phone,,6,3,0,0
-01111 110123 (p) ,phone,,6,3,0,0
-02c 7373 1350 ,phone,,6,3,0,0
-04711 795782 (car) ,phone,,6,3,0,0
-020 7590 5112 (w-direct) ,phone,,6,3,0,0
-Maria Bevan (asst) ,,,6,3,0,0
-"Boothe, Christina ",person_name,,6,3,0,1
+0207 7590 5117 (wi) ,phone,1,6,3,0,0
+01111 110123 (p) ,phone,1,6,3,0,0
+02c 7373 1350 ,phone,1,6,3,0,0
+04711 795782 (car) ,phone,1,6,3,0,0
+020 7590 5112 (w-direct) ,phone,1,6,3,0,0
+Maria Bevan (asst) ,phone,,6,3,0,0
+"Boothe, Christina A.",person_name,,6,3,0,1
 0207 -774 9857 (W) ,phone,,6,3,0,0
 Email: christina.boólhe@gs.com ,email,,6,3,0,0
 Borgese Paulo ,person_name,,6,3,0,1
-00 39 06 320 3804(0) ,phone,,6,3,0,0
-00 39 07 44 710294 ,phone,,6,3,0,0
-00 39 6 6880 46 51 (p) ,phone,,6,3,0,0
+00 39 06 320 3804(0) ,phone,1,6,3,0,0
+00 39 07 44 710294 ,phone,1,6,3,0,0
+00 39 6 6880 46 51 (p) ,phone,1,6,3,0,0
 00 39 348 410 9589 ,phone,,6,3,0,0
 "Borrico, Michael ",person_name,,6,3,0,1
-Plarident ,,,6,3,0,0
-"Contracting Inc, ",,,6,3,0,0
+President ,company,1,6,3,0,0
+"Contracting Inc, ",company,,6,3,0,0
 623 West 51st St. (h/w) ,street,,6,3,0,0
 "NY, NY 10019 ",zip,,6,3,0,0
-001 212 397 1945(w) ,phone,0,6,3,1,0
+001 212 397 1945(w) ,phone,1,6,3,1,0
 917 822 9168 ,phone,0,6,4,0,0
 "Black, Conrad & Barbara ",person_name,,6,4,0,1
-Hollinger International ,,,6,4,0,0
+Hollinger International ,company,,6,4,0,0
 712 Fifth Avenue ,street,,6,4,0,0
 "New York, NY 10019 ",zip,,6,4,0,0
-0207 938 11770 ,phone,,6,4,0,0
+0207 938 11770 ,phone,1,6,4,0,0
 1 416 441 2748 (h),phone,,6,4,0,0
 Email: cblack@poststamp.net (,email,,6,4,0,0
-(Am) Londen home ,,,6,4,0,0
+(Am) Londen home ,address,,6,4,0,0
 14 Coltesmore Gardens ,street,,6,4,0,0
-W SPR ,,,6,4,0,0
-641651 216 0467 ,phone,,6,4,0,0
-0207 538 621ğ (wLondon ,phone,,6,4,0,0
-10591 Toronto ,address,,6,4,0,0
-8888 London home) ,street,,6,4,0,0
-5666'Hallinger ,street,,6,4,0,0
-th) ,,,6,4,0,0
-4853 Fenny (Barbara's ,street,,6,4,0,0
-1 416 363 2454 (wt) Toronto ,phone,,6,4,0,0
-442074608888 ch) ,phone,,6,4,0,0
-561 833 7139 PB ,phone,,6,4,0,0
-44 20 7937 2686 London (hf) ,phone,,6,4,0,0
-212 452 1306 NY (hr) ,phone,,6,4,0,0
+"London, England w8 5PR",address,,6,4,0,0
+641651 216 0467 ,phone,1,6,4,0,0
+0207 55386219 (w)London ,phone,1,6,4,0,0
+14164410591 (f) Toronto ,phone,1,6,4,0,0
+02074608888 (London home) ,phone,1,6,4,0,0
+12125865666 Hollinger ,phone,1,6,4,0,0
+12124521301 (h),phone,1,6,4,0,0
+121298848534853 Fenny (Barbara's ,phone,1,6,4,0,0
+1 416 363 2454 (wt) Toronto ,phone,1,6,4,0,0
+442074608888 (h) ,phone,1,6,4,0,0
+561 833 7139 PB ,phone,1,6,4,0,0
+44 20 7937 2686 London (hf) ,phone,1,6,4,0,0
+212 452 1306 NY (hr) ,phone,1,6,4,0,0
 212 452 1306 NY hi) ,phone,0,6,4,0,0
-"Blacker (Blogs & Jill), Mr ",person_name,,6,4,0,1
+"Blacker (Blogs & Jill), Mr ",person_name,1,6,4,0,1
 &M ,,,6,4,0,0
-Oak Hanger ,,,6,4,0,0
-Reeds Lane ,street,,6,4,0,0
-Liss Hants ,,,6,4,0,0
+Oak Hanger ,street,1,6,4,0,0
+Reeds Lane ,street,1,6,4,0,0
+Liss Hants ,street,,6,4,0,0
 01730 892114 ,phone,0,6,4,1,0
-Blaine David ,person_name,,6,5,0,0
-917 523 4567(p) ,phone,,6,5,0,0
+Blaine David ,person_name,,6,5,0,1
+917 523 4567(p) ,phone,1,6,5,0,0
 917 771 7977' (colin hiss ,phone,,6,5,0,0
 Blair Tony ,person_name,,6,5,0,1
-sec Katie Kay ,,,6,5,0,0
+sec Katie Kay ,company,,6,5,0,0
 "0207-321 0905, ",phone,0,6,5,0,0
 Bloomberg Mike ,person_name,,6,5,0,1
-499 Park Avenue ,street,,6,5,0,0
+499 Park Avenue ,street,1,6,5,0,0
 15th Floor ,street,,6,5,0,0
 "New York, NY 10022 ",zip,,6,5,0,0
-001 212 772 1081 (h) ,phone,,6,5,0,0
+001 212 772 1081 (h) ,phone,1,6,5,0,0
 mbloomberg@bloomberg.net ,email,,6,5,0,0
-(Hm 17 Est 79th St ,,,6,5,0,0
-1212 318 2000 ext 2005 ,phone,,6,5,0,0
-007 914 273 2198 ,phone,,6,5,0,0
-001 917 692 924412 ,phone,,6,5,0,0
+(Hm 17 Est 79th St ,street,,6,5,0,0
+1212 318 2000 ext 2005 ,phone,1,6,5,0,0
+007 914 273 2198 ,phone,1,6,5,0,0
+001 917 692 924412 ,phone,1,6,5,0,0
 001 212 772 10811h ,phone,0,6,5,0,0
 Boardman Samantha ,person_name,,6,5,0,1
-001 212 737 4058 ,phone,,6,5,0,0
+001 212 737 4058 ,phone,1,6,5,0,0
 011 561 659 7899 ,phone,,6,5,0,0
 Email: ,,,6,5,0,0
-Boardman ,,,6,5,0,0
+Boardman ,person_name,1,6,5,0,1
 Serena ,,,6,5,0,0
-001 212 628 7542(h) ,phone,,6,5,0,0
+001 212 628 7542(h) ,phone,1,6,5,0,0
 001 471 1329(w) ,phone,,6,5,0,0
-"Boden, Johnie & ",person_name,,6,5,0,1
+"Boden, Johnie & Sophie",person_name,,6,5,0,1
 1 Dawson Place ,street,,6,5,0,0
-London W2 4TD. ,,,6,5,0,0
-0207-221 6013 (w) ,phone,0,6,5,1,0
+London W2 4TD. ,zip,,6,5,0,0
+0207-221 6013 (w) ,phone,1,6,5,1,0
 001 212 397 4454(h) ,phone,,7,2,0,0
 Email: mgbcert@aol.com ,email,,7,2,0,0
 001 646 641 6511 Cell ,phone,0,7,2,0,0
-"Bossom, Hon Bruce ",person_name,,7,2,0,1
+"Bossom, Hon Bruce ",person_name,1,7,2,0,1
 Penelope ,,,7,2,0,0
 34 Princedale Road ,street,,7,2,0,0
-"London W11 4NJ, ",,,7,2,0,0
-0385 89303 () ,phone,,7,2,0,0
-0386 89528 lax) ,phone,,7,2,0,0
+"London W11 4NJ, ",zip,,7,2,0,0
+0385 89303 () ,phone,1,7,2,0,0
+0386 89528 lax) ,phone,1,7,2,0,0
 0207-727 5127 (h) ,phone,,7,2,0,0
-Boucherie ,person_name,,7,2,0,1
+Boucherie ,person_name,1,7,2,0,1
 Sylvianne ,,,7,2,0,0
 90 Ave Du Maine ,street,,7,2,0,0
-Paris ,,,7,2,0,0
-75014,address,,7,2,0,0
-00 33 1 4321 60901h) ,phone,,7,2,0,0
+Paris ,address,,7,2,0,0
+75014,zip,,7,2,0,0
+00 33 1 4321 60901h) ,phone,1,7,2,0,0
 0033 1 4321 0786(0) ,phone,,7,2,0,0
 Email: sylvibou@club-internet.fr ,email,,7,2,0,0
 33 607 5597127) ,phone,,7,2,0,0
 "Bourke, Rick ",person_name,,7,2,0,1
-Fort Hills Lane ,,,7,2,0,0
+Fort Hills Lane ,street,,7,2,0,0
 "Greenwich, Conneticut, 06831 ",zip,,7,2,0,0
-001 203 853 7515th) ,phone,,7,2,0,0
-001 203 661 3753h ,phone,,7,2,0,0
-001 914 646 4000 ,phone,,7,2,0,0
+001 203 853 7515th) ,phone,1,7,2,0,0
+001 203 661 3753h ,phone,1,7,2,0,0
+001 914 646 4000 ,phone,1,7,2,0,0
 001 203 629 0157 ,phone,0,7,2,0,0
 "Bowles, Hamish ",person_name,,7,2,0,1
-Vouge ,,,7,2,0,0
-001 212 286 6077 ,phone,,7,2,0,0
-001 212 675 5608(b). ,phone,,7,2,0,0
-001 212 286 6037 ,phone,,7,2,0,0
-00 33 1 4544 1489 ) ,phone,,7,2,0,0
-0033 1441178 31/37 (w) ,phone,,7,2,0,0
-25. ,,0,7,2,1,0
+Vouge ,company,,7,2,0,0
+001 212 286 6077 ,phone,1,7,2,0,0
+001 212 675 5608(b). ,phone,1,7,2,0,0
+001 212 286 6037 ,phone,1,7,2,0,0
+00 33 1 4544 1489 ) ,phone,1,7,2,0,0
+0033 1441178 31/37 (w) ,phone,1,7,2,0,0
+25,,0,7,2,1,0
 0207-589 8919 ,phone,0,7,3,0,0
 and ,,,7,3,0,0
-Brachetti Peretti ,,,7,3,0,0
+Brachetti Peretti ,person_name,1,7,3,0,1
 ferdinando ,,,7,3,0,0
 Via Pincina 13 ,street,,7,3,0,0
-Rome ,,,7,3,0,0
-198,,,7,3,0,0
-0039 335 377 377(p) ,phone,,7,3,0,0
-00 39 0684 93 775w) ,phone,,7,3,0,0
+Rome ,address,,7,3,0,0
+198,phone,1,7,3,0,0
+0039 335 377 377(p) ,phone,1,7,3,0,0
+00 39 0684 93 775w) ,phone,1,7,3,0,0
 0039 0688 45000 (h) ,phone,,7,3,0,0
 "Brachetti, Hugo ",person_name,,7,3,0,1
-00 39 0688 41867 h} ,phone,,7,3,0,0
+00 39 0688 41867 (h),phone,,7,3,0,0
 Email: t.brachettiperetti@apioil ,email,,7,3,0,0
 00 39 0684 93404/3 (w) ,phone,,7,3,0,0
 "Braine, Caroline ",person_name,,7,3,0,1
+0207-351 1499 (h) ,phone,1,7,3,0,0
 0207-351 1499 (h) ,phone,,7,3,0,0
-0207-351 1499 (h) ,phone,,7,3,0,0
-"Braine, Ms Katie & ",person_name,,7,3,0,1
+"Braine, Ms Katie & ",person_name,1,7,3,0,1
 Serge ,,,7,3,0,0
-20 Cheney Row ,street,,7,3,0,0
-London SW3 5JB. ,,,7,3,0,0
-09725823810? ,phone,,7,3,0,0
-0207- 350 1614) ,phone,,7,3,0,0
-00 39 5 85700795 (Carera) ,phone,,7,3,0,0
-0956 505321 ,phone,,7,3,0,0
-00 33 90 05 7956 ,phone,0,7,3,1,0
+20 Cheney Row ,company,,7,3,0,0
+London SW3 5JB. ,zip,,7,3,0,0
+0956505321 (h) ,phone,1,7,3,0,0
+0207- 350 1614(w) ,phone,1,7,3,0,0
+00 39 5 85700795 (Carera) ,phone,1,7,3,0,0
+0956 505321 ,phone,1,7,3,0,0
+00 33 90 05 7956 ,phone,1,7,3,1,0
 001 561 795 4128 ) ,phone,,7,4,0,0
 "Branson, Richard ",person_name,,7,4,0,1
 80 Oxford Gardens ,street,,7,4,0,0
-"London SW10, ",,,7,4,0,0
-08675 3163 h ,phone,,7,4,0,0
+"London SW10, ",address,,7,4,0,0
+08675 3163 h ,phone,1,7,4,0,0
 0207-229 1282 (h) ,phone,0,7,4,0,0
 "Briatore, Flavio ",person_name,,7,4,0,1
-Fingest Manoz ,,,7,4,0,0
-Fingest ,,,7,4,0,0
-Hanley on Thame ,,,7,4,0,0
-44 1608 678 000 (w) ,phone,,7,4,0,0
+Fingest Manoz ,street,1,7,4,0,0
+Fingest ,street,1,7,4,0,0
+Hanley on Thame ,street,,7,4,0,0
+44 1608 678 000 (w) ,phone,1,7,4,0,0
 44 1608 678 804 ,phone,,7,4,0,0
 Email: flavio briatore@uk.renaul ,email,,7,4,0,0
-(Hm Renault FI Ltd. (w) ,,,7,4,0,0
-Chipping Norton ,,,7,4,0,0
-"Oxfordshire, OX7 4EE U.K. ",,,7,4,0,0
-+44 7785 307 306 (pl ,phone,,7,4,0,0
-+44 1491 639 610 ,phone,,7,4,0,0
-+44 7831 675 888 Rosella ,phone,,7,4,0,0
-(Flavio's asst.) ,,,7,4,0,0
-+44 1491 638'012 (50,phone,,7,4,0,0
-+44 1608 672 410 Direct ,phone,,7,4,0,0
-00871 3232 71 610 Boat Plane ,phone,,7,4,0,0
+(Hm Renault FI Ltd. (w) ,street,1,7,4,0,0
+Chipping Norton ,street,,7,4,0,0
+"Oxfordshire, OX7 4EE U.K. ",zip,,7,4,0,0
++44 7785 307 306 (pl ,phone,1,7,4,0,0
++44 1491 639 610 ,phone,1,7,4,0,0
++44 7831 675 888 Rosella ,phone,1,7,4,0,0
+(Flavio's asst.) ,phone,1,7,4,0,0
++44 1491 638'012 (50,phone,1,7,4,0,0
++44 1608 672 410 Direct ,phone,1,7,4,0,0
+00871 3232 71 610 Boat Plane ,phone,1,7,4,0,0
 +44 7785 307 306 Emer ,phone,,7,4,0,0
 "Broadhurst, Julia ",person_name,,7,4,0,1
-Speedo ,,,7,4,0,0
+Speedo ,company,,7,4,0,0
 4 Apple Lane ,street,,7,4,0,0
-Newlands 7700 ,,,7,4,0,0
-"Capetown, SA ",,,7,4,0,0
-00 27 21 881 3235h) ,phone,,7,4,0,0
+Newlands 7700 ,zip,,7,4,0,0
+"Capetown, SA ",address,,7,4,0,0
+00 27 21 881 3235h) ,phone,1,7,4,0,0
 0027 21 534 1431 w ,phone,,7,4,0,0
 Email: julia@cygnel.co.za ,email,0,7,4,1,0
-"Bram, Ben ",person_name,,7,5,0,0
+"Bram, Ben ",person_name,,7,5,0,1
 212 902 8620 ,phone,0,7,5,0,0
 Brand Tony ,person_name,,7,5,0,1
-Plein Sud ,,,7,5,0,0
-212 431 6500 ,phone,,7,5,0,0
+Plein Sud ,company,,7,5,0,0
+212 431 6500 ,phone,1,7,5,0,0
 212 431 6724 () ,phone,,7,5,0,0
 Email: tony@pleinsudny.com ,email,,7,5,0,0
 Brandolini d'Adda ,person_name,,7,5,0,1
-President-Exor ,,,7,5,0,0
-Georgina & überto ,,,7,5,0,0
+President-Exor ,company,1,7,5,0,0
+Georgina & überto ,company,,7,5,0,0
 19 Avenue Montaigne ,street,,7,5,0,0
 Paris 75008 : ,zip,,7,5,0,0
-060 751 7935georgina ,phone,,7,5,0,0
-01 44 4343 35 ,phone,,7,5,0,0
+060 751 7935georgina ,phone,1,7,5,0,0
+01 44 4343 35 ,phone,1,7,5,0,0
 01 4 952 0916 fax ,phone,,7,5,0,0
-Brandolini Nuno & ,person_name,,7,5,0,1
+Brandolini Nuno & ,person_name,1,7,5,0,1
 Muriel ,,,7,5,0,0
-167 E Roth (h) ,street,,7,5,0,0
+167 E 80th (h) ,street,,7,5,0,0
 NY NY 10021 ,zip,,7,5,0,0
-001 212 288 6930 (h) ,phone,,7,5,0,0
+001 212 288 6930 (h) ,phone,1,7,5,0,0
 212 286 6946 (ht) ,phone,,7,5,0,0
 Email: murielbran@aol.com ,email,,7,5,0,0
-108 Newtown Road ,street,,7,5,0,0
+108 Newtown Road ,street,1,7,5,0,0
 917 Pamplon) ,street,,7,5,0,1
-212 249 4920 w ,phone,,7,5,0,0
+212 249 4920 w ,phone,1,7,5,0,0
 212 288 6946 (w) ,phone,0,7,5,0,0
 Hamplon Says ,person_name,0,7,5,0,1
-"Brandt, Peter ",person_name,,7,5,0,0
+"Brandt, Peter ",person_name,,7,5,0,1
 001 561 798 0460 (h) ,phone,0,7,5,1,0
 pboulet@easynet.fr Pamela ,email,,8,2,0,0
-546 286 7000 () ,phone,,8,2,0,0
+546 286 7000 () ,phone,1,8,2,0,0
 011 336 1472 7262 Michael ,phone,,8,2,0,0
 646 638 3722 222 Eve (Jean ,phone,,8,2,0,0
 LUC'S PIA) ,,,8,2,0,0
 646 638 3738 Eve's fax # ,phone,,8,2,0,0
 011 5511 8135 8000 (P) Brazil ,phone,,8,2,0,0
 Bryer Tania ,person_name,,8,2,0,1
-Flar2 Walton Hse ,street,,8,2,0,0
-London SW3 ,,,8,2,0,0
+Flar2 Walton Hse ,company,,8,2,0,0
+London SW3 ,zip,,8,2,0,0
 0207-584 4410 ,phone,,8,2,0,0
 Buck Joan Juliet ,person_name,,8,2,0,1
 001 505 983 8683 ,phone,0,8,2,0,0
@@ -775,503 +775,503 @@ Buck Joan Juliet ,person_name,,8,2,0,1
 "Palm Beach, Florida 33480 ",zip,,8,2,0,0
 001 407 655 3668 ,phone,,8,2,0,0
 "Bull, Bartle ",person_name,,8,2,0,1
-"Jones, Hirsch, Conners & Aull ",,,8,2,0,0
+"Jones, Hirsch, Conners & Aull ",company,,8,2,0,0
 439 E. 51st Street ,address,,8,2,0,0
 "New York, NY 10022 ",zip,,8,2,0,0
-212 593 1694 (h) ,phone,,8,2,0,0
-214,,,8,2,0,0
+212 593 1694 (h) ,phone,1,8,2,0,0
+2125271360,phone,,8,2,0,0
 Email: bbull@jhcb.com ,email,,8,2,0,0
 845 373 8586* {h) ,phone,,8,2,0,0
-"Bullough, Hamish and ",person_name,,8,2,0,1
+"Bullough, Hamish and ",person_name,1,8,2,0,1
 Emma ,,,8,2,0,0
-Ashbocking Hse67 Abingdon Vill ,,,8,2,0,0
-Ashbocking ,,0,8,2,1,0
-Suffolk IP6 OLG ,person_name,,8,3,0,0
-01473 890130(. ,phone,,8,3,0,0
-01473 890131hi) ,phone,,8,3,0,0
-207 986 0260 wi ,phone,,8,3,0,0
-7831 191770 (0) ,phone,,8,3,0,0
+Ashbocking Hse67 Abingdon Vill ,street,1,8,2,0,0
+Ashbocking ,street,1,8,2,1,0
+Suffolk IP6 OLG ,street,,8,3,0,0
+01473 890130(. ,phone,1,8,3,0,0
+01473 890131hi) ,phone,1,8,3,0,0
+207 986 0260 wi ,phone,1,8,3,0,0
+7831 191770 (0) ,phone,1,8,3,0,0
 7774 728698 (car) ,phone,,8,3,0,0
 "Burckle, Ron ",person_name,,8,3,0,1
 9130 West Sunset Blvd. (W,street,,8,3,0,0
 "LA, CA 90069 ",zip,,8,3,0,0
-310 995 6995p ,phone,,8,3,0,0
-310 789 7295W ,phone,,8,3,0,0
+310 995 6995p ,phone,1,8,3,0,0
+310 789 7295W ,phone,1,8,3,0,0
 310 271 0098 (h} ,phone,,8,3,0,0
 "Burney, Mr Jules ",person_name,,8,3,0,1
-58 Bradbourne St ,street,,8,3,0,0
-London SW6 3TE ,,,8,3,0,0
-London SW6 ,,,8,3,0,0
-0207-736 2644() ,phone,,8,3,0,0
-0207-352 4001 ,phone,,8,3,0,0
-001 917 859 9090 ,phone,,8,3,0,0
+58 Bradbourne St ,street,1,8,3,0,0
+London SW6 3TE ,street,,8,3,0,0
+London SW6 ,zip,,8,3,0,0
+0207-736 2644() ,phone,1,8,3,0,0
+0207-352 4001 ,phone,1,8,3,0,0
+001 917 859 9090 ,phone,1,8,3,0,0
 0207-352 4001 (w) ,phone,0,8,3,0,0
 "Burtril, Martin ",person_name,,8,3,0,1
 001 212 941 1105 ,phone,,8,3,0,0
 "Bushnell, Candice ",person_name,,8,3,0,1
-001 212 886 3787 ,phone,,8,3,0,0
-001 212 734 3877 () ,phone,,8,3,0,0
-001 212 757 8100 ,phone,,8,3,0,0
+001 212 886 3787 ,phone,1,8,3,0,0
+001 212 734 3877 () ,phone,1,8,3,0,0
+001 212 757 8100 ,phone,1,8,3,0,0
 001 212 472 7400 ,phone,0,8,3,1,0
-"Bronfman, Jr.} , Edgar ",person_name,0,8,4,0,0
-"Broglie, Louis Albert ",person_name,,8,4,0,0
+"Bronfman, Jr., Edgar ",person_name,0,8,4,0,1
+"Broglie, Louis Albert ",person_name,,8,4,0,1
 14 rue de Franqueville ,street,,8,4,0,0
 Paris 75116 France ,zip,,8,4,0,0
 84 rue de Ranel ,street,,8,4,0,0
 "Paris, 75016 ",zip,0,8,4,0,0
-"Lexa Partners, LLC ",person_name,,8,4,0,1
+"Lexa Partners, LLC ",company,,8,4,0,1
 390 Park Avenue ,street,,8,4,0,0
 "New York, NY 10022 ",zip,,8,4,0,0
-212 433 1212 (w) ,phone,,8,4,0,0
+212 433 1212 (w) ,phone,1,8,4,0,0
 212 422 1213 wf) ,phone,0,8,4,0,0
-"Brooks, Christoper & ",person_name,,8,4,0,1
+"Brooks, Christoper & ",person_name,1,8,4,0,1
 Amanda ,,,8,4,0,0
-191 Chrystie Street ,street,,8,4,0,0
+191 Chrystie Street ,street,1,8,4,0,0
 Apartment 5R ,street,,8,4,0,0
-"New York, NY ",address,,8,4,0,0
-10002,address,,8,4,0,0
-212 614 2870 ) ,phone,,8,4,0,0
+"New York, NY ",address,1,8,4,0,0
+10002,zip,,8,4,0,0
+212 614 2870 ) ,phone,1,8,4,0,0
 001 212 583 3234ſaw,phone,,8,4,0,0
 Email: BrooksACC@aol.com ,email,,8,4,0,0
-0011 917 496 9772 Tap) ,phone,,8,4,0,0
+0011 917 496 9772 Tap) ,phone,1,8,4,0,0
 347 865 1847 (cp) ,phone,,8,4,0,0
 "Brooks, Miranda ",person_name,,8,4,0,1
 34 King Street ,street,,8,4,0,0
 New York 10014 ,zip,,8,4,0,0
-001 255 0395 ,phone,,8,4,0,0
+001 255 0395 ,phone,1,8,4,0,0
 001 917 378 3718 ,phone,,8,4,0,0
 Email: ,,,8,4,0,0
 mirandabrooks@mindspring. ,email,,8,4,0,0
-(Hm1001 212 243 2062w) ,phone,,8,4,0,0
-212 982 2860 Emergency Contadt ,,,8,4,0,0
-- Brother ,,0,8,4,1,0
-"de Brown, Chris & Alison ",person_name,,8,5,0,0
+(Hm1001 212 243 2062w) ,phone,1,8,4,0,0
+212 982 2860 Emergency Contadt ,phone,1,8,4,0,0
+Brother,phone,0,8,4,1,0
+"Brown, Chris & Alison ",person_name,,8,5,0,1
 "1 East 62nd, Stree! ",street,,8,5,0,0
 "New York, N.Y. 10021 ",zip,,8,5,0,0
-001 212 772-6435 ,phone,,8,5,0,0
+001 212 772-6435 ,phone,1,8,5,0,0
 0207-259 6441 ,phone,,8,5,0,0
 Email: clorown62@aol.com ,email,,8,5,0,0
-001 213 644 91507h) ,phone,,8,5,0,0
-001 212 582 3400 W ,phone,,8,5,0,0
+001 213 644 91507(h) ,phone,1,8,5,0,0
+001 212 582 3400 (W) ,phone,1,8,5,0,0
 001 212 560 5559aw) ,phone,,8,5,0,0
-"Bruce, James & ",person_name,,8,5,0,1
+"Bruce, James & ",person_name,1,8,5,0,1
 Lucinda ,,,8,5,0,0
 1st Peter's Square ,street,,8,5,0,0
-"London W6 GAB, ",,,8,5,0,0
-0208-741 2276 (h,phone,,8,5,0,0
+"London W6 GAB, ",zip,,8,5,0,0
+0208-741 2276 (h,phone,1,8,5,0,0
 0207-382 8617 (W) ,phone,,8,5,0,0
 "Brunel, Jean-Luc ",person_name,,8,5,0,1
-Karin Models ,,,8,5,0,0
+Karin Models ,company,,8,5,0,0
 "99, Boulevard Haussmann (h) ",street,,8,5,0,0
 "75008, Paris, France ",address,,8,5,0,0
 9 Avenue Hoche w ,street,,8,5,0,0
 "Paris, France 75008 ",zip,,8,5,0,0
 212 4100(w) ,phone,,8,5,0,0
 jeanluc@kárnmodels.com ,email,,8,5,0,0
-"(Hm/h721 Filih Avenue, 49J ",address,,8,5,0,0
-w] 6 W141h Street 3rd floor ,address,,8,5,0,0
+"(Hm/h721 Filih Avenue, 49J ",address,1,8,5,0,0
+w] 6 W141h Street 3rd floor ,address,1,8,5,0,0
 "New York, NY ",address,,8,5,0,0
-011 331 4265 1835 (h) ,phone,,8,5,0,0
-0823 (w) ,,,8,5,0,0
-+3314640 0503 Pamela (h) ,phone,,8,5,0,1
-911331 4563 5818 (w) ,phone,,8,5,0,0
-1516 537 3014 Pamelá til ,phone,,8,5,0,0
-1305 672 8300 Karins ,phone,,8,5,0,0
-+3314563 8949 (Pamela w) ,phone,,8,5,0,0
-213,,0,8,5,0,0
-131WYth ,,,8,5,0,0
+011 331 4265 1835 (h) ,phone,1,8,5,0,0
+001333145630823 (w) ,phone,1,8,5,0,0
++3314640 0503 Pamela (h) ,phone,1,8,5,0,1
+911331 4563 5818 (w) ,phone,1,8,5,0,0
+1516 537 3014 (Pamela h),phone,1,8,5,0,0
+1305 672 8300 Karins ,phone,1,8,5,0,0
++3314563 8949 (Pamela w) ,phone,1,8,5,0,0
+pboulet@easynet.fr Pamela ,email,0,8,5,0,0
+646286700 (p),phone,,8,5,0,0
 2010 (2) ,address,0,8,5,1,0
 0207-836 2002 (w) ,phone,,9,2,0,0
 Cadenet de Alain ,person_name,,9,2,0,1
-30 Queensgate Place Mews ,street,,9,2,0,0
-London SW7 ,,,9,2,0,0
-0207-373 38021h) ,phone,,9,2,0,0
+30 Queensgate Place Mews ,company,,9,2,0,0
+London SW7 ,address,,9,2,0,0
+0207-373 38021h) ,phone,1,9,2,0,0
 0207-584 5511(,phone,,9,2,0,0
 "Calacants, Jason ",person_name,,9,2,0,1
 601 W. 26th Street (h) ,address,,9,2,0,0
-212 475 8000x101 ,phone,,9,2,0,0
-917 597 6209 ,phone,,9,2,0,0
-212 627 9907 (h) ,phone,,9,2,0,0
+212 475 8000x101 ,phone,1,9,2,0,0
+917 597 6209 ,phone,1,9,2,0,0
+212 627 9907 (h) ,phone,1,9,2,0,0
 ) 0207-828 21780 ,phone,0,9,2,0,0
-"Caledon , Nicky ",,,9,2,0,0
-Caledon Castle ,,,9,2,0,0
-Caledon ,,,9,2,0,0
-Nr Armagh Co Tyrone ,,,9,2,0,0
-"Northern Ireland, ",,,9,2,0,0
-00 41 263 14777 (Verbier) ,phone,,9,2,0,0
-0861 568125 0. ,phone,,9,2,0,0
-0861 568 232 Ireland ,phone,,9,2,0,0
+"Caledon , Nicky ",person_name,,9,2,0,1
+Caledon Castle ,address,1,9,2,0,0
+Caledon ,address,1,9,2,0,0
+Nr Armagh Co Tyrone ,address,1,9,2,0,0
+"Northern Ireland, ",address,,9,2,0,0
+00 41 263 14777 (Verbier) ,phone,1,9,2,0,0
+0861 568125 0. ,phone,1,9,2,0,0
+0861 568 232 Ireland ,phone,1,9,2,0,0
 0207. 351 4544 th) ,phone,,9,2,0,0
 3 Pelyt Place London SW3 5D ,street,,9,2,0,0
-"Calvo-Platero, ",person_name,,9,2,0,1
+"Calvo-Platero, ",person_name,1,9,2,0,1
 Mario Ariadne ,,,9,2,0,0
 251 West 19th St. ,street,,9,2,0,0
 "New York, NY 10011 ",zip,,9,2,0,0
-212 529 9081 h ,phone,,9,2,0,0
+212 529 9081 h ,phone,1,9,2,0,0
 212 463 8897 (hh) ,phone,,9,2,0,0
 Email: aplatero@aqi.com ,email,,9,2,0,0
 001 212 755 7766 (MW) ,phone,0,9,2,1,0
-"Busson, Arki ",person_name,,9,3,0,0
+"Busson, Arki ",person_name,,9,3,0,1
 125 East 64 Street ,street,,9,3,0,0
 "New York, NY 10021 USA ",zip,,9,3,0,0
-0207-290 6100 ,phone,,9,3,0,0
-00 41 22 3636464 ,phone,,9,3,0,0
-001 212 472 8757 (h) ,phone,,9,3,0,0
-001 212 751 4510 ,phone,,9,3,0,0
+0207-290 6100 ,phone,1,9,3,0,0
+00 41 22 3636464 ,phone,1,9,3,0,0
+001 212 472 8757 (h) ,phone,1,9,3,0,0
+001 212 751 4510 ,phone,1,9,3,0,0
 00 33 1 4727 2021 (6) ,phone,,9,3,0,0
 "Butter, Charlie ",person_name,,9,3,0,1
 12 Pelham Crescent ,street,,9,3,0,0
-"London SW7 ZNP, UK ",,,9,3,0,0
-0207-589 72500h) ,phone,,9,3,0,0
-0207-495 4939(w) ,phone,,9,3,0,0
-01796 472 005 (h) Scotland ,phone,,9,3,0,0
+"London SW7 ZNP, UK ",address,,9,3,0,0
+0207-589 72500h) ,phone,1,9,3,0,0
+0207-495 4939(w) ,phone,1,9,3,0,0
+01796 472 005 (h) Scotland ,phone,1,9,3,0,0
 07 909 918 718 mobile ,phone,,9,3,0,0
 Button Terri ,person_name,,9,3,0,1
-Visa International ,,,9,3,0,0
+Visa International ,company,,9,3,0,0
 17 Smith Terrace ,street,,9,3,0,0
-London SW3 4DL ,,,9,3,0,0
-0795 842 0063 fB,phone,,9,3,0,0
+London SW3 4DL ,address,,9,3,0,0
+0795 842 0063 fB,phone,1,9,3,0,0
 0207 351 7638 ,phone,,9,3,0,0
 Email: terti_button@hotmail.com ,email,,9,3,0,0
-(Hm9 Sympson Close (parents,,,9,3,0,0
-Abingdon ,,,9,3,0,0
-Oxfordshire ,,,9,3,0,0
-OX14 5RB ,,,9,3,0,0
-01865 437505 (sister) ,phone,,9,3,0,0
-01235 529228 Parents ,phone,,9,3,0,0
-0207 795 5897 (w) ,phone,,9,3,0,0
+(Hm9 Sympson Close (parents,address,1,9,3,0,0
+Abingdon ,address,1,9,3,0,0
+Oxfordshire ,address,,9,3,0,0
+OX14 5RB ,zip,,9,3,0,0
+01865 437505 (sister) ,phone,1,9,3,0,0
+01235 529228 Parents ,phone,1,9,3,0,0
+0207 795 5897 (w) ,phone,1,9,3,0,0
 0207 351 7638 h) ,phone,,9,3,0,0
 "Byng, Robert ",person_name,,9,3,0,1
-Belgravia Court ,street,,9,3,0,0
+Belgravia Court ,street,1,9,3,0,0
 33 Ebury Street ,street,,9,3,0,0
-"London SW1, ",,,9,3,0,0
+"London SW1, ",address,,9,3,0,0
 WY6w ,,0,9,3,1,0
-001 620 9081 (h. ,phone,,9,4,0,0
-001 212 755 7766 AW) ,phone,,9,4,0,0
-001 637 283 1966 hampton ,phone,,9,4,0,0
-001 212 847 2759 car ,phone,,9,4,0,0
-001 212 463 8897 (hi) ,phone,,9,4,0,0
-001 917 355 5337 {mp) ,phone,,9,4,0,0
-1314854,phone,,9,4,0,0
+001 620 9081 (h. ,phone,1,9,4,0,0
+001 212 755 7766 AW) ,phone,1,9,4,0,0
+001 637 283 1966 hampton ,phone,1,9,4,0,0
+001 212 847 2759 car ,phone,1,9,4,0,0
+001 212 463 8897 (hi) ,phone,1,9,4,0,0
+001 917 355 5337 {mp) ,phone,1,9,4,0,0
+1314854,phone,1,9,4,0,0
 001 917 856 9980 p) ,phone,,9,4,0,0
 Cambell Roddy ,person_name,,9,4,0,1
-0207-221 4264h) ,phone,,9,4,0,0
-0370 606081p ,phone,,9,4,0,0
+0207-221 4264h) ,phone,1,9,4,0,0
+0370 606081p ,phone,1,9,4,0,0
 0207-292 5695 office ,phone,0,9,4,0,0
 "Cambell, Alistar ",person_name,,9,4,0,1
 10 Downing St ,street,,9,4,0,0
-0207-930 4433 ,phone,,9,4,0,0
+0207-930 4433 ,phone,1,9,4,0,0
 0207 930 4433 #10 Downing ,phone,,9,4,0,0
 Street ,street,,9,4,0,0
 "Camerana, Giancarlo ",person_name,,9,4,0,1
-0041 1 201 5930 (w,phone,0,9,4,0,0
+0041 1 201 5930 (w,phone,,9,4,0,0
 Cammy ,person_name,,9,4,0,1
 917 859 5005 ,phone,,9,4,0,0
 "Campbell, Naomi ",person_name,,9,4,0,1
-126-127 Pier House ,,,9,4,0,0
+126-127 Pier House ,street,1,9,4,0,0
 31 Cheyne Watk ,street,,9,4,0,0
-London ,,,9,4,0,0
-"SW3 OXX, ",,,9,4,0,0
+London ,address,,9,4,0,0
+"SW3 OXX, ",zip,,9,4,0,0
 0207-376'7308(h) ,phone,0,9,4,1,0
 347,,,9,5,0,0
 1456,,0,9,5,0,0
 001 310 625 5500() ,phone,,9,5,0,0
 Email: 4284063@skytel.com ,email,,9,5,0,0
 (Hmclo NC Connect ,,,9,5,0,0
-601 West 26th Street ,street,,9,5,0,0
-Suite 1150 ,,,9,5,0,0
+601 West 26th Street ,street,1,9,5,0,0
+Suite 1150 ,street,,9,5,0,0
 "New York, NY 1000 1 ",address,,9,5,0,0
-97785 363 369 cell ,phone,,9,5,0,0
-66780/8 home ,,,9,5,0,0
-212 320 3636 Connect {w} ,phone,,9,5,0,0
-922 1456 ) ,phone,,9,5,0,0
-00 55 11 9998 6257 () Brazil ,phone,,9,5,0,0
-001 212 489 0039 (h) ,phone,,9,5,0,0
-212 320 3640 AsstArrel ,,,9,5,0,0
+07785 363 369 cell ,phone,1,9,5,0,0
+3102766780/8 home ,phone,1,9,5,0,0
+212 320 3636 NC Connect {w} ,phone,1,9,5,0,0
+001347922 1456 (p),phone,1,9,5,0,0
+00 55 11 9998 6257 () Brazil ,phone,1,9,5,0,0
+001 212 489 0039 (h) ,phone,1,9,5,0,0
+212 320 3640 AsstArrel ,phone,1,9,5,0,0
 212 320 3725 (w) NC Connect ,phone,,9,5,0,0
-Campo del Brooke & ,person_name,,9,5,0,1
-Emilio ,,,9,5,0,0
+Campo del Brooke & ,person_name,1,9,5,0,1
+Emilio ,person_name,,9,5,0,0
 33 Hyde Park Gate ,street,,9,5,0,0
-London SW7 5DN ,,,9,5,0,0
+London SW7 5DN ,address,,9,5,0,0
 0207-584 7886(h,phone,,9,5,0,0
 "Candole, Andrew de ",person_name,,9,5,0,1
-Flat 1 ,street,,9,5,0,0
+Flat 1 ,street,1,9,5,0,0
 6 Lowndes St ,street,,9,5,0,0
-London SW1 ,,,9,5,0,0
-017 823 3737 (w) ,phone,,9,5,0,0
-0467 777666 ,phone,,9,5,0,0
-0207-736 9669 ,phone,,9,5,0,0
+London SW1 ,address,,9,5,0,0
+017 823 3737 (w) ,phone,1,9,5,0,0
+0467 777666 ,phone,1,9,5,0,0
+0207-736 9669 ,phone,1,9,5,0,0
 0831 121988 ,phone,,9,5,0,0
 "Candy, Nicholas AC ",person_name,,9,5,0,1
-Candy and Candy Ltd ,,,9,5,0,0
+Candy and Candy Ltd ,company,,9,5,0,0
 50 Lower Belgrave St. ,street,,9,5,0,0
-"London, England swiW ONR ",,,9,5,0,0
+"London, England swiW ONR ",address,,9,5,0,0
 Email: nick@candyandcandy.com ,email,,9,5,0,0
-(0) 44 (0) 20 7824 7526 ,phone,,9,5,0,0
-p) 44 0) 7770 888 130 ,phone,0,9,5,1,0
+(0) 44 (0) 20 7824 7526 ,phone,1,9,5,0,0
+p) 44 0) 7770 888 130 ,phone,1,9,5,1,0
 (1) 44 (0) 20 7824 7521 ,phone,0,10,2,0,0
 Caprice ,person_name,,10,2,0,1
-0797 476 7885 ,phone,,10,2,0,0
+0797 476 7885 ,phone,1,10,2,0,0
 001 310 344 8904 (P) ,phone,,10,2,0,0
 Carello Sara Massimo ,person_name,,10,2,0,1
 0207-584 6919 ,phone,0,10,2,0,0
 "Carey, William & Carina ",person_name,,10,2,0,1
 57 Basuta Road ,street,,10,2,0,0
-London SW6 4BZ. ,,,10,2,0,0
+London SW6 4BZ. ,address,,10,2,0,0
 0207-731 1826 (h) ,phone,,10,2,0,0
 Carlbom Camila ,person_name,,10,2,0,1
 157 W 4th St ,street,,10,2,0,0
 NY NY 10014 ,zip,,10,2,0,0
-001 212 2422 8445 ,phone,,10,2,0,0
+001 212 2422 8445 ,phone,1,10,2,0,0
 001 917 539 1033 ,phone,,10,2,0,0
 Carmine ,person_name,,10,2,0,1
-00 39 0823906750 ,phone,,10,2,0,0
+00 39 0823906750 ,phone,1,10,2,0,0
 00 33 3933323678 ,phone,0,10,2,0,0
 "Carrera, Barbara ",person_name,,10,2,0,1
 001 213 475 9867 (fax) ,phone,0,10,2,1,0
-"Caruth, Sophie ",person_name,,10,3,0,0
+"Caruth, Sophie ",person_name,,10,3,0,1
 0705 0096823 ,phone,,10,3,0,0
 148 Belle Vue Road ,street,,10,3,0,0
-Wandsworth Common ,,,10,3,0,0
+Wandsworth Common ,address,1,10,3,0,0
 SW17 TEG ,address,,10,3,0,0
 0208-672 8276 ,phone,0,10,3,0,0
-"Carvalho, Michel & ",person_name,,10,3,0,1
+"Carvalho, Michel & ",person_name,1,10,3,0,1
 Charlene ,,,10,3,0,0
 35 Egerton Cresent ,street,,10,3,0,0
-London SW3,,,10,3,0,0
+London SW3,address,,10,3,0,0
 0207-730 1679 (h) ,phone,,10,3,0,0
 "Casagrande, Guido ",person_name,,10,3,0,1
 5 Via Borgonuoo ,street,,10,3,0,0
-Milan Italy ,,,10,3,0,0
-00 39 2 86464802 () ,phone,,10,3,0,0
-00 39 878451 w ,phone,,10,3,0,0
-00 39 3053341 (,phone,,10,3,0,0
-00 39 2 8787341 ax) ,phone,,10,3,0,0
-00 39 335284407(P) ,phone,,10,3,0,0
+Milan Italy ,address,,10,3,0,0
+00 39 2 86464802 () ,phone,1,10,3,0,0
+00 39 878451 w ,phone,1,10,3,0,0
+00 39 3053341 (,phone,1,10,3,0,0
+00 39 2 8787341 ax) ,phone,1,10,3,0,0
+00 39 335284407(P) ,phone,1,10,3,0,0
 001 516 537 5487 ,phone,0,10,3,0,0
 Case Simon ,person_name,,10,3,0,1
-00 62 21392 9866 ,phone,,10,3,0,0
+00 62 21392 9866 ,phone,1,10,3,0,0
 00 62 811 803090 ,phone,0,10,3,0,0
 "Case, George & Pauline ",person_name,,10,3,0,1
 34 Talbot Rd ,street,,10,3,0,0
-London W2 5JG ,,,10,3,0,0
+London W2 5JG ,address,,10,3,0,0
 0207-229 1022 ,phone,0,10,3,1,0
-Castaneda Debbie ,person_name,,10,4,0,0
+Castaneda Debbie ,person_name,,10,4,0,1
 335 634 9863 ,phone,,10,4,0,0
 "Cator, Alby and Victoria ",person_name,,10,4,0,1
-55 Melbury Road ,street,,10,4,0,0
-Flal 1 ,,,10,4,0,0
-"London, W14 BAD ",,,10,4,0,0
-0207-602-9377 (h) ,phone,,10,4,0,0
-01603 72 1050 ,phone,,10,4,0,0
+55 Melbury Road ,street,1,10,4,0,0
+Flat 1 ,street,,10,4,0,0
+"London, W14 BAD ",address,,10,4,0,0
+0207-602-9377 (h) ,phone,1,10,4,0,0
+01603 72 1050 ,phone,1,10,4,0,0
 Email: 0585 336319 ,phone,,10,4,0,0
 Cecil Mark & Mini ,person_name,,10,4,0,1
 PO Box 49428 ,zip,,10,4,0,0
-Nairobi Kenya ,,,10,4,0,0
-00 501 506/7/8 ,phone,,10,4,0,0
+Nairobi Kenya ,phone,1,10,4,0,0
+00 501 506/7/8 ,phone,1,10,4,0,0
 00 501 754) ,phone,,10,4,0,0
 Cecil Mark & Mini ,person_name,,10,4,0,1
-The Lawn Hise ,,,10,4,0,0
-Hatfield Park ,,,10,4,0,0
-Hatfield ,,,10,4,0,0
-"Herts, ",,,10,4,0,0
+The Lawn Hise ,address,1,10,4,0,0
+Hatfield Park ,address,1,10,4,0,0
+Hatfield ,address,1,10,4,0,0
+"Herts, ",address,,10,4,0,0
 01707 251395 ,phone,,10,4,0,0
-"Cecil Stephenson, ",person_name,,10,4,0,1
+"Cecil Stephenson, ",person_name,1,10,4,0,1
 Aurelia ,,,10,4,0,0
-Hugditch Cottage ,,,10,4,0,0
-Ramsbury ,,,10,4,0,0
-Wilts ,,,10,4,0,0
+Hugditch Cottage ,street,,10,4,0,0
+Ramsbury ,address,1,10,4,0,0
+Wilts ,address,1,10,4,0,0
 SNS 2HL ,address,,10,4,0,0
-0207-357 2227(w) ,phone,,10,4,0,0
+0207-357 2227(w) ,phone,1,10,4,0,0
 0207-584-2001,phone,,10,4,0,0
 Email: cecil@aurelia_london.co.u ,email,,10,4,0,0
-0468 992400 ,phone,0,10,4,1,0
+0468 992400 ,phone,1,10,4,1,0
 1672521237,phone,0,10,5,0,0
 "Cecil, Dr. Mark ",person_name,,10,5,0,1
 Alexander Square ,street,,10,5,0,0
-London ,,,10,5,0,0
+London ,address,1,10,5,0,0
 "SW3 2AY, UK ",address,,10,5,0,0
-207 225 0031 () ,phone,,10,5,0,0
+207 225 0031 () ,phone,1,10,5,0,0
 207 225 0081chi ,phone,,10,5,0,0
 Email: mark.cecil@gigpartners.co ,email,,10,5,0,0
-07456 262626 () ,phone,,10,5,0,0
+07456 262626 () ,phone,1,10,5,0,0
 784 488 8890 (Mustique) ,phone,,10,5,0,0
 "Cerina, Fabrizio ",person_name,,10,5,0,1
 Credit des Alpes ,street,,10,5,0,0
-Via Nassa 56 ,,,10,5,0,0
-"gang, ",,,10,5,0,0
-001 917 496 060610) ,phone,,10,5,0,0
+Via Nassa 56 ,address,1,10,5,0,0
+6901 Lugano,address,,10,5,0,0
+001 917 496 060610) ,phone,1,10,5,0,0
 011447900 88868366) ,phone,,10,5,0,0
 Email: fc@creditdesalges.com ,email,,10,5,0,0
-00 39 29 006 262 (hjMilan ,phone,,10,5,0,0
-00 39 659 5803 (wf) ,phone,,10,5,0,0
-00 39 026318 (w,phone,,10,5,0,0
-001212 371 6353 () ,phone,,10,5,0,0
-00 41 91 923 7185 (w Lugano ,phone,,10,5,0,0
-00 A1 31923 1435 ,phone,,10,5,0,0
-8001 w Geneva ,street,,10,5,0,0
-+44 7900 8888 83 () ,phone,,10,5,0,0
-+39 335 4214 ,phone,,10,5,0,0
-917 496 0606 ) ,phone,,10,5,0,0
-+41 91 923 7185 (Giancarlo ,phone,,10,5,0,0
+00 39 29 006 262 (hjMilan ,phone,1,10,5,0,0
+00 39 659 5803 (wf) ,phone,1,10,5,0,0
+00 39 026318 (w,phone,1,10,5,0,0
+001212 371 6353 () ,phone,1,10,5,0,0
+00 41 91 923 7185 (w Lugano ,phone,1,10,5,0,0
+00 A1 31923 1435 ,phone,1,10,5,0,0
+0041227318001 w Geneva ,phone,1,10,5,0,0
++44 7900 8888 83 () ,phone,1,10,5,0,0
++39 335 4214 ,phone,1,10,5,0,0
+917 496 0606 ) ,phone,1,10,5,0,0
++41 91 923 7185 (Giancarlo ,phone,1,10,5,0,0
 "Cammarata, PA) ",,,10,5,0,0
 Cerutti Gian Carlo ,person_name,,10,5,0,1
-Via Adam 66 ,,,10,5,0,0
+Via Adam 66 ,street,,10,5,0,0
 0039 142 459443 (wy ,phone,,10,5,0,0
 "15033, Casave Monferrato ",address,,10,5,0,0
-00 39 142 459439 w ,phone,,10,5,0,0
-0412 132 131 8071 w ,phone,0,10,5,1,0
-0207 373 3131 ,phone,,11,2,0,0
+00 39 142 459439 w ,phone,1,10,5,0,0
+0412 132 131 8071 w ,phone,1,10,5,1,0
+0207 373 3131 ,phone,1,11,2,0,0
 0468 275 050(p) ,phone,,11,2,0,0
 Cipriani Guiseppi ,person_name,,11,2,0,1
-212 499 0599 (w) ,phone,,11,2,0,0
+212 499 0599 (w) ,phone,1,11,2,0,0
 917 353 3445 ,phone,0,11,2,0,0
-"Cisneros, Gustavo and ",person_name,,11,2,0,1
+"Cisneros, Gustavo and ",person_name,1,11,2,0,1
 Patty ,,,11,2,0,0
 950 5th Avenue ,street,,11,2,0,0
 "New York, New York 10021 ",zip,,11,2,0,0
 001 212 717-5880 (h) ,phone,,11,2,0,0
 "Claverino, Amadeo ",person_name,,11,2,0,1
-"00 39 2 600 3666 b), ",phone,,11,2,0,0
+"00 39 2 600 3666 b), ",phone,1,11,2,0,0
 00 39 2 583 05 00 7(w) ,phone,,11,2,0,0
 "Claverino, Isabel ",person_name,,11,2,0,1
-00 7231 8479 ,phone,,11,2,0,0
+00 7231 8479 ,phone,1,11,2,0,0
 (HM)00 39 335 826 0541 ,phone,,11,2,0,0
 Cleese John Alice Fay ,person_name,,11,2,0,1
-sec gary ,,,11,2,0,0
-0207-229 6344(h) ,phone,,11,2,0,0
+sec gary ,company,,11,2,0,0
+0207-229 6344(h) ,phone,1,11,2,0,0
 0207-221 24721w) ,phone,,11,2,0,0
-"Clempson, Graham & ",person_name,,11,2,0,1
+"Clempson, Graham & ",person_name,1,11,2,0,1
 Emma ,,,11,2,0,0
 30 Sloane Court West ,street,,11,2,0,0
-London SW3. ,,0,11,2,1,0
-0207-730 2851 (h) ,phone,,11,3,0,0
+London SW3. ,address,0,11,2,1,0
+0207-730 2851 (h) ,phone,1,11,3,0,0
 0207-982 2085 (W) ,phone,,11,3,0,0
 "Clive, Lucy ",person_name,,11,3,0,1
 45 Elgin Crescent ,street,,11,3,0,0
-London ,,,11,3,0,0
+London ,address,1,11,3,0,0
 W112JU ,address,,11,3,0,0
 0207-231-7677 (h) ,phone,,11,3,0,0
-OYUNS.co.uk ,,,11,3,0,0
-001-908-234-2554 New Jersey ,phone,,11,3,0,0
-0207-235-1186 Uncle ,phone,,11,3,0,0
+lclive.co.uk ,email,,11,3,0,0
+001-908-234-2554 New Jersey ,phone,1,11,3,0,0
+0207-235-1186 Uncle ,phone,1,11,3,0,0
 001 516 353 1926 (P) ,phone,0,11,3,0,0
 "Coben, Larry ",person_name,,11,3,0,1
-Sunrise Capital Partners ,,,11,3,0,0
+Sunrise Capital Partners ,company,,11,3,0,0
 101 W 12th Street Appt 35 ,street,,11,3,0,0
 NY NY 10011 USA ,zip,,11,3,0,0
-001 212 996 6266 ,phone,,11,3,0,0
+001 212 996 6266 ,phone,1,11,3,0,0
 212 582 3015 (w,phone,,11,3,0,0
 Email: coben@hihz.com ,email,,11,3,0,0
 "Hm}685 Third Ave, 15th floor ",address,,11,3,0,0
 "New York, NY 10017-4024 ",zip,,11,3,0,0
-001212 675 3385 (h) ,phone,,11,3,0,0
-001212 582 3015 (W,phone,,11,3,0,0
+001212 675 3385 (h) ,phone,1,11,3,0,0
+001212 582 3015 (W,phone,1,11,3,0,0
 212 497 4259 direct dial (w) ,phone,,11,3,0,0
 "Cochrane, Ms Mandy ",person_name,,11,3,0,1
 2 Paplar Grove ,street,,11,3,0,0
-London W6 7RF ,,,11,3,0,0
-0494 672492 (W) ,phone,,11,3,0,0
+London W6 7RF ,address,,11,3,0,0
+0494 672492 (W) ,phone,1,11,3,0,0
 0207-603 6807 (h) ,phone,,11,3,0,0
 Cohen Dalit ,person_name,,11,3,0,1
 76 Elm Park Mansions ,street,0,11,3,1,0
 152 474 9880 (w) ,phone,0,11,4,0,0
 & Lucy ,,,11,4,0,0
-"Chatwal, Vikram ",person_name,,11,4,0,0
-Hampshire Hotels & Resorts ,,,11,4,0,0
-595 Eleventh Ave. ,street,,11,4,0,0
-bet. 44th & 45th . ,,,11,4,0,0
+"Chatwal, Vikram ",person_name,,11,4,0,1
+Hampshire Hotels & Resorts ,company,,11,4,0,0
+595 Eleventh Ave. ,street,1,11,4,0,0
+bet. 44th & 45th . ,street,,11,4,0,0
 "New York, NY 10036 ",zip,,11,4,0,0
-320 2900 ,phone,,11,4,0,0
-Hm i Central Park West #32F ,address,,11,4,0,0
+1212320 2900 ,phone,,11,4,0,0
+Hm i Central Park West #32F ,address,1,11,4,0,0
 10023,address,,11,4,0,0
 1 917 442 7425 (p) ,phone,,11,4,0,0
 "Chenevix-Trench, John ",person_name,,11,4,0,1
-4 Albert Place ,street,,11,4,0,0
-"London, W8 5FD ",,,11,4,0,0
-0207-376-1193 ,phone,,11,4,0,0
-0385 778862 ,phone,,11,4,0,0
-0033 53 90 3937 (c) ,phone,,11,4,0,0
-0207-425 7672 w ,phone,,11,4,0,0
+4 Albert Place ,street,1,11,4,0,0
+"London, W8 5FD ",street,,11,4,0,0
+0207-376-1193 ,phone,1,11,4,0,0
+0385 778862 ,phone,1,11,4,0,0
+0033 53 90 3937 (c) ,phone,1,11,4,0,0
+0207-425 7672 w ,phone,1,11,4,0,0
 0207-376 1193 ,phone,0,11,4,0,0
 Cicogna Gianluca ,person_name,,11,4,0,1
 1020 5th Avenue ,address,,11,4,0,0
 14th loor ,street,,11,4,0,0
 "New York, NY 10028 ",zip,,11,4,0,0
-001 646 521 8510(W} ,phone,,11,4,0,0
+001 646 521 8510(W} ,phone,1,11,4,0,0
 0207-225 0350(,phone,,11,4,0,0
 Email: 9c@zanel.com ,email,,11,4,0,0
-001 212 388 0224 (h) ,phone,,11,4,0,0
+001 212 388 0224 (h) ,phone,1,11,4,0,0
 001 917 554 8110 (p,phone,,11,4,0,0
 "Cicogna, Geoconda ",person_name,,11,4,0,1
-15 Queens Gate Gons ,street,,11,4,0,0
-London SW7 ,,,11,4,0,0
-0207-589 1953/581 451 (h) ,phone,0,11,4,1,0
-0207-551 555 ,phone,,11,5,0,0
+15 Queens Gate Gons ,street,1,11,4,0,0
+London SW7 ,street,,11,4,0,0
+0207-589 1953/581 451 (h) ,phone,1,11,4,1,0
+0207-551 555 ,phone,1,11,5,0,0
 00 00 34 34 52 52 855010 855247 ( ( marblittle house) ) ,phone,0,11,5,0,0
 "Cicogna, Gianfranco ",person_name,,11,5,0,1
-70a Fulham Road ,street,,11,5,0,0
-"London $63, ",,,11,5,0,0
+70a Fulham Road ,street,1,11,5,0,0
+"London S63, ",street,,11,5,0,0
 Email: ,,,11,5,0,0
 gcicogna@ursustel.net ,email,,11,5,0,0
-0207-584 ,phone,,11,5,0,0
-00 27 11 8041996 (0,phone,,11,5,0,0
+0207-5845656 ,phone,1,11,5,0,0
+00 27 11 8041996 (f),phone,1,11,5,0,0
 3880 h. ,,,11,5,0,0
-071 978 1224 (fax) ,phone,,11,5,0,0
-0860 363891 ,phone,,11,5,0,0
+071 978 1224 (fax) ,phone,1,11,5,0,0
+0860 363891 ,phone,1,11,5,0,0
 010 27 54 33 11191 (S. Africa-,phone,1,11,5,0,0
 00 27 833 23 0000 () ,phone,,11,5,0,0
 "Cicogna, Marina ",person_name,,11,5,0,1
-00 0039 39 6 6 6788234 9026023 (Rome Rome) ,phone,,11,5,0,0
+00 0039 39 6 6 6788234 9026023 (Rome Rome) ,phone,1,11,5,0,0
 00 41 82 34584 (SIM,phone,0,11,5,0,0
-"Gicognani, Pietro ",person_name,,11,5,0,1
+"Cicognani, Pietro ",person_name,1,11,5,0,1
 &Alejandra ,,,11,5,0,0
 125E 74th St ,address,,11,5,0,0
 "New York, NY 10021 ",zip,,11,5,0,0
-001 2126287661h). ,phone,,11,5,0,0
-001 212 245 4860(W) ,phone,,11,5,0,0
-001 2iž 249 8812 h ,phone,,11,5,0,0
-001 212 308 4811 (w ,phone,,11,5,0,0
+001 2126287661h). ,phone,1,11,5,0,0
+001 212 245 4860(W) ,phone,1,11,5,0,0
+001 2iž 249 8812 h ,phone,1,11,5,0,0
+001 212 308 4811 (w ,phone,1,11,5,0,0
 212 249 7514 w ,phone,,11,5,0,0
 "Clerach, Linska ",person_name,,11,5,0,1
-The Studio ,,,11,5,0,0
+The Studio ,street,1,11,5,0,0
 ic Clareville Grove ,street,,11,5,0,0
-London ,,,11,5,0,0
+London ,address,1,11,5,0,0
 "SW7 3AU, ",address,0,11,5,1,0
-Park Walk ,person_name,,12,2,0,0
-London SW10 ,,,12,2,0,0
-0207-995 8984 w} ,phone,,12,2,0,0
-0207-349 0310h) ,phone,,12,2,0,0
-07 880 736 286 cell ,phone,,12,2,0,0
+Cohen Dalit ,person_name,,12,2,0,1
+London SW10 ,address,,12,2,0,0
+0207-995 8984 w} ,phone,1,12,2,0,0
+0207-349 0310h) ,phone,1,12,2,0,0
+07 880 736 286 cell ,phone,1,12,2,0,0
 0207 573 0055 (wt) ,phone,,12,2,0,0
 Cohen Peter ,person_name,,12,2,0,1
-400 South Paint Drive ,street,,12,2,0,0
-Apt. 2402 ,,,12,2,0,0
-Miami Beach ,,,12,2,0,0
+400 South Paint Drive ,street,1,12,2,0,0
+Apt. 2402 ,street,,12,2,0,0
+Miami Beach ,address,,12,2,0,0
 "FL, 33139 ",zip,,12,2,0,0
-001 305 531 5370(h) ,phone,,12,2,0,0
+001 305 531 5370(h) ,phone,1,12,2,0,0
 001 305 772 39661p ,phone,,12,2,0,0
 Email: peter@thebox.com ,email,,12,2,0,0
 305 583 9936 ,phone,0,12,2,0,0
 "Coleman, jo ",person_name,,12,2,0,1
-001 212 260 7210 w) ,phone,,12,2,0,0
+001 212 260 7210 w) ,phone,1,12,2,0,0
 001 212 751 8654 h) ,phone,,12,2,0,0
-(Hm 166 E. 63rd St. ,address,,12,2,0,0
-12A ,address,,12,2,0,0
+(Hm 166 E. 63rd St. ,address,1,12,2,0,0
+12A ,address,1,12,2,0,0
 New York ,address,,12,2,0,0
 "NY10021, ",zip,0,12,2,0,0
-"Coleridge, Nicholas & ",person_name,,12,2,0,1
+"Coleridge, Nicholas & ",person_name,1,12,2,0,1
 Georgia ,,,12,2,0,0
 38 Princedale Road ,street,,12,2,0,0
-"London, W11 4NL ",,,12,2,0,0
+"London, W11 4NL ",zip,,12,2,0,0
 01144 207 221 4293(h ,phone,,12,2,0,0
 Email: ,,,12,2,0,0
 Acoleridge@condenast.co.u ,email,,12,2,0,0
-Q20 7499 9080 Nick (w] ,phone,,12,2,0,0
-020 7499 0052 Nick () ,phone,,12,2,0,0
+Q20 7499 9080 Nick (w] ,phone,1,12,2,0,0
+020 7499 0052 Nick () ,phone,1,12,2,0,0
 020 7221 4293 () ,phone,0,12,2,1,0
-Home: ,person_name,,12,3,0,0
-"Cooke, Clive ",person_name,,12,3,0,0
+Home: ,,,12,3,0,0
+"Cooke, Clive ",person_name,,12,3,0,1
 721 Fifth Avenue #63H ,street,,12,3,0,0
 "New York, NY 10022 ",zip,,12,3,0,0
 001 212 421 5085 h) ,phone,,12,3,0,0
@@ -1282,61 +1282,61 @@ W: 001 212 668 9668 ,phone,,12,3,0,0
 7715172772,phone,0,12,3,0,0
 "Cordle, Ms Rachel ",person_name,,12,3,0,1
 54A Radcliffe Square ,street,,12,3,0,0
-London SW15 6BL ,,,12,3,0,0
-0207-370 3943 (h) ,phone,,12,3,0,0
+London SW15 6BL ,zip,,12,3,0,0
+0207-370 3943 (h) ,phone,1,12,3,0,0
 0207-581 7034 (W) ,phone,0,12,3,0,0
-"Cordle, Rupert & ",person_name,,12,3,0,1
+"Cordle, Rupert & ",person_name,1,12,3,0,1
 Camilla ,,,12,3,0,0
 33 Albert Bridge ed ,street,,12,3,0,0
-London ,,,12,3,0,0
+London ,address,1,12,3,0,0
 SW11 4PX ,address,,12,3,0,0
 0207-738 8997 ,phone,,12,3,0,0
 Email: rupert.cordle@ukonline.co ,email,,12,3,0,0
 Hm 34C Albert Bridge Road (w,street,,12,3,0,0
-London SW11 4PY ,,,12,3,0,0
-207 498 5649(w ,phone,,12,3,0,0
-07831 584 053 (Rp) ,phone,,12,3,0,0
+London SW11 4PY ,zip,,12,3,0,0
+207 498 5649(w ,phone,1,12,3,0,0
+07831 584 053 (Rp) ,phone,1,12,3,0,0
 207 498 5689 (Asst. Afise) ,phone,,12,3,0,0
-"Cordova Hohenlohe, ",person_name,,12,3,0,1
+"Cordova Hohenlohe, ",person_name,1,12,3,0,1
 Fernando de ,,,12,3,0,0
-Bidasoa #6 ,,,12,3,0,0
+Bidasoa #6 ,address,1,12,3,0,0
 28002 Madrid ,address,,12,3,0,0
 120 1/2 East 65th St. ,street,0,12,3,1,0
-Colle ,person_name,,12,4,0,0
+Colle ,person_name,1,12,4,0,1
 Jeffrey ,,,12,4,0,0
-001 212 308 85551 ,phone,,12,4,0,0
-001212 988 4410th ,phone,,12,4,0,0
-001 407 798 08081h ,phone,,12,4,0,0
-001 516 537 2203h ,phone,,12,4,0,0
-001 516 324 8500 ,phone,,12,4,0,0
+001 212 308 85551 ,phone,1,12,4,0,0
+001212 988 4410th ,phone,1,12,4,0,0
+001 407 798 08081h ,phone,1,12,4,0,0
+001 516 537 2203h ,phone,1,12,4,0,0
+001 516 324 8500 ,phone,1,12,4,0,0
 001 516 443 8500{p) ,phone,,12,4,0,0
 Collins Phil & Orianne ,person_name,,12,4,0,1
 41 22 994 40 14 (W) ,phone,,12,4,0,0
 Email: criannecollins@littledrea ,email,,12,4,0,0
-41 22 994 40 11(h) ,phone,,12,4,0,0
+41 22 994 40 11(h) ,phone,1,12,4,0,0
 41 79 414 94 05 p) ,phone,,12,4,0,0
 "Conrad, Henrietta ",person_name,,12,4,0,1
 4a Pambridge Mews ,street,,12,4,0,0
-London W1 ,,,12,4,0,0
-0207-221 6370 (h). ,phone,,12,4,0,0
-07831 372264 (ph) ,phone,,12,4,0,0
-0207-792 3933 Tax ,phone,,12,4,0,0
-0207-712 9300 (W) ,phone,,12,4,0,0
+London W1 ,address,,12,4,0,0
+0207-221 6370 (h). ,phone,1,12,4,0,0
+07831 372264 (ph) ,phone,1,12,4,0,0
+0207-792 3933 Tax ,phone,1,12,4,0,0
+0207-712 9300 (W) ,phone,1,12,4,0,0
 72435101,phone,0,12,4,0,0
-"Constantine, Susannah ",person_name,,12,4,0,1
+"Constantine, Susannah ",person_name,1,12,4,0,1
 Sten Ber ,,,12,4,0,0
 40 Brymer Ro ,street,,12,4,0,0
-London SW11 4EW ,,,12,4,0,0
-0207-316 3212(W) ,phone,,12,4,0,0
+London SW11 4EW ,zip,,12,4,0,0
+0207-316 3212(W) ,phone,1,12,4,0,0
 0207 720 8882h) ,phone,,12,4,0,0
 Email: ,,,12,4,0,0
-"SContantineHa @breathmail,ne ",email,,12,4,0,0
+"SContantineHa @breathmail,ne ",email,1,12,4,0,0
 0797 Susannan@ready2.com181 56957). (w) ,email,,12,4,0,0
 00 33 9054 3592(Fra) ,phone,0,12,4,1,0
 "New York, NY 10021 ",zip,,12,5,0,0
-001 212 772 1029 ,phone,,12,5,0,0
-00 34 11 75 75 Spain ,phone,,12,5,0,0
-001212 826 7426 (W) ,phone,,12,5,0,0
+001 212 772 1029 ,phone,1,12,5,0,0
+00 34 11 75 75 Spain ,phone,1,12,5,0,0
+001212 826 7426 (W) ,phone,1,12,5,0,0
 001 212 421 1430 (h) ,phone,,12,5,0,0
 "Cotterell, Harry ",person_name,,12,5,0,1
 Byford Court ,street,,12,5,0,0
@@ -1364,31 +1364,31 @@ house@cowdray.demon.co.uk ,email,,12,5,0,0
 Email: cawcowie@aol.com ,email,,12,5,0,0
 001 917 601 1203 Stuart ,phone,,12,5,0,0
 917-667-7870 Colin Portable ,,0,12,5,1,0
-"Crabbe, Sophie ",person_name,,13,2,0,0
+"Crabbe, Sophie ",person_name,,13,2,0,1
 223 Cranmer Cour ,street,,13,2,0,0
-"Whitehead Grove, London ",,,13,2,0,0
+"Whitehead Grove, London ",address,1,13,2,0,0
 SW3 3HD ,address,,13,2,0,0
-01144207-58 1 8920(h) ,phone,,13,2,0,0
+01144207-58 1 8920(h) ,phone,1,13,2,0,0
 07768 208 209 cell ,phone,0,13,2,0,0
 "Cudro, Alalstar ",person_name,,13,2,0,1
 00 3315 389 4762 (h) ,phone,0,13,2,0,0
 "Curry, R. Boykin ",person_name,,13,2,0,1
-Eagle Capital Management ,,,13,2,0,0
+Eagle Capital Management ,company,,13,2,0,0
 499 Park Avenue ,street,,13,2,0,0
 "New York, NY 10022 ",zip,,13,2,0,0
 212,,,13,2,0,0
 4001 () ,,,13,2,0,0
 212 293 4045 wt ,phone,,13,2,0,0
-Hm 106 Central Park South ,street,,13,2,0,0
-Apt. 27A ,,,13,2,0,0
+Hm 106 Central Park South ,street,1,13,2,0,0
+Apt. 27A ,street,,13,2,0,0
 "New York, NY 10019 ",zip,,13,2,0,0
 001 917 572 4659 (p) ,phone,,13,2,0,0
-"Cutter, Amanda ",person_name,,13,2,0,1
+"Cutter, Amanda ",person_name,1,13,2,0,1
 "and Brooks, Christopher ",,,13,2,0,0
-191 Chrystie Street ,street,,13,2,0,0
+191 Chrystie Street ,street,1,13,2,0,0
 Apartment 5R ,street,,13,2,0,0
 "New York, NY ",address,,13,2,0,0
-212 614 2870 (h) ,phone,,13,2,0,0
+212 614 2870 (h) ,phone,1,13,2,0,0
 917 496 9772. ap) ,phone,,13,2,0,0
 Email: Brooks Acc@aol.com ,email,,13,2,0,0
 347 865 1847 (cp) ,phone,0,13,2,0,0
@@ -1406,83 +1406,83 @@ Cambridgeshire ,,,13,3,0,0
 0223 290328 (cf ,phone,0,13,3,0,0
 "D'Alessie, Carman ",person_name,,13,3,0,1
 001 212 245 9914 ,phone,0,13,3,0,0
-"d'Arenberg, Prince Pi. ",person_name,,13,3,0,1
+"d'Arenberg, Prince Pi. ",person_name,1,13,3,0,1
 erre ,,,13,3,0,0
 125 est 72nd ,address,,13,3,0,0
 212 752 8888 ,phone,,13,3,0,0
-"(Hm 1, Route de lá Batiaz ",,,13,3,0,0
+"(Hm 1, Route de lá Batiaz ",street,1,13,3,0,0
 1008 Jouxteris-Mezery ,street,,13,3,0,0
-Switzerland ,,,13,3,0,0
-0207-225 0404) ,phone,,13,3,0,0
-0207-351 5428 ,phone,,13,3,0,0
-00 33 4864 8016 ) ,phone,,13,3,0,0
-00 33 248 64 80 16 ,phone,,13,3,0,0
-001 212 734 9400(sylvia) ,phone,,13,3,0,0
+Switzerland ,country,,13,3,0,0
+0207-225 0404) ,phone,1,13,3,0,0
+0207-351 5428 ,phone,1,13,3,0,0
+00 33 4864 8016 ) ,phone,1,13,3,0,0
+00 33 248 64 80 16 ,phone,1,13,3,0,0
+001 212 734 9400(sylvia) ,phone,1,13,3,0,0
 01152 315 35 10157 Mexica (w) ,phone,,13,3,0,0
-d'Uzes ,person_name,,13,3,0,1
-Jacques de ,,,13,3,0,0
+d'Uzes ,person_name,1,13,3,0,1
+Jacques de ,,1,13,3,0,0
 crussol ,,,13,3,0,0
 W} ,address,,13,3,0,0
 00 33 42 888688 ,phone,0,13,3,1,0
-"Dabbagh, Amr A. ",person_name,,13,4,0,0
-011 966 2669 7220(W) ,phone,,13,4,0,0
+"Dabbagh, Amr A. ",person_name,,13,4,0,1
+011 966 2669 7220(W) ,phone,1,13,4,0,0
 011 966 2669 618410,phone,,13,4,0,0
 Email: amrdabbagh@aol.com ,email,,13,4,0,0
 01144 778 533 3365 p) ,phone,0,13,4,0,0
 "Dahl, Sophie ",person_name,,13,4,0,1
-01 212 925 8484(h) ,phone,,13,4,0,0
+01 212 925 8484(h) ,phone,1,13,4,0,0
 01 646 244 7739p) ,phone,,13,4,0,0
 "Darrin, Drake ",person_name,,13,4,0,1
 West 81st Street ,street,,13,4,0,0
-New York ,address,,13,4,0,0
+New York ,address,1,13,4,0,0
 10024,address,,13,4,0,0
-001212 580 0555 (h) ,phone,,13,4,0,0
-001 212 644-6001 W ,phone,,13,4,0,0
+001212 580 0555 (h) ,phone,1,13,4,0,0
+001 212 644-6001 W ,phone,1,13,4,0,0
 001 212 273 0643 (0) ,phone,,13,4,0,0
-NY ,address,0,13,4,0,1
-Dartmouth William ,,,13,4,0,0
+NY ,address,0,13,4,0,0
+Dartmouth William ,person_name,,13,4,0,1
 16 Westbourne Terrace ,street,,13,4,0,0
-London W2 3UW ,,,13,4,0,0
-0207-723 6728 ,phone,,13,4,0,0
+London W2 3UW ,zip,,13,4,0,0
+0207-723 6728 ,phone,1,13,4,0,0
 0207-224 8446 0 ,phone,,13,4,0,0
 Email: William@williamdarmouth,email,,13,4,0,0
 Davies Jeff ,person_name,,13,4,0,1
 001 213 280 6686(p) ,phone,,13,4,0,0
-Emal: megaje @mac.com ,email,,13,4,0,0
+Emal: megaje @mac.com ,email,1,13,4,0,0
 magr) ,,0,13,4,1,0
-"Davies, David & Linda ",person_name,,13,5,0,0
+"Davies, David & Linda ",person_name,,13,5,0,1
 85 Eaton Place ,street,,13,5,0,0
-London SW1. ,,,13,5,0,0
-0207-730 1517 (h) ,phone,,13,5,0,0
+London SW1. ,address,,13,5,0,0
+0207-730 1517 (h) ,phone,1,13,5,0,0
 0207-730 2931 (0) ,phone,,13,5,0,0
 Davis Michael ,person_name,,13,5,0,1
-001 310 503 22332) ,phone,,13,5,0,0
+001 310 503 22332) ,phone,1,13,5,0,0
 001 212 9882386(),phone,,13,5,0,0
 Email: midav@earthlink.com ,email,,13,5,0,0
 "Day, Nick and Heather ",person_name,,13,5,0,1
-P& Development Company ,,,13,5,0,0
+P& Development Company ,company,,13,5,0,0
 PO Box 34 ,address,,13,5,0,0
-2 Rumuruti Kenya ,street,,13,5,0,0
+2 Rumuruti Kenya ,street,1,13,5,0,0
 12 Fawceti Street Fiat #3 ,street,,13,5,0,0
-00 2549374811 nil ,phone,,13,5,0,0
-00 254744008 (fax ,phone,,13,5,0,0
-0207-352 2553 {} ,phone,0,13,5,0,0
+00 2549374811 nil ,phone,1,13,5,0,0
+00 254744008 (fax ,phone,1,13,5,0,0
+0207-352 2553 {} ,phone,1,13,5,0,0
 . 001 312 717 7109 (W) ,phone,0,13,5,0,0
 "de Andrade, Marcelo ",person_name,,13,5,0,1
 Rua Euclides Figueiredo 76 ,street,,13,5,0,0
-"Jardin Botanico, RJ Brazil ",,,13,5,0,0
+"Jardin Botanico, RJ Brazil ",address,,13,5,0,0
 22261-070 ,phone,,13,5,0,0
 Emailmicadoc@attglobal.net ,email,,13,5,0,0
-HmAv. Presidente Wilson 164 ,,,13,5,0,0
-"Cobertura, ",,,13,5,0,0
-Centro RJ Brazil ,,,13,5,0,0
-8496 (p) ,,,13,5,0,0
+HmAv. Presidente Wilson 164 ,address,1,13,5,0,0
+"Cobertura, ",address,1,13,5,0,0
+Centro RJ Brazil ,address,1,13,5,0,0
+8496 (p) ,address,,13,5,0,0
 21 2532 5184 (,phone,,13,5,0,0
 2350 (0) ,address,,13,5,0,0
-00 55 21 9986 5233 ,phone,,13,5,0,0
-001 917 699 8496 () ,phone,,13,5,0,0
-0033 1 5359 9798 w) ,phone,,13,5,0,0
-00 33 1 1544 4713 p) ,phone,0,13,5,1,0
+00 55 21 9986 5233 ,phone,1,13,5,0,0
+001 917 699 8496 () ,phone,1,13,5,0,0
+0033 1 5359 9798 w) ,phone,1,13,5,0,0
+00 33 1 1544 4713 p) ,phone,1,13,5,1,0
 55 21 2524 5682 (wf) ,phone,,14,2,0,0
 "de Baecque, Patrick ",person_name,,14,2,0,1
 33 8 11 87 9260 ,phone,,14,2,0,0
@@ -1491,152 +1491,152 @@ pdebaecque@lefigaro.fr ,email,,14,2,0,0
 "de Cabrol, Milly ",person_name,,14,2,0,1
 150 East 72nd Street ,street,,14,2,0,0
 "New York, NY 10021 ",zip,,14,2,0,0
-001 212 988 4912 ,phone,,14,2,0,0
-901 516 725 7225 ,phone,,14,2,0,0
+001 212 988 4912 ,phone,1,14,2,0,0
+901 516 725 7225 ,phone,1,14,2,0,0
 (HM)001 917 533 5580 Jelp ,phone,0,14,2,0,0
 "De Cadenet, Alen ",person_name,,14,2,0,1
-0207-5 84 551? ,phone,,14,2,0,0
+0207-5 84 551? ,phone,1,14,2,0,0
 001 213 654 0384 ,phone,0,14,2,0,0
-de Clermont-Tonnerre,person_name,,14,2,0,1
+de Clermont-Tonnerre,person_name,1,14,2,0,1
 Hermine ,,,14,2,0,0
-Princess ,,,14,2,0,0
+Princess ,company,,14,2,0,0
 19 Rue de Saules ,street,,14,2,0,0
 Paris 75018 ,zip,,14,2,0,0
-00 331 4050 90 11th ,phone,,14,2,0,0
-00 33 6 07243091 ,phone,,14,2,0,0
+00 331 4050 90 11th ,phone,1,14,2,0,0
+00 33 6 07243091 ,phone,1,14,2,0,0
 0771 886 0683 ,phone,0,14,2,0,0
 "De Georgiou, Anouska ",person_name,,14,2,0,1
-28 Porten Road ,street,,14,2,0,0
-"London, W14 OLQ ",,,14,2,0,0
-07775 73878410) ,phone,,14,2,0,0
+28 Porten Road ,street,1,14,2,0,0
+"London, W14 OLQ ",street,,14,2,0,0
+07775 73878410) ,phone,1,14,2,0,0
 0207 602 7213 mom's friend ,phone,0,14,2,1,0
-"De Soto, Fernando ",person_name,,14,3,0,0
-Ninez De Balboa 81 ,,,14,3,0,0
+"De Soto, Fernando ",person_name,,14,3,0,1
+Ninez De Balboa 81 ,street,,14,3,0,0
 "Madrid, Spain 28006 ",zip,,14,3,0,0
 00 341-575-9595 ,phone,0,14,3,0,0
-"Dedieu, Jean & ",person_name,,14,3,0,1
+"Dedieu, Jean & ",person_name,1,14,3,0,1
 Paulette ,,,14,3,0,0
-Port de Lanne Malson Tartas ,,,14,3,0,0
-40300,address,,14,3,0,0
-Peyrehorade ,,,14,3,0,0
-France ,,,14,3,0,0
-00 33 58 891623 (h) ,phone,,14,3,0,0
+Port de Lanne Malson Tartas ,company,,14,3,0,0
+40300,address,1,14,3,0,0
+Peyrehorade ,address,,14,3,0,0
+France ,country,,14,3,0,0
+00 33 58 891623 (h) ,phone,1,14,3,0,0
 00 33 1 4233 0319 ,phone,0,14,3,0,0
 "Del Bono, Luca ",person_name,,14,3,0,1
-Quintessentially ,,,14,3,0,0
-15-19 Great Titchfield Street ,,,14,3,0,0
-"London, United Kingdom WIW ",,,14,3,0,0
+Quintessentially ,company,,14,3,0,0
+15-19 Great Titchfield Street ,street,,14,3,0,0
+"London, United Kingdom WIW ",address,,14,3,0,0
 0201 0207 908 908 7270 1495 ((wh W,phone,,14,3,0,0
 ", delbono@quintessentially ",email,,14,3,0,0
-Hm 80 Broad Street ,street,,14,3,0,0
+Hm 80 Broad Street ,street,1,14,3,0,0
 5th Floor ,street,,14,3,0,0
 "New York, NY 10004 ",zip,,14,3,0,0
-1 212 837 7740 (w ,phone,,14,3,0,0
-1917 320 6405 (w) ,phone,,14,3,0,0
-0164 632 5689 ,phone,,14,3,0,0
+1 212 837 7740 (w ,phone,1,14,3,0,0
+1917 320 6405 (w) ,phone,1,14,3,0,0
+0164 632 5689 ,phone,1,14,3,0,0
 0796 629 0008 (2) ,phone,0,14,3,0,0
 Email: ,,,14,3,0,0
 91129193839,phone,,14,3,0,0
-"Deil, Adam ",person_name,,14,3,0,0
+"Deil, Adam ",person_name,,14,3,0,1
 001 212 219 3931 ,phone,0,14,3,0,0
-Deluca Dina & Fouard ,person_name,,14,3,0,1
+Deluca Dina & Fouard ,person_name,1,14,3,0,1
 Chartuuni ,,,14,3,0,0
 1001 Fifth Avenue ,street,,14,3,0,0
 "New York, NY 10028 ",zip,0,14,3,1,0
 011 917 592 5424(dp) ,phone,,14,4,0,0
-(Hm 28 E 63rd St. ,,,14,4,0,0
+(Hm 28 E 63rd St. ,address,1,14,4,0,0
 New York ,address,,14,4,0,0
 NY 10021 ,zip,,14,4,0,0
-001 212 695 68242 ,phone,,14,4,0,0
-on 833 ,,,14,4,0,0
-0751 h) ,,,14,4,0,0
-001 3643 c),phone,,14,4,0,0
+001 212 695 68242 ,phone,1,14,4,0,0
+on 833 ,phone,1,14,4,0,0
+0751 h) ,phone,1,14,4,0,0
+001 3643 c),phone,1,14,4,0,0
 001 212 687 3500 fw) ,phone,,14,4,0,0
-Derby Earl /Cntess Cass ,person_name,,14,4,0,1
+Derby Earl /Cntess Cass ,person_name,1,14,4,0,1
 & Ted ,,,14,4,0,0
 1 Netherton Grove ,street,,14,4,0,0
-London SW10 9TQ ,,,14,4,0,0
-0207-352 5959 (1) ,phone,,14,4,0,0
+London SW10 9TQ ,zip,,14,4,0,0
+0207-352 5959 (1) ,phone,1,14,4,0,0
 0207-352 4468185 ,phone,,14,4,0,0
 Email: derby@knowsley.com ,email,,14,4,0,0
-Hm Vinowśley ,,,14,4,0,0
-"Werseyside, L34 4AF UK ",,,14,4,0,0
-489 6147 Merseyside ,,,14,4,0,0
+Hm Vinowśley ,street,,14,4,0,0
+"Werseyside, L34 4AF UK ",address,,14,4,0,0
+489 6147 Merseyside ,phone,1,14,4,0,0
 0131 482 1988 Merseyside ,phone,,14,4,0,0
 07000 ODERBY personal ,address,,14,4,0,0
-01785 904 624 D- portable ,phone,,14,4,0,0
-0774 130 526 CD-portable ,phone,,14,4,0,0
-0207 409 5600 (w1 ,phone,,14,4,0,0
-0207 409 5710 w-direct) ,phone,,14,4,0,0
+01785 904 624 D- portable ,phone,1,14,4,0,0
+0774 130 526 CD-portable ,phone,1,14,4,0,0
+0207 409 5600 (w1 ,phone,1,14,4,0,0
+0207 409 5710 w-direct) ,phone,1,14,4,0,0
 0151 482 1988 wf) ,phone,,14,4,0,0
 "Derby, Ros & Jonathan ",person_name,,14,4,0,1
 659 Radcliffe Avenue ,street,,14,4,0,0
 "Pacific Palisades, CA 90272 ",zip,,14,4,0,0
-001 310 230-3041 h ,phone,,14,4,0,0
-001 310 230-3051'i ,phone,,14,4,0,0
+001 310 230-3041 h ,phone,1,14,4,0,0
+001 310 230-3051'i ,phone,1,14,4,0,0
 001 310 280 7855{w} ,phone,,14,4,0,0
 "Di Vita, Charlotte ",person_name,,14,4,0,1
 917 539 0769 (p) ,phone,0,14,4,1,0
-"Dickenson, Debbie ",person_name,,14,5,0,0
+"Dickenson, Debbie ",person_name,,14,5,0,1
 "240 E, 75 St ",address,,14,5,0,0
 "NY, NY 10021 ",zip,,14,5,0,0
 001 212 734 3455 ,phone,0,14,5,0,0
 "Dickinson, Janice ",person_name,,14,5,0,1
-001 310-441-0048 (w ,phone,,14,5,0,0
-001 310-441-0068 ,phone,,14,5,0,0
-001 212-245-6713 Chris Royer ,,,14,5,0,0
-Dietrich Marc Antoine ,person_name,,14,5,0,1
+001 310-441-0048 (w ,phone,1,14,5,0,0
+001 310-441-0068 ,phone,1,14,5,0,0
+001 212-245-6713 Chris Royer ,phone,,14,5,0,0
+Dietrich Marc Antoine ,person_name,1,14,5,0,1
 and Cath ,,,14,5,0,0
 51 Ave Montigne ,street,,14,5,0,0
 Paris 75008 ,zip,,14,5,0,0
 00 331 4256 9672 ,phone,,14,5,0,0
 "Dletrich, Paul & Laura ",person_name,,14,5,0,1
-President ,,,14,5,0,0
-"Meridian Emerging Markets, Ltd ",,,14,5,0,0
+President ,company,1,14,5,0,0
+"Meridian Emerging Markets, Ltd ",company,,14,5,0,0
 1141 Cuslis St. (h&w) ,street,,14,5,0,0
-Alexandria ,,,14,5,0,0
+Alexandria ,address,1,14,5,0,0
 VA ,address,,14,5,0,0
-001 703 660 9080 (h) ,phone,,14,5,0,0
+001 703 660 9080 (h) ,phone,1,14,5,0,0
 001 703 768 9780W ,phone,,14,5,0,0
 Email: udyo@worldnélatt.nel(L) ,email,,14,5,0,0
-703 768 9779 h&w) ,phone,,14,5,0,0
+703 768 9779 h&w) ,phone,1,14,5,0,0
 001 703 927 7090 (LP) ,phone,0,14,5,0,0
 22308,address,,14,5,0,0
-Dimbelby Johnathan ,,,14,5,0,0
-0207-221 4545 ,phone,,14,5,0,0
-0207-792 1068 ,phone,0,14,5,1,0
+Dimbelby Johnathan ,person_name,,14,5,0,1
+0207-221 4545 ,phone,1,14,5,0,0
+0207-792 1068 ,phone,1,14,5,1,0
 Email: 0171-243 164311) ,phone,,15,2,0,0
 "Diniz, Pedro ",person_name,,15,2,0,1
-PPD Sports ,,,15,2,0,0
-"Rua Amauri, 255-1. Andar ",,,15,2,0,0
-Brazil ,,,15,2,0,0
-1448,,,15,2,0,0
-01133 614 14 84 84 ,phone,,15,2,0,0
-55 11 3077 5151 ,phone,,15,2,0,0
-011 5511 9981 7005 Brazil ,phone,,15,2,0,0
-0115511 388 601666 (Paula) ,phone,,15,2,0,0
+PPD Sports ,company,,15,2,0,0
+"Rua Amauri, 255-1. Andar ",address,,15,2,0,0
+Brazil ,country,,15,2,0,0
+1448,phone,1,15,2,0,0
+01133 614 14 84 84 ,phone,1,15,2,0,0
+55 11 3077 5151 ,phone,1,15,2,0,0
+011 5511 9981 7005 Brazil ,phone,1,15,2,0,0
+0115511 388 601666 (Paula) ,phone,1,15,2,0,0
 55 11 3079 9938 (w) ,phone,,15,2,0,0
 "Dixon, Alexandra ",person_name,,15,2,0,1
-17 Seaton Close ,street,,15,2,0,0
+17 Seaton Close ,street,1,15,2,0,0
 Lynden Gate ,street,,15,2,0,0
-Putney Heath ,,,15,2,0,0
-LondonSW15 3TJ UK ,,,15,2,0,0
-+44 20 8785 2518 (h) ,phone,,15,2,0,0
+Putney Heath ,address,,15,2,0,0
+LondonSW15 3TJ UK ,zip,,15,2,0,0
++44 20 8785 2518 (h) ,phone,1,15,2,0,0
 01144794 768 9936() ,phone,,15,2,0,0
 alexandra@dixon91073.free ,email,,15,2,0,0
-Um Kismet ,,,15,2,0,0
-Traviesa 7 ,,,15,2,0,0
-Los Monteros ,,,15,2,0,0
-Marbella Malaga Spain ,,,15,2,0,0
-808 887 7599 office in Hawaii ,,,15,2,0,0
-+34 952 82 5331 Spain h ,phone,,15,2,0,0
+Hm Kismet ,address,1,15,2,0,0
+Traviesa 7 ,address,1,15,2,0,0
+Los Monteros ,address,1,15,2,0,0
+Marbella Malaga Spain ,address,,15,2,0,0
+808 887 7599 office in Hawaii ,phone,1,15,2,0,0
++34 952 82 5331 Spain h ,phone,1,15,2,0,0
 +44 20 8788 3975 Parents ,phone,0,15,2,0,0
 Email: ,,,15,2,0,0
-"Djerassi, Dale ",person_name,,15,2,0,0
-001 650 747 0608 ,phone,,15,2,0,0
+"Djerassi, Dale ",person_name,,15,2,0,1
+001 650 747 0608 ,phone,1,15,2,0,0
 001 415 699 0636(p) ,phone,,15,2,0,0
 "Dolbey, Alex & Suzie ",person_name,,15,2,0,1
-Short Hoo ,,0,15,2,1,0
+Short Hoo ,address,0,15,2,1,0
 "Driver, Minnie ",person_name,,15,3,0,0
 001 323 656 8199() ,phone,,15,3,0,0
 Email: minxed@earthlink.net ,email,,15,3,0,0
@@ -1687,170 +1687,170 @@ Alex-main w) ,,,15,4,0,0
 0207 307 8880 Aw) ,phone,,15,4,0,0
 07960 71 88 69 (Answering svc,phone,0,15,4,0,0
 Stange 305 335 ,,,15,4,0,0
-"Donne, Alegra ",person_name,,15,4,0,0
+"Donne, Alegra ",person_name,,15,4,0,1
 416 Fulham Road ,street,,15,4,0,0
-London SW6 ,,,15,4,0,0
-0207-387 1568 (h) ,phone,,15,4,0,0
+London SW6 ,address,,15,4,0,0
+0207-387 1568 (h) ,phone,1,15,4,0,0
 0207-498 2355 (W) ,phone,,15,4,0,0
 Dori ,person_name,,15,4,0,1
 1917 476 7742 ,phone,,15,4,0,0
 Dorrit ,person_name,,15,4,0,1
 0207-235 5957 ,phone,,15,4,0,0
-"Doss, David & Christy ",person_name,,15,4,0,1
+"Doss, David & Christy ",person_name,1,15,4,0,1
 Prunler ,,,15,4,0,0
 315 Riverside Drive ,street,,15,4,0,0
 "New York, NY 10024 ",zip,0,15,4,1,0
-"Do glas, Diandra ",person_name,,15,5,0,0
+"Douglas, Diandra ",person_name,,15,5,0,1
 123 East 69th Street ,street,,15,5,0,0
 "New York, NY 10021 ",zip,,15,5,0,0
-001 212 246 6411 ,phone,,15,5,0,0
+001 212 246 6411 ,phone,1,15,5,0,0
 01 917 362 8442 ,phone,,15,5,0,0
 Email: diandra m@yahoo.com ,email,,15,5,0,0
 Hm936 Hot Springs Road ,street,,15,5,0,0
 "Santa Barbara, CA 93108 ",zip,,15,5,0,0
-917 251 4959 other cell ,phone,,15,5,0,0
-846 381 2967 Zack Bacon ,phone,,15,5,0,0
-212 585 1127 ,phone,,15,5,0,0
+917 251 4959 other cell ,phone,1,15,5,0,0
+846 381 2967 Zack Bacon ,phone,1,15,5,0,0
+212 585 1127 ,phone,1,15,5,0,0
 212 585 1149 ,phone,,15,5,0,0
 aos 969 9090 CA home ,,0,15,5,0,0
 Dr Eli Wiesel ,person_name,,15,5,0,1
 001 212 371 7029 ,phone,0,15,5,0,0
 "Drax, Jeremy ",person_name,,15,5,0,1
-326 Fulham Road ,street,,15,5,0,0
-SW6 ,,,15,5,0,0
+326 Fulham Road ,street,1,15,5,0,0
+SW6 ,street,,15,5,0,0
 0207-352 2090 (h) ,phone,0,15,5,0,0
 "Dreesmann, Bernard ",person_name,,15,5,0,1
-5 Pier House ,street,,15,5,0,0
+5 Pier House ,street,1,15,5,0,0
 Cheyne Walk ,street,,15,5,0,0
-London SW3 ,,,15,5,0,0
-0207-351 0449 (h) ,phone,,15,5,0,0
-0207-274 6246 (W) ,phone,,15,5,0,0
+London SW3 ,zip,,15,5,0,0
+0207-351 0449 (h) ,phone,1,15,5,0,0
+0207-274 6246 (W) ,phone,1,15,5,0,0
 0372-272911 (c) ,phone,0,15,5,1,0
 og ,,,16,2,0,0
 Louis.dubin@iheathenagrou ,email,,16,2,0,0
-(m 29 E.64th Si. ,,,16,2,0,0
-Apt. 5X ,,,16,2,0,0
+(m 29 E.64th Si. ,street,1,16,2,0,0
+Apt. 5X ,street,,16,2,0,0
 NY 10021 ,zip,,16,2,0,0
-001 212 459 2602(Iwf ,phone,,16,2,0,0
-001 212 327 08831h). ,phone,,16,2,0,0
-001 212 506 0662 w ,phone,,16,2,0,0
+001 212 459 2602(Iwf ,phone,1,16,2,0,0
+001 212 327 08831h). ,phone,1,16,2,0,0
+001 212 506 0662 w ,phone,1,16,2,0,0
 001 212 506 0673 (tw} ,phone,,16,2,0,0
 "Dubin, Peter ",person_name,,16,2,0,1
 0207 376 8755 ,phone,,16,2,0,0
 Duchess of York ,person_name,,16,2,0,1
-Şunninghill Park (). ,,,16,2,0,0
-"Ascot, Berkshire SĽ5 7TH ",,,16,2,0,0
-011447768 151215(p) ,phone,,16,2,0,0
+Şunninghill Park (). ,street,1,16,2,0,0
+"Ascot, Berkshire SĽ5 7TH ",street,,16,2,0,0
+011447768 151215(p) ,phone,1,16,2,0,0
 01344 845688 ,phone,,16,2,0,0
 Am doty@dofy.co.uk ,email,,16,2,0,0
 2nd floor (w). ,street,,16,2,0,0
-212 938 4800 NYOJohn ,phone,,16,2,0,1
-O'Sullivan ,,,16,2,0,0
+212 938 4800 NYOJohn ,phone,1,16,2,0,1
+O'Sullivan ,phone,1,16,2,0,0
 01144020-79786110 Kate ,phone,,16,2,0,0
 Waddington ,street,,16,2,0,0
-917 930 7805 (p) ,phone,,16,2,0,0
-+44 207 307 1750 (w) ,phone,,16,2,0,0
-6207-585 3515 Arebella (h) ,phone,,16,2,0,0
-John O'Sullivan ,,,16,2,0,0
-897 743 3377 o Johnnie ,phone,,16,2,0,0
-2023 $260 Janine-assistant as ,,,16,2,0,0
-+44 1344 8731 87 h) ,phone,,16,2,0,0
-+44 1344 8458 88 ht ,phone,,16,2,0,0
-307 1753 direct ,street,,16,2,0,0
-+44 207 307 1751 (wh,phone,,16,2,0,0
-212 419 7493 Jenean ,phone,,16,2,0,0
-7.221-5569 Bahamas ,,,16,2,0,0
-817,,0,16,2,1,1
+917 930 7805 (p) ,phone,1,16,2,0,0
++44 207 307 1750 (w) ,phone,1,16,2,0,0
+6207-585 3515 Arebella (h) ,phone,1,16,2,0,0
+John O'Sullivan ,phone,1,16,2,0,0
+897 743 3377 o Johnnie ,phone,1,16,2,0,0
+2023 $260 Janine-assistant as ,phone,1,16,2,0,0
++44 1344 8731 87 h) ,phone,1,16,2,0,0
++44 1344 8458 88 ht ,phone,1,16,2,0,0
+307 1753 direct ,phone,1,16,2,0,0
++44 207 307 1751 (wh,phone,1,16,2,0,0
+212 419 7493 Jenean ,phone,1,16,2,0,0
+7.221-5569 Bahamas ,phone,1,16,2,0,0
+817,phone,1,16,2,1,1
 212 419 7493 Jenean f ,phone,0,16,3,0,0
-"Ducrey-Giordano, ",person_name,,16,3,0,1
+"Ducrey-Giordano, ",person_name,1,16,3,0,1
 Francesco ,,,16,3,0,0
-Str Antica Di San Vito 36 ,,,16,3,0,0
-Torino Italy ,,,16,3,0,0
+Str Antica Di San Vito 36 ,street,,16,3,0,0
+Torino Italy ,address,,16,3,0,0
 00 39 11 8221015 () ,phone,,16,3,0,0
 "Duesing, Paul ",person_name,,16,3,0,1
-Lelsure & Elfestyle Ventures ,,,16,3,0,0
-2600 Fairmount ,street,,16,3,0,0
-Bernward House ,,,16,3,0,0
+Lelsure & Elfestyle Ventures ,company,,16,3,0,0
+2600 Fairmount ,street,1,16,3,0,0
+Bernward House ,street,,16,3,0,0
 "Dallas, TX 75201 ",zip,,16,3,0,0
-214 720 0212 ,phone,,16,3,0,0
-214 704 1691 cell ,phone,,16,3,0,0
+214 720 0212 ,phone,1,16,3,0,0
+214 704 1691 cell ,phone,1,16,3,0,0
 214 720 0082 (wh ,phone,,16,3,0,0
 Duke of York ,person_name,,16,3,0,1
-Buckingham Palace ,,,16,3,0,0
-London ,,,16,3,0,0
+Buckingham Palace ,address,1,16,3,0,0
+London ,address,1,16,3,0,0
 SW1 1AA ,address,,16,3,0,0
-011 44 7768 630630 ,phone,,16,3,0,0
+011 44 7768 630630 ,phone,1,16,3,0,0
 "0207 024 5955(wd), ",phone,,16,3,0,0
 Email: aace@dial pipex.com ,email,,16,3,0,0
-1920 Lance (h) x ,street,,16,3,0,1
-Surining ,,,16,3,0,0
-0207-930 1224 wt) ,phone,,16,3,0,0
-Sunninghill () ,,,16,3,0,0
-"1485-540 502 Wood Farm, ",,,16,3,0,0
-0207-930 2134 (Palace ex direc) ,,,16,3,0,0
-0207-024 58888 Sophie x ,zip,,16,3,0,1
-0207-930 2007 (W) X ,phone,,16,3,0,0
-0209-333 Modex ,,0,16,3,1,0
-07930-382 959 Sophie (p) x ,,,16,4,0,0
-0207-589 8626 Sophie bix ,,,16,4,0,0
-01553-772 675 Balmoral ,phone,,16,4,0,0
-0207 7024 4275 Equerry - Robert ,,,16,4,0,0
-Olney ,,,16,4,0,0
-Dunbar Johnson ,person_name,,16,4,0,1
+1920 Lance (h) x ,street,,16,3,0,0
+Surining ,phone,1,16,3,0,0
+0207-930 1224 wt) ,phone,1,16,3,0,0
+Sunninghill () ,phone,1,16,3,0,0
+"1485-540 502 Wood Farm, ",phone,1,16,3,0,0
+0207-930 2134 (Palace ex direc) ,phone,,16,3,0,0
+0207-024 58888 Sophie x ,zip,,16,3,0,0
+0207-930 2007 (W) X ,phone,1,16,3,0,0
+0209-333 Modex ,phone,1,16,3,1,0
+07930-382 959 Sophie (p) x ,phone,1,16,4,0,0
+0207-589 8626 Sophie bix ,phone,1,16,4,0,0
+01553-772 675 Balmoral ,phone,1,16,4,0,0
+0207 7024 4275 Equerry - Robert ,phone,1,16,4,0,0
+Olney ,phone,,16,4,0,0
+Dunbar Johnson ,person_name,1,16,4,0,1
 Miranda & Steph ,,,16,4,0,0
 27A Leamington Rd Villas ,street,,16,4,0,0
-"London W17 THT, ",,,16,4,0,0
-0207-229 1894(hl ,phone,,16,4,0,0
+"London W17 THT, ",zip,,16,4,0,0
+0207-229 1894(hl ,phone,1,16,4,0,0
 0207-873 3606{w) ,phone,,16,4,0,0
 "Dunne, Griffin ",person_name,,16,4,0,1
 145 6th Avenue ,street,,16,4,0,0
 "New York, NY 10013 ",zip,,16,4,0,0
-001 212 343 8830 () ,phone,,16,4,0,0
-001 212 614 0921 h ,phone,,16,4,0,0
+001 212 343 8830 () ,phone,1,16,4,0,0
+001 212 614 0921 h ,phone,1,16,4,0,0
 001 212 603 4337{cynth) ,phone,0,16,4,0,0
-"Dunne, Philip & ",person_name,,16,4,0,1
+"Dunne, Philip & ",person_name,1,16,4,0,1
 Dominice ,,,16,4,0,0
 3 Sterne Street ,street,,16,4,0,0
-"London, W12 ",,,16,4,0,0
+"London, W12 ",zip,,16,4,0,0
 0208-743 4985 (h) ,phone,,16,4,0,0
 "Duong, Anh ",person_name,,16,4,0,1
 "353 W. Tyth, 10014 ",street,,16,4,0,0
 01 917 213 7515(p) ,phone,,16,4,0,0
 Durso Luigi ,person_name,,16,4,0,1
-Ines de la Fressange ,,0,16,4,1,0
-18 rue Montaliver ,person_name,,16,5,0,0
+Ines de la Fressange ,street,1,16,4,1,0
+18 rue Montaliver ,street,,16,5,0,0
 75008 Paris ,address,,16,5,0,0
-0033 42652237 (h) ,phone,,16,5,0,0
+0033 42652237 (h) ,phone,1,16,5,0,0
 00 33 3 2379282 () ,phone,,16,5,0,0
-"Duthie, John & ",person_name,,16,5,0,1
+"Duthie, John & Charlotte",person_name,,16,5,0,1
 34 Queens Gals Terrace ,street,,16,5,0,0
-London SW7 ,,,16,5,0,0
+London SW7 ,zip,,16,5,0,0
 0207-589 7993 (h) ,phone,,16,5,0,0
 "Dzhabrailou, Umar ",person_name,,16,5,0,1
-00 7 095 233 7000(p) ,phone,,16,5,0,0
+00 7 095 233 7000(p) ,phone,1,16,5,0,0
 00 7 095 745 5228 ) ,phone,,16,5,0,0
 Email: umar@umar.ru ,email,,16,5,0,0
 00709 5920 5000 (p) ,phone,,16,5,0,0
 "Ecclestone, Bernie ",person_name,,16,5,0,1
 28 Chelsea Square ,street,,16,5,0,0
-"London, SW3 GLX UK ",,,16,5,0,0
-44 207 584 66 68 (w) ,phone,,16,5,0,0
+"London, SW3 GLX UK ",zip,,16,5,0,0
+44 207 584 66 68 (w) ,phone,1,16,5,0,0
 44 207 589 03 11 ( ,phone,,16,5,0,0
-Hmo Princes Gate ,,,16,5,0,0
+Hmo Princes Gate ,street,1,16,5,0,0
 Knightsbridge ,street,,16,5,0,0
-"London, SW7 IQJ UK ",,,16,5,0,0
+"London, SW7 IQJ UK ",zip,,16,5,0,0
 "Eckon, Paul ",person_name,,16,5,0,1
-0378 77 8888 () ,phone,,16,5,0,0
+0378 77 8888 () ,phone,1,16,5,0,0
 00 27 82 9901111 ,phone,,16,5,0,0
 "Edsel, Lucinda ",person_name,,16,5,0,1
 53 The Chase ,street,,16,5,0,0
-London sw3 ,,,16,5,0,0
+London sw3 ,zip,,16,5,0,0
 0207-622 8738 (h) ,phone,0,16,5,1,0
 www ,,,17,2,0,0
-"Edwards, Andrew & ",person_name,,17,2,0,0
+"Edwards, Andrew & ",person_name,1,17,2,0,1
 Tracy ,,,17,2,0,0
 9 Eaton Mews South ,street,,17,2,0,0
-"London SWIW 9HP, ",,,17,2,0,0
+"London SWIW 9HP, ",zip,,17,2,0,0
 0207-235 4121 (h) ,phone,,17,2,0,0
 "Elian, Johnathan ",person_name,,17,2,0,1
 7 Hal Road ,street,,17,2,0,0
@@ -1859,269 +1859,269 @@ Tracy ,,,17,2,0,0
 Email: eiliani@starwood.com ,email,,17,2,0,0
 1 203 249 8645 cell ,phone,,17,2,0,0
 "Ellas, Brian ",person_name,,17,2,0,1
-001 305 798 3831 (p) ,phone,,17,2,0,0
-001 305 789 9242 ,phone,,17,2,0,0
+001 305 798 3831 (p) ,phone,1,17,2,0,0
+001 305 789 9242 ,phone,1,17,2,0,0
 Email: 001 305 538 0010 home ,phone,0,17,2,0,0
-"Eliasch, Johan & ",person_name,,17,2,0,1
+"Eliasch, Johan & ",person_name,1,17,2,0,1
 Amanda ,,,17,2,0,0
-31 Chester Square ,street,,17,2,0,0
+31 Chester Square ,street,1,17,2,0,0
 London SW1W 9HT UK ,street,,17,2,0,0
-+44 207 730 6459 (h) ,phone,,17,2,0,0
++44 207 730 6459 (h) ,phone,1,17,2,0,0
 +44 207 629 4399 ,phone,,17,2,0,0
 Email: aeratbag@aol.com ,email,,17,2,0,0
 (Hm71 South Audley Street ,street,,17,2,0,0
-+44 77 67 87 2059 Amanda (p) ,phone,,17,2,0,0
-917 330 6039 ,phone,,17,2,0,0
-001 347 672 7268 0) ,phone,,17,2,0,0
++44 77 67 87 2059 Amanda (p) ,phone,1,17,2,0,0
+917 330 6039 ,phone,1,17,2,0,0
+001 347 672 7268 0) ,phone,1,17,2,0,0
 0043 66 4381 4724 Johan (p) ,phone,0,17,2,0,0
-WIK'15A ,address,0,17,2,1,1
-"Elingworth, Charlie ",person_name,,17,3,0,0
+WIK'15A ,address,0,17,2,1,0
+"Elingworth, Charlie ",person_name,1,17,3,0,1
 Amanda ,,,17,3,0,0
-The Basement ,,,17,3,0,0
-80 Oxford Gardens ,street,,17,3,0,0
-London W10 ,,,17,3,0,0
-0208-968 679 ,phone,,17,3,0,0
-0208-743 5129 (h) ,phone,,17,3,0,0
-0747 870754 (car ,phone,,17,3,0,0
+The Basement ,street,1,17,3,0,0
+80 Oxford Gardens ,street,1,17,3,0,0
+London W10 ,zip,,17,3,0,0
+0208-968 679 ,phone,1,17,3,0,0
+0208-743 5129 (h) ,phone,1,17,3,0,0
+0747 870754 (car ,phone,1,17,3,0,0
 0208-994 3782 (w) ,phone,,17,3,0,0
 Elizabeth ,person_name,,17,3,0,1
 33660596267,phone,,17,3,0,0
 Ellenbogen Eric ,person_name,,17,3,0,1
 22 Gramercy Park ,street,,17,3,0,0
 NY NY 10003 ,zip,,17,3,0,0
-001 212 659 1970{w} ,phone,,17,3,0,0
+001 212 659 1970{w} ,phone,1,17,3,0,0
 001 212 353 1275{hy ,phone,,17,3,0,0
 "Ellingworth, Mr & Mrs ",person_name,,17,3,0,1
-The Old House ,,,17,3,0,0
-Laughton Lutterworth Leics ,,,17,3,0,0
-0208-994 3782 (w) ,phone,,17,3,0,0
-0208-734 5129 h ,phone,,17,3,0,0
+The Old House ,address,1,17,3,0,0
+Laughton Lutterworth Leics ,address,,17,3,0,0
+0208-994 3782 (w) ,phone,1,17,3,0,0
+0208-734 5129 h ,phone,1,17,3,0,0
 0747 870754 (C,phone,,17,3,0,0
 "Elliot, Ben ",person_name,,17,3,0,1
-Quintessentially ,,,17,3,0,0
-80 Broad Street ,street,,17,3,0,0
+Quintessentially ,company,,17,3,0,0
+80 Broad Street ,street,1,17,3,0,0
 5th Floor ,street,,17,3,0,0
 "New York, NY 10004 ",zip,,17,3,0,0
-001 212 837 1740 (W) ,phone,,17,3,0,0
+001 212 837 1740 (W) ,phone,1,17,3,0,0
 001 917 320 6405fwf ,phone,,17,3,0,0
 Email: ben@quintessentially.com ,email,0,17,3,1,0
-(Hm15-19 Great Titchfield ,,,17,4,0,0
-"London, United Kingdom ",,,17,4,0,0
-PAZ ,address,,17,4,0,0
-0207 908 7270 (w). ,phone,,17,4,0,0
-0207436 6980 wl) ,phone,,17,4,0,0
+(Hm15-19 Great Titchfield ,street,,17,4,0,0
+"London, United Kingdom ",address,1,17,4,0,0
+8AZ ,address,,17,4,0,0
+0207 908 7270 (w). ,phone,1,17,4,0,0
+0207436 6980 wl) ,phone,1,17,4,0,0
 001 917 553 6784 (p) ,phone,0,17,4,0,0
-"Elliot, Gail & Joe ",person_name,,17,4,0,1
+"Elliot, Gail & Joe Coffey",person_name,,17,4,0,1
 72 Reade Street #5 ,street,,17,4,0,0
 "New York, NY 10007 ",zip,,17,4,0,0
-001 212 571 6153 (h) ,phone,,17,4,0,0
-001 917 692 2299 (p) ,phone,,17,4,0,0
+001 212 571 6153 (h) ,phone,1,17,4,0,0
+001 917 692 2299 (p) ,phone,1,17,4,0,0
 01 212 571 6178 Fax ,phone,,17,4,0,0
-"Ellison, Mandy & ",person_name,,17,4,0,1
+"Ellison, Mandy & Ralph ",person_name,,17,4,0,1
 218 Mediterranean Road ,street,,17,4,0,0
 "Palm Beach, FL 33480 ",zip,,17,4,0,0
-561-881-5748 ,phone,,17,4,0,0
-561 881 57 49 ). ,phone,,17,4,0,0
-561-881-9093 1 ,phone,,17,4,0,0
-561 863 4791 Voice Mail ,phone,,17,4,0,0
+561-881-5748 ,phone,1,17,4,0,0
+561 881 57 49 ). ,phone,1,17,4,0,0
+561-881-9093 1 ,phone,1,17,4,0,0
+561 863 4791 Voice Mail ,phone,1,17,4,0,0
 561 881-5748 (h} ,phone,0,17,4,0,0
 "Elwes, Anabel ",person_name,,17,4,0,1
 41A Limerston Street ,street,,17,4,0,0
-LondonSW10 ,,,17,4,0,0
+LondonSW10 ,zip,,17,4,0,0
 0207-629 5955 ,phone,0,17,4,0,0
 "Epstein, Ed ",person_name,,17,4,0,1
 430 East 86th St. ,street,,17,4,0,0
 "New York, NY 10028 ",zip,,17,4,0,0
 001 212 249 4003 ,phone,0,17,4,1,0
 ES ,address,,17,5,0,0
-Erba Noona ,,,17,5,0,0
-(tall blonde armanai ,,,17,5,0,0
-0039 02 481 7343th) ,phone,,17,5,0,0
+Erba Noona ,person_name,,17,5,0,1
+(tall blonde armanai ,company,,17,5,0,0
+0039 02 481 7343th) ,phone,1,17,5,0,0
 0039 02 550 0510() ,phone,0,17,5,0,0
-"Espirito Santo, Manuel ",person_name,,17,5,0,1
+"Espirito Santo, Manuel ",person_name,1,17,5,0,1
 and Ros ,,,17,5,0,0
-00 35 113974740w). ,phone,,17,5,0,0
-00 35 936 445877() ,phone,,17,5,0,0
+00 35 113974740w). ,phone,1,17,5,0,0
+00 35 936 445877() ,phone,1,17,5,0,0
 0207.730 7768(h) ,phone,,17,5,0,0
 "Estlin, Jean-Marc ",person_name,,17,5,0,1
 7 Rue des Saints-Peres ,street,,17,5,0,0
 75006 Paris ,address,,17,5,0,0
-00 331 0333w} ,phone,,17,5,0,0
-00331 4020 0763 ,phone,,17,5,0,1
-001 212 769 9760(frnd h) ,phone,,17,5,0,0
-001 212 751 9600 (w) ,phone,,17,5,0,0
-00 55 11 9935 3391' Brazil p ,phone,0,17,5,0,0
-"0 331,535, ",,,17,5,0,1
+00 331 0333w} ,phone,1,17,5,0,0
+00331 4020 0763 ,phone,1,17,5,0,1
+001 212 769 9760(frnd h) ,phone,1,17,5,0,0
+001 212 751 9600 (w) ,phone,1,17,5,0,0
+00 55 11 9935 3391' Brazil p ,phone,1,17,5,0,0
+"0 331,535, ",phone,,17,5,0,0
 Home ,,,17,5,0,0
 tina ,,,17,5,0,0
-"Estrada Juffall, Chris-",,1,17,5,0,0
-"Julfall, Walid ",,,17,5,0,0
+"Estrada Juffall, Chris-",person_name,1,17,5,0,1
+"Julfall, Walid ",company,,17,5,0,0
 50 Hyde Park Gate ,street,,17,5,0,0
-London ,,,17,5,0,0
+London ,address,1,17,5,0,0
 SW7 5DH ,address,,17,5,0,0
-0207-823 8822 (h) ,phone,,17,5,0,0
+0207-823 8822 (h) ,phone,1,17,5,0,0
 07769 6787760) ,phone,,17,5,0,0
 Email: christinaestrada@hotmail. ,email,,17,5,0,0
 ZO1049 ,address,,17,5,0,0
-Saudi Arabia ,,,17,5,0,0
-00 9662 6600005 Home and ,phone,,17,5,0,0
-fax-Saudi Arabia ,,,17,5,0,0
+Saudi Arabia ,country,,17,5,0,0
+00 9662 6600005 Home and ,phone,1,17,5,0,0
+fax-Saudi Arabia ,phone,1,17,5,0,0
 07769 678 776 (p) ,phone,0,17,5,1,0
 ASICS ,,,18,2,0,0
-Evans Chris ,,,18,2,0,0
-0207-663 3601 ,phone,,18,2,0,0
+Evans Chris ,person_name,,18,2,0,1
+0207-663 3601 ,phone,1,18,2,0,0
 0441 077441 ,phone,0,18,2,0,0
 Evehart Angle ,person_name,,18,2,0,1
 001 310 560 5150(1) ,phone,,18,2,0,0
 Email: ake722@aol.com ,email,,18,2,0,0
 Faber David ,person_name,,18,2,0,1
 0207-598 4300 ,phone,0,18,2,0,0
-Faber Sally & Brook ,person_name,,18,2,0,1
+Faber Sally & Brook ,person_name,1,18,2,0,1
 Johnson ,,,18,2,0,0
-Chariton Down Eslale ,,,18,2,0,0
-"Charlton Down, Tetbury ",,,18,2,0,0
-"Gloucestershire, GL8 STZ ",,,18,2,0,0
-01666 880 011h) ,phone,,18,2,0,0
+Chariton Down Eslale ,street,1,18,2,0,0
+"Charlton Down, Tetbury ",street,,18,2,0,0
+"Gloucestershire, GL8 STZ ",zip,,18,2,0,0
+01666 880 011h) ,phone,1,18,2,0,0
 07770 988 908{p,phone,,18,2,0,0
 Email: sallyfaber@hotmail.com ,email,,18,2,0,0
-01666 880022 (hi) ,phone,,18,2,0,0
+01666 880022 (hi) ,phone,1,18,2,0,0
 0798 611 4004 (car) ,phone,,18,2,0,0
 "Faibairn, Charlotte ",person_name,,18,2,0,1
-& Hamish Fraser ,,,18,2,0,0
+& Hamish Fraser ,street,1,18,2,0,0
 109 Elsley Road ,street,,18,2,0,0
-London SW11. ,,,18,2,0,0
+London SW11. ,zip,,18,2,0,0
 0207-223 1801 (h) ,phone,0,18,2,0,0
 "Fairfax, The Hon Rupert ",person_name,,18,2,0,1
-The Coach House ,,0,18,2,1,0
-London SW10 ,person_name,,18,3,0,0
+The Coach House ,street,0,18,2,1,0
+London SW10 ,zip,,18,3,0,0
 0207-823 3990(h) ,phone,0,18,3,0,0
 "Fakhre, Danny & Chris-",person_name,1,18,3,0,1
 tine ,,,18,3,0,0
 97 Eaton Place ,street,,18,3,0,0
-London SW1. ,,,18,3,0,0
+London SW1. ,zip,,18,3,0,0
 97 Ealon Place ,street,0,18,3,0,0
 "Fall, Meredith ",person_name,,18,3,0,1
 114 Rue du Sach ,street,,18,3,0,0
 "Paris, France ",address,,18,3,0,0
 00 33 4222 0741 ,phone,,18,3,0,0
 "Fallah, Mrs ",person_name,,18,3,0,1
-4 Bolney Gate ,street,,18,3,0,0
+4 Bolney Gate ,street,1,18,3,0,0
 Ennismóre Gardens ,street,,18,3,0,0
-"London SW7, ",,,18,3,0,0
-0207-584 7307 (h) ,phone,,18,3,0,0
-0207-584 8238 } ,phone,,18,3,0,0
+"London SW7, ",zip,,18,3,0,0
+0207-584 7307 (h) ,phone,1,18,3,0,0
+0207-584 8238 } ,phone,1,18,3,0,0
 0207-371 5877 ,phone,,18,3,0,0
-"Fallah, Ms Christina ",person_name,,18,3,0,1
+"Fallah, Ms Christina ",person_name,1,18,3,0,1
 &Jon Robe ,,,18,3,0,0
 41 Fitzjames Ave ,street,,18,3,0,0
-London ,,,18,3,0,0
+London ,address,1,18,3,0,0
 W14 ORR. ,address,,18,3,0,0
-0207-610 4449(h) ,phone,,18,3,0,0
-0207-311 58770 ,phone,,18,3,0,0
+0207-610 4449(h) ,phone,1,18,3,0,0
+0207-311 58770 ,phone,1,18,3,0,0
 Email: 0850 398979 ,phone,0,18,3,1,0
-"Failetans, Olivier de ",person_name,,18,4,0,0
+"Failetans, Olivier de ",person_name,,18,4,0,1
 18a Alexandre Ave ,street,,18,4,0,0
-London SW11 ,,,18,4,0,0
-0207-622 9550 {h} ,phone,,18,4,0,0
+London SW11 ,zip,,18,4,0,0
+0207-622 9550 {h} ,phone,1,18,4,0,0
 0207-489 2017 (h,phone,,18,4,0,0
 "Fanjul, Pepe ",person_name,,18,4,0,1
-561 655 6303 (w) ,phone,,18,4,0,0
-561 655 1814 w ,phone,,18,4,0,0
+561 655 6303 (w) ,phone,1,18,4,0,0
+561 655 1814 w ,phone,1,18,4,0,0
 212 472 6696(N ,phone,,18,4,0,0
-"Faulkner, Terence & ",person_name,,18,4,0,1
+"Faulkner, Terence & ",person_name,1,18,4,0,1
 Cornelia ,,,18,4,0,0
-0207-580 0381 (h) ,phone,,18,4,0,0
+0207-580 0381 (h) ,phone,1,18,4,0,0
 0207-937 1992 w ,phone,,18,4,0,0
 "Feeley, Fiona ",person_name,,18,4,0,1
 19 Chester Row ,street,,18,4,0,0
-London ,,,18,4,0,0
+London ,address,1,18,4,0,0
 SW1X 9JF ,address,,18,4,0,0
-U.K. ,,,18,4,0,0
+U.K. ,country,,18,4,0,0
 0207-352 7033{w ,phone,,18,4,0,0
 Emai: (NY) HEPICAAU@aol.com ,email,,18,4,0,0
-(Hm Ashe House ,,,18,4,0,0
-Overton ,,,18,4,0,0
-Hampshire ,,,18,4,0,0
-1256771411,phone,,18,4,0,0
-07778 000 170 () ,phone,,18,4,0,0
+(Hm Ashe House ,street,1,18,4,0,0
+Overton ,street,1,18,4,0,0
+Hampshire ,street,,18,4,0,0
+1256771411,phone,1,18,4,0,0
+07778 000 170 () ,phone,1,18,4,0,0
 774130526,phone,,18,4,0,0
 "Fekkal, Frederic ",person_name,,18,4,0,1
-Frederic Fekkal Beauty Center ,,,18,4,0,0
+Frederic Fekkal Beauty Center ,company,,18,4,0,0
 15 East 57th Street ,street,,18,4,0,0
 "NY, NY 10022 ",zip,,18,4,0,0
-(btwin 5th & Madison) ,,0,18,4,1,0
+(btwin 5th & Madison) ,address,0,18,4,1,0
 ma cuperairfax@thorowgood. ,email,,18,5,0,0
 2214008,phone,,18,5,0,0
-Logner Hall ,,,18,5,0,1
+Logner Hall ,address,,18,5,0,1
 Uffinglon Shrewsbury ,street,,18,5,0,0
-Sy4 ATG ,,,18,5,0,0
-01922 711676 (w ,phone,,18,5,0,1
-07801248146. (port) ,phone,,18,5,0,0
-01743 709353 ) ,phone,,18,5,0,0
+Sy4 ATG ,address,,18,5,0,0
+01922 711676 (w ,phone,1,18,5,0,1
+07801248146. (port) ,phone,1,18,5,0,0
+01743 709353 ) ,phone,1,18,5,0,0
 0468 857769(0) ,phone,,18,5,0,0
 Fairweather Natasha ,person_name,,18,5,0,1
-Moscow ,,,18,5,0,0
-00 795 2436722/h) ,phone,,18,5,0,0
+Moscow ,company,,18,5,0,0
+00 795 2436722/h) ,phone,1,18,5,0,0
 00 795 2439762(,phone,,18,5,0,0
-"Fairweather, Ms ",person_name,,18,5,0,1
+"Fairweather, Ms ",person_name,1,18,5,0,1
 Catherine ,,,18,5,0,0
 162 lancaster rd ,street,,18,5,0,0
-London W11 ,,,18,5,0,0
-0958 726887 ,phone,,18,5,0,0
-0207-4395000 (w)5560 ,phone,,18,5,0,0
-0207-792 8247lb ,phone,,18,5,0,0
+London W11 ,zip,,18,5,0,0
+0958 726887 ,phone,1,18,5,0,0
+0207-4395000 (w)5560 ,phone,1,18,5,0,0
+0207-792 8247lb ,phone,1,18,5,0,0
 0207_792 8247 ,phone,0,18,5,0,0
 "Fairweather, Ambassa-",person_name,1,18,5,0,1
 dor & Lady ,,,18,5,0,0
-Patrick & Matta ,,,18,5,0,0
-hat 1 ,street,,18,5,0,0
+Patrick & Matta ,company,,18,5,0,0
+hat 1 ,street,1,18,5,0,0
 18 Wetherby Gdns ,street,,18,5,0,0
-London SW5 OJP ,,,18,5,0,0
+London SW5 OJP ,address,,18,5,0,0
 0207-244 9602{h) ,phone,,18,5,0,0
-"Fakhre, Armado & Jas- ",person_name,,18,5,0,1
+"Fakhre, Armado & Jas- ",person_name,1,18,5,0,1
 mine ,,,18,5,0,0
 19 The Boltons ,street,0,18,5,1,0
-01253 2901297(h) ,phone,,19,2,0,0
+01253 2901297(h) ,phone,1,19,2,0,0
 01492 860815(W) ,phone,,19,2,0,0
 "Fiennes, Martin ",person_name,,19,2,0,1
-44 Cathcart Road ,street,,19,2,0,0
-London SW10 ,,,19,2,0,0
-0208-968 5957 (h) ,phone,,19,2,0,0
-0295 262624 (C) ,phone,,19,2,0,0
-0253 290451 ,phone,,19,2,0,0
-0207_373 2634(h) ,phone,,19,2,0,0
-01253 2901297) ,phone,,19,2,0,0
-01492 860815(W) ,phone,,19,2,0,0
+44 Cathcart Road ,street,1,19,2,0,0
+London SW10 ,street,,19,2,0,0
+0208-968 5957 (h) ,phone,1,19,2,0,0
+0295 262624 (C) ,phone,1,19,2,0,0
+0253 290451 ,phone,1,19,2,0,0
+0207_373 2634(h) ,phone,1,19,2,0,0
+01253 2901297) ,phone,1,19,2,0,0
+01492 860815(W) ,phone,1,19,2,0,0
 "Fiennes, Ralph ",person_name,,19,2,0,1
-1913,,,19,2,0,0
+1913,phone,1,19,2,0,0
 250633318) ,phone,,19,2,0,0
-Email: ralphftennespost,,,19,2,0,0
-(Hm0208-995 7398 (Teri ,phone,,19,2,0,0
-0208-743 8785 (hil) ,phone,,19,2,0,0
+Email: ralphftennespost,email,,19,2,0,0
+(Hm0208-995 7398 (Teri ,phone,1,19,2,0,0
+0208-743 8785 (hil) ,phone,1,19,2,0,0
 07973 261659 (p) ,phone,,19,2,0,0
 "Fiennes, Suzzana ",person_name,,19,2,0,1
-"9 Bank Street, 2nd floor ",street,,19,2,0,0
-between West 4th Street and ,street,,19,2,0,0
+"9 Bank Street, 2nd floor ",street,1,19,2,0,0
+between West 4th Street and ,street,1,19,2,0,0
 Greenwich Avenue ,street,,19,2,0,0
-001 212 807 1157(W) ,phone,,19,2,0,0
-212 741 8658 ,phone,,19,2,0,0
-07 790 231 537 (UK-) ,phone,,19,2,0,0
+001 212 807 1157(W) ,phone,1,19,2,0,0
+212 741 8658 ,phone,1,19,2,0,0
+07 790 231 537 (UK-) ,phone,1,19,2,0,0
 01295 262624 ,phone,,19,2,0,0
 "Fifer, Chuck ",person_name,,19,2,0,1
 881 212 9797 ,phone,0,19,2,1,0
-"Figg, Christopher ",person_name,,19,3,0,0
+"Figg, Christopher ",person_name,1,19,3,0,0
 Charlotte ,,,19,3,0,0
-Little Hampden Farm ,,,19,3,0,0
-Great Missanden ,,,19,3,0,0
-Bucks HP16 9PS ,,,19,3,0,0
+Little Hampden Farm ,street,1,19,3,0,0
+Great Missanden ,street,,19,3,0,0
+Bucks HP16 9PS ,zip,,19,3,0,0
 0494 488254 (h) ,phone,,19,3,0,0
 Finch Charles ,person_name,,19,3,0,1
-0207-257 8720 ,phone,,19,3,0,0
+0207-257 8720 ,phone,1,19,3,0,0
 0207-937 9870 ,phone,,19,3,0,0
 Email: finch @artistsindependant,email,,19,3,0,0
-07768 722 235 (p) ,phone,,19,3,0,0
-0207-792 3163 ,phone,,19,3,0,0
-001 212 343 0069 ,phone,,19,3,0,0
+07768 722 235 (p) ,phone,1,19,3,0,0
+0207-792 3163 ,phone,1,19,3,0,0
+001 212 343 0069 ,phone,1,19,3,0,0
 079 795 95706 (p) ,phone,0,19,3,0,0
 "Finklestein, Howard ",person_name,,19,3,0,1
 310-392-4893 ,phone,0,19,3,0,0
@@ -2129,234 +2129,234 @@ Firyal Princess ,person_name,,19,3,0,1
 1 East 66th St ,street,,19,3,0,0
 NY NY ,address,,19,3,0,0
 00 212 879 3900 ,phone,,19,3,0,0
-(Mm 34 Chapel St ,street,,19,3,0,0
-London SWI ,,,19,3,0,0
+(Mm 34 Chapel St ,street,1,19,3,0,0
+London SWI ,street,,19,3,0,0
 0207. 235 2143 ,phone,,19,3,0,0
 "Fisher, Dan ",person_name,,19,3,0,1
 721 5th #739 ,phone,,19,3,0,0
 NY,address,,19,3,0,0
-001 212421 ,phone,,19,3,0,0
-001 212421 ,phone,,19,3,0,0
+001 212421 ,phone,1,19,3,0,0
+001 212421 ,phone,1,19,3,0,0
 1212421,phone,0,19,3,1,0
-212-753-9500 ,phone,,19,4,0,0
+212-753-9500 ,phone,1,19,4,0,0
 917 748 8989{p) ,phone,,19,4,0,0
 "Email: fekkai@ftekkai.com, ffek ",email,,19,4,0,0
 212 396 96 ,phone,,19,4,0,0
 300,address,,19,4,0,0
-St #10610021 ,phone,,19,4,0,0
+St #10610021 ,phone,1,19,4,0,0
 212 583 3228 Salon Din,phone,,19,4,0,1
-Brandon (appt.s) ,,,19,4,0,0
-LA Salon ,,,19,4,0,0
-212 583 3225 Assistant-Paige ,,,19,4,0,0
-21 622 gáği Phillipe (h) ,address,,19,4,0,0
-917 816 3376 Phillipelp) ,phone,,19,4,0,0
-01133621887196 french cell ,phone,,19,4,0,0
-583 3688 Sebastian-makes appls. ,,,19,4,0,0
-646 226 8989 (p). ,phone,,19,4,0,0
+Brandon (appt.s) ,street,,19,4,0,0
+LA Salon ,address,,19,4,0,0
+212 583 3225 Assistant-Paige ,phone,1,19,4,0,0
+21 622 gáği Phillipe (h) ,phone,1,19,4,0,0
+917 816 3376 Phillipelp) ,phone,1,19,4,0,0
+01133621887196 french cell ,phone,1,19,4,0,0
+583 3688 Sebastian-makes appls. ,phone,1,19,4,0,0
+646 226 8989 (p). ,phone,1,19,4,0,0
 917 826 8817 AIP) ,phone,0,19,4,0,0
 "Feldman, Andrew ",person_name,,19,4,0,1
-001 212 945 2274 (W) ,phone,,19,4,0,0
-212,,,19,4,0,0
+001 212 945 2274 (W) ,phone,1,19,4,0,0
+212,phone,,19,4,0,0
 "Felix, Helena ",person_name,,19,4,0,1
-12 Middle Way ,street,,19,4,0,0
-Homstead Gan Suburb ,,,19,4,0,0
-"London, NW1165P ",,,19,4,0,0
-0208.455 0807 () ,phone,,19,4,0,0
-0207-734 6090 W) ,phone,,19,4,0,0
+12 Middle Way ,street,1,19,4,0,0
+Homstead Gan Suburb ,street,,19,4,0,0
+"London, NW1165P ",zip,,19,4,0,0
+0208.455 0807 () ,phone,1,19,4,0,0
+0207-734 6090 W) ,phone,1,19,4,0,0
 0207.439 47810 ,phone,,19,4,0,0
 "Fell, David & Anne ",person_name,,19,4,0,1
-001 212 744 0341 (h) ,phone,,19,4,0,0
+001 212 744 0341 (h) ,phone,1,19,4,0,0
 ovi 212 376 1225 ,phone,0,19,4,1,0
-"Ferragamo, Leonardo ",person_name,,19,5,0,0
+"Ferragamo, Leonardo ",person_name,1,19,5,0,1
 Beatrice ,,,19,5,0,0
-Villa Le Rose ,street,,19,5,0,0
-Via Brancoiano 2 ,,,19,5,0,0
+Villa Le Rose ,street,1,19,5,0,0
+Via Brancoiano 2 ,street,,19,5,0,0
 "Tavarnuzze, Ilaly 50029 ",zip,,19,5,0,0
-00 39 55 336 0334 ,phone,,19,5,0,0
+00 39 55 336 0334 ,phone,1,19,5,0,0
 00 39 55 375 242 0 ,phone,0,19,5,0,0
 "Ferranti, Hugo ",person_name,,19,5,0,1
-38 Evelyn Gardens ,street,,19,5,0,0
-London SW7 ,,,19,5,0,0
-078 534 5345 ,phone,,19,5,0,0
-0207-627 4727 () ,phone,,19,5,0,0
-0836 389118 ,phone,,19,5,0,0
+38 Evelyn Gardens ,street,1,19,5,0,0
+London SW7 ,street,,19,5,0,0
+078 534 5345 ,phone,1,19,5,0,0
+0207-627 4727 () ,phone,1,19,5,0,0
+0836 389118 ,phone,1,19,5,0,0
 01276 696912 (w) ,phone,0,19,5,0,0
 Ferry Brian ,person_name,,19,5,0,1
-Studio One ,,,19,5,0,0
+Studio One ,company,,19,5,0,0
 Avonmore Place ,street,,19,5,0,0
-"London, W14 ARY ",,,19,5,0,0
-0171 602 3330 ,phone,,19,5,0,0
-0171 603 0549 ,phone,,19,5,0,0
+"London, W14 ARY ",zip,,19,5,0,0
+0171 602 3330 ,phone,1,19,5,0,0
+0171 603 0549 ,phone,1,19,5,0,0
 Email: ,,,19,5,0,0
 E-Mail@denejesmond.demon ,email,,19,5,0,0
-"Flennes, Martin ",person_name,,19,5,0,1
-Broughton Castle ,,,19,5,0,0
-Banbury ,,,19,5,0,0
-Oxon ,,,19,5,0,0
-OX15 5EB ,,,19,5,0,0
-0207-372 1967 ,phone,,19,5,0,0
+"Fiennes, Martin ",person_name,,19,5,0,1
+Broughton Castle ,company,,19,5,0,0
+Banbury ,street,1,19,5,0,0
+Oxon ,street,,19,5,0,0
+OX15 5EB ,zip,,19,5,0,0
+0207-372 1967 ,phone,1,19,5,0,0
 0636 714333 ,phone,,19,5,0,0
 Email: dirs@hbleisure.co.uk ,email,,19,5,0,0
-262624 () ,,,19,5,0,0
-0253 290451 ,phone,,19,5,0,0
-0207-373 2634(h) ,phone,0,19,5,1,0
+262624 () ,phone,1,19,5,0,0
+0253 290451 ,phone,1,19,5,0,0
+0207-373 2634(h) ,phone,1,19,5,1,0
 001 017 359 3280 (P) ,phone,,20,2,0,0
 Forman Johnathan ,person_name,,20,2,0,1
-001 212 930 8545 ,phone,,20,2,0,0
-00 1212 664 1734 ,phone,,20,2,0,0
+001 212 930 8545 ,phone,1,20,2,0,0
+00 1212 664 1734 ,phone,1,20,2,0,0
 (Hm.001 917 359 3280 ,phone,,20,2,0,0
 "Formby, Nicola ",person_name,,20,2,0,1
 4353 Fulham Road ,street,,20,2,0,0
-"London, SW10 9TX ",,,20,2,0,0
+"London, SW10 9TX ",zip,,20,2,0,0
 07831 127575 (P,phone,,20,2,0,0
 Emait: ,,,20,2,0,0
 formby@lueblonde.demon.co ,email,,20,2,0,0
-0207 352 3600 (N) 0207 352 0504 ,phone,,20,2,0,0
-(A) ,,,20,2,0,0
+0207 352 3600 (N) 0207 352 0504 ,phone,1,20,2,0,0
+(A) ,phone,,20,2,0,0
 "Forte, Rocco & Aliai ",person_name,,20,2,0,1
-10 Lowndes Place ,street,,20,2,0,0
-London SW1 ,,,20,2,0,0
+10 Lowndes Place ,street,1,20,2,0,0
+London SW1 ,street,,20,2,0,0
 0207-235 6565 (h) ,phone,,20,2,0,0
 Fox Andrew ,person_name,,20,2,0,1
-00 61 3 822 0735(h) ,phone,,20,2,0,0
-00 61 3 206075 ,phone,,20,2,0,0
-00 613 206 030 00 613 869 ,phone,,20,2,0,0
-8333{w} ,,,20,2,0,0
+00 61 3 822 0735(h) ,phone,1,20,2,0,0
+00 61 3 206075 ,phone,1,20,2,0,0
+00 613 206 030 00 613 869 ,phone,1,20,2,0,0
+8333{w} ,phone,1,20,2,0,0
 00 613 869 8398 fax ,phone,,20,2,0,0
 "Fox, William & Lucinda ",person_name,,20,2,0,1
-110 Chesnut Grave ,street,,20,2,0,0
-"London SW12, ",,,20,2,0,0
+110 Chesnut Grave ,street,1,20,2,0,0
+"London SW12, ",street,,20,2,0,0
 0208-675 5625 (h) ,phone,0,20,2,1,0
-"Fraiser, Violet ",person_name,,20,3,0,0
+"Fraiser, Violet ",person_name,,20,3,0,1
 001 917 414 0922 ,phone,,20,3,0,0
 Email: vze2sxvy@verizon.net ,email,,20,3,0,0
 212 242 5607h) ,phone,,20,3,0,0
 Francesco de la Garda,person_name,,20,3,0,1
-Cameli & 10 spa ,,,20,3,0,1
-Via Roma 81A ,,,20,3,0,0
+Cameli & 10 spa ,street,1,20,3,0,0
+Via Roma 81A ,street,,20,3,0,0
 16121 Genoa laly ,address,,20,3,0,0
-0207-581 1044 (b,phone,,20,3,0,0
-00 39 10 55081 ) ,phone,,20,3,0,0
+0207-581 1044 (b,phone,1,20,3,0,0
+00 39 10 55081 ) ,phone,1,20,3,0,0
 0039 10 550830 ( w) ,phone,0,20,3,0,0
 "Francey, Kathy ",person_name,,20,3,0,1
-001 917 497 4510 ,phone,,20,3,0,0
+001 917 497 4510 ,phone,1,20,3,0,0
 001212 734 0747 ,phone,0,20,3,0,0
 "Fraysse, Isabel ",person_name,,20,3,0,1
 14 rue des Filles ,street,,20,3,0,0
 "Calvaire Paris, 75003 ",zip,,20,3,0,0
 00 33 1 4277 9106 (n) ,phone,,20,3,0,0
 Freud Mathew ,person_name,,20,3,0,1
-0207-291 6400 ,phone,,20,3,0,0
-0410 637383 ,phone,,20,3,0,0
+0207-291 6400 ,phone,1,20,3,0,0
+0410 637383 ,phone,1,20,3,0,0
 0207-351 2626 (w) ,phone,0,20,3,1,0
-Flick Mook ,person_name,,20,4,0,0
-Park House ,,,20,4,0,0
-7-11 Onslow Sg. ,,,20,4,0,0
-London SWT UNJ ,,,20,4,0,0
-0171-225 3147) ,phone,,20,4,0,0
+Flick Mook ,person_name,,20,4,0,1
+Park House ,street,1,20,4,0,0
+7-11 Onslow Sg. ,street,,20,4,0,0
+London SWT UNJ ,address,,20,4,0,0
+0171-225 3147) ,phone,1,20,4,0,0
 0171-581 1186/h) ,phone,0,20,4,0,0
-"Foman, Bobby & ",person_name,,20,4,0,1
+"Foman, Bobby & ",person_name,1,20,4,0,1
 jeanette ,,,20,4,0,0
-212-628-1561 h,phone,,20,4,0,0
-212-888-6100 w ,phone,,20,4,0,0
+212-628-1561 h,phone,1,20,4,0,0
+212-888-6100 w ,phone,1,20,4,0,0
 0207-235 9972 Home ,phone,,20,4,0,0
 Forbes Zandy ,person_name,,20,4,0,1
-001 212 353 9755 ,phone,,20,4,0,0
-001 212 829 4051 (w) ,phone,,20,4,0,0
+001 212 353 9755 ,phone,1,20,4,0,0
+001 212 829 4051 (w) ,phone,1,20,4,0,0
 001 017 846 7617 (p,phone,0,20,4,0,0
 "Forbes, Chris (Kip) Astrid ",person_name,,20,4,0,1
-Vice Chaman ,,,20,4,0,0
-Forbes Magazine ,,,20,4,0,0
-95 Old Dutch Road (h) ,street,,20,4,0,0
-Far Hills ,,,20,4,0,0
+Vice Chaman ,company,1,20,4,0,0
+Forbes Magazine ,company,,20,4,0,0
+95 Old Dutch Road (h) ,street,1,20,4,0,0
+Far Hills ,street,,20,4,0,0
 NU ,address,,20,4,0,0
-27931-2695 ,phone,,20,4,0,0
-313,,,20,4,0,0
-530,,,20,4,0,0
-2240,,,20,4,0,0
+27931-2695 ,phone,1,20,4,0,0
+313,phone,1,20,4,0,0
+530,phone,1,20,4,0,0
+2240,phone,,20,4,0,0
 Fifth Avenue ,street,,20,4,0,0
-New York ,address,,20,4,0,0
-NY ,address,,20,4,0,0
+New York ,address,1,20,4,0,0
+NY ,address,1,20,4,0,0
 10012,address,,20,4,0,0
-908 2341058 h) ,phone,,20,4,0,0
-719 379 3263 ,phone,,20,4,0,0
+908 2341058 h) ,phone,1,20,4,0,0
+719 379 3263 ,phone,1,20,4,0,0
 719 379 3608 ,phone,0,20,4,1,0
-"Forbes, Steve & Sabine ",person_name,,20,5,0,0
-Southdown ,,,20,5,0,0
+"Forbes, Steve & Sabine ",person_name,,20,5,0,1
+Southdown ,street,1,20,5,0,0
 Burnt Mills Road ,street,,20,5,0,0
 "Bedminster, N.J. 07921 ",zip,,20,5,0,0
 "Ford, Katie ",person_name,,20,5,0,1
-Ford Modals ,,,20,5,0,0
+Ford Modals ,company,,20,5,0,0
 142 Greene St. #5 (h) ,street,,20,5,0,0
 "New York, NY 10012 ",zip,,20,5,0,0
 212 219 6500 W) ,phone,,20,5,0,0
 Email: ,,,20,5,0,0
 katieford@fordmanagement. ,email,,20,5,0,0
 Hm 33 Nostrand Parkway ,address,,20,5,0,0
-4029 9868 Work - Paris ,,,20,5,0,0
-15 3709 Kalie Parents ,street,,20,5,0,0
+4029 9868 Work - Paris ,phone,,20,5,0,0
+15 3709 Kalie Parents ,street,1,20,5,0,0
 "219 6126""*** Katie direct ",street,,20,5,0,0
-rings work & home ,,,20,5,0,0
-631 749 0494 Shelter Island ,,,20,5,0,0
-212-219-6190 Downlown Office ,,,20,5,0,0
-646 541 2800 (P) ,phone,,20,5,0,0
-343 3884 WEL ,phone,,20,5,0,0
-212 328 8224 Andre's private ,,,20,5,0,0
-fax ,,,20,5,0,0
-212 226 8224 KATIE'S FAX ,phone,,20,5,0,0
-631 749 0512 (hi) ,phone,,20,5,0,0
+rings work & home ,phone,1,20,5,0,0
+631 749 0494 Shelter Island ,phone,1,20,5,0,0
+212-219-6190 Downlown Office ,phone,1,20,5,0,0
+646 541 2800 (P) ,phone,1,20,5,0,0
+343 3884 WEL ,phone,1,20,5,0,0
+212 328 8224 Andre's private ,phone,1,20,5,0,0
+fax ,phone,1,20,5,0,0
+212 226 8224 KATIE'S FAX ,phone,1,20,5,0,0
+631 749 0512 (hi) ,phone,1,20,5,0,0
 212 219 6119 (w,phone,,20,5,0,0
-"Ford, Tom & Richard ",person_name,,20,5,0,1
+"Ford, Tom & Richard ",person_name,1,20,5,0,1
 Buckley ,,,20,5,0,0
-Gucci ,,,20,5,0,0
+Gucci ,company,,20,5,0,0
 011 44 207 898 3000 ,phone,,20,5,0,0
 Email: xlerrier@aol.com ,email,,20,5,0,0
 Forman John ,person_name,,20,5,0,1
-001 212 930 8545 (W) ,phone,0,20,5,1,0
+001 212 930 8545 (W) ,phone,1,20,5,1,0
 001 646 251 2211 ,phone,0,21,2,0,0
 "Ganoza, Esteban Juan ",person_name,,21,2,0,1
 Avenida El Rosario 450 ,street,,21,2,0,0
-"San Isidro, Lima 27 Peru ",,,21,2,0,0
-+511 442 8734 (h) ,phone,,21,2,0,0
+"San Isidro, Lima 27 Peru ",address,,21,2,0,0
++511 442 8734 (h) ,phone,1,21,2,0,0
 +51 1264 4278 In ,phone,,21,2,0,0
 Email: iganoza@terra.com.pe ,email,,21,2,0,0
-Hm Pizarro 428 (h&w) ,,,21,2,0,0
-"Trujillo, Peru ",,,21,2,0,0
-+571 735 2000 (p) ,phone,,21,2,0,0
-001 212 625 2331 (friend in NY) ,phone,,21,2,0,0
-001 2 2 941 9341 when in NY ,phone,,21,2,0,0
+Hm Pizarro 428 (h&w) ,address,1,21,2,0,0
+"Trujillo, Peru ",address,,21,2,0,0
++571 735 2000 (p) ,phone,1,21,2,0,0
+001 212 625 2331 (friend in NY) ,phone,1,21,2,0,0
+001 2 2 941 9341 when in NY ,phone,1,21,2,0,0
 +51 44 2454 02/01 (w) ,phone,,21,2,0,0
 "Garcia, Ludmila ",person_name,,21,2,0,1
-Los Jeronicos Apt 4-22 ,,,21,2,0,0
-Calle de Moreto 9 ,street,,21,2,0,0
+Los Jeronicos Apt 4-22 ,address,1,21,2,0,0
+Calle de Moreto 9 ,address,1,21,2,0,0
 28014 Madrid Spain ,address,,21,2,0,0
-00 34 420 02111 ,phone,,21,2,0,0
-00 34 1420 2560 h) ,phone,,21,2,0,0
+00 34 420 02111 ,phone,1,21,2,0,0
+00 34 1420 2560 h) ,phone,1,21,2,0,0
 00 34 1396 5613 W ,phone,,21,2,0,0
-& Villa las Libres ,,,21,2,0,0
-Camino Real ,,,21,2,0,0
-Marbella Spain ,,,21,2,0,0
+& Villa las Libres ,address,1,21,2,0,0
+Camino Real ,address,1,21,2,0,0
+Marbella Spain ,address,,21,2,0,0
 00 34 52 774594 (h) ,phone,,21,2,0,0
 "Gardner, Adam ",person_name,,21,2,0,1
 001 212 691 9660 ,phone,,21,2,0,0
 Garland Michael ,person_name,,21,2,0,1
-0777 578771710). ,phone,,21,2,0,0
+0777 578771710). ,phone,1,21,2,0,0
 0207-235 2729th) ,phone,0,21,2,1,0
-Garson Jeremy ,person_name,,21,3,0,0
+Garson Jeremy ,person_name,,21,3,0,1
 0207-771 3264 ,phone,,21,3,0,0
 "Gaspar, Nacho ",person_name,,21,3,0,1
 43 Camino del Sur ,street,,21,3,0,0
-La Moraleja ,,,21,3,0,0
+La Moraleja ,address,,21,3,0,0
 Madrid Spain 28409 ,zip,,21,3,0,0
-00 34 1 6500325 (h) ,phone,,21,3,0,0
+00 34 1 6500325 (h) ,phone,1,21,3,0,0
 00 34 1 5645030 W) ,phone,,21,3,0,0
 "Gaul, Harriett ",person_name,,21,3,0,1
-"Percy Lodge, ",,,21,3,0,0
+"Percy Lodge, ",street,1,21,3,0,0
 15 Christ Church Rd ,street,,21,3,0,0
-London SW14 7AB ,,,21,3,0,0
-0208-878 0111h ,phone,,21,3,0,0
-0208-392 917110 ,phone,,21,3,0,0
-0208-878 0111 ,phone,,21,3,0,0
+London SW14 7AB ,zip,,21,3,0,0
+0208-878 0111h ,phone,1,21,3,0,0
+0208-392 917110 ,phone,1,21,3,0,0
+0208-878 0111 ,phone,1,21,3,0,0
 0207-499 9080(w) ,phone,,21,3,0,0
 Geary Tim ,person_name,,21,3,0,1
 001 917 566 0551 ,phone,,21,3,0,0
@@ -2364,66 +2364,66 @@ Email: ,,,21,3,0,0
 fim@sohohouseny.com/tim@t ,email,,21,3,0,0
 "Gelardin, Jack ",person_name,,21,3,0,1
 28 Mallard St ,street,,21,3,0,0
-London SW3 ,,,21,3,0,0
-0207-376 8497/h) ,phone,,21,3,0,0
-0207- 409 2324w) ,phone,,21,3,0,0
+London SW3 ,zip,,21,3,0,0
+0207-376 8497/h) ,phone,1,21,3,0,0
+0207- 409 2324w) ,phone,1,21,3,0,0
 0101 212 734 7905 (h) ,phone,,21,3,0,0
 German-Ribon Catriona ,person_name,,21,3,0,1
 0779 965 1673 ,phone,0,21,3,1,0
-"Frost, Mr David & Lady ",person_name,,21,4,0,0
+"Frost, Mr David & Lady ",person_name,1,21,4,0,1
 Carina ,,,21,4,0,0
-22 Carlyle Square ,street,,21,4,0,0
-London SW3 GEY ,,,21,4,0,0
+22 Carlyle Square ,street,1,21,4,0,0
+London SW3 GEY ,street,,21,4,0,0
 0207-351 3035 (h) ,phone,0,21,4,0,0
 "Frostrup, Mariella ",person_name,,21,4,0,1
-7970727272,phone,,21,4,0,0
+7970727272,phone,1,21,4,0,0
 0207-792 2976 ,phone,,21,4,0,0
 Email: mariella@brazenhusky.com ,email,,21,4,0,0
 "Fry, Cosmo & Amanda ",person_name,,21,4,0,1
-29 Stnhoge Gdns ,street,,21,4,0,0
-London SW7,,,21,4,0,0
+29 Stnhoge Gdns ,street,1,21,4,0,0
+London SW7,street,,21,4,0,0
 0207-373 6435ho ,phone,,21,4,0,0
 Fulhurst Teresa ,person_name,,21,4,0,1
 001 917 705 7230 ,phone,0,21,4,0,0
-"Furstenberg, Heinrich ",person_name,,21,4,0,1
+"Furstenberg, Heinrich ",person_name,1,21,4,0,1
 Milana ,,,21,4,0,0
 771 Donaueschingin ,street,,21,4,0,0
-Holserberg Germany ,,,21,4,0,0
-00 49 771 86508 (b ,phone,,21,4,0,0
-00 49 771 86423 (W) ,phone,0,21,4,0,0
-"Furstenbug, Alex, ",person_name,,21,4,0,1
+Holserberg Germany ,address,,21,4,0,0
+00 49 771 86508 (b ,phone,1,21,4,0,0
+00 49 771 86423 (W) ,phone,,21,4,0,0
+"Furstenbug, Alex, ",person_name,1,21,4,0,1
 Alexandra V. ,,,21,4,0,0
 001 212 396 4393(h) ,phone,0,21,4,1,0
-Furstenburg Buravelli,person_name,,21,5,0,0
+Furstenburg Buravelli,person_name,1,21,5,0,1
 Nina ,,,21,5,0,0
-via Delle Mantellante 26 ,,,21,5,0,0
-"Rome, Italy ",,,21,5,0,0
+via Delle Mantellante 26 ,street,,21,5,0,0
+"Rome, Italy ",address,,21,5,0,0
 00 39 3384671195(p) ,phone,,21,5,0,0
-00 39 0658331144h ,phone,,21,5,0,0
-Email: 00 39 0564609077(Coun- ,phone,,21,5,0,0
+00 39 0658331144h ,phone,1,21,5,0,0
+Email: 00 39 0564609077(Coun- ,phone,1,21,5,0,0
 try) ,,,21,5,0,0
 "Fyson, Edwina ",person_name,,21,5,0,1
-13 Ives Street ,street,,21,5,0,0
-London SW3,,,21,5,0,0
-0207-584 5577 () ,phone,,21,5,0,0
+13 Ives Street ,street,1,21,5,0,0
+London SW3,street,,21,5,0,0
+0207-584 5577 () ,phone,1,21,5,0,0
 00 345 661 30 30 (w) ,phone,,21,5,0,0
 "Gaetani, Gelasto ",person_name,,21,5,0,1
-"Via Gregoriana, 5 ",,,21,5,0,0
+"Via Gregoriana, 5 ",street,,21,5,0,0
 "Roma, 00187 ",zip,,21,5,0,0
 06 678 1781 ,phone,0,21,5,0,0
 "Gaetani, Rufreido ",person_name,,21,5,0,1
 001 212 371 4136 ,phone,0,21,5,0,0
 "Gallman, Kuki ",person_name,,21,5,0,1
 Box 45593 ,zip,,21,5,0,0
-Gigiri Road ,street,,21,5,0,0
-Nairobi ,,,21,5,0,0
-Kenya ,,,21,5,0,0
+Gigiri Road ,street,1,21,5,0,0
+Nairobi ,street,,21,5,0,0
+Kenya ,country,,21,5,0,0
 00 25 4 2520048 (h) ,phone,,21,5,0,0
 "Ganero, Mario Jr. ",person_name,,21,5,0,1
 55 11 9970 1020 (p) ,phone,0,21,5,1,0
-Email: cribon@pfd.co.uk ,person_name,0,22,2,0,0
+Email: cribon@pfd.co.uk ,email,0,22,2,0,0
 "Gertler, Eric ",person_name,,22,2,0,1
-Privista ,,,22,2,0,0
+Privista ,company,,22,2,0,0
 11 E. 26th Street ,address,,22,2,0,0
 15th floor ,street,,22,2,0,0
 "New York, NY 10010 ",zip,,22,2,0,0
@@ -2431,86 +2431,86 @@ Privista ,,,22,2,0,0
 Email: agertler a privista.com ,email,,22,2,0,0
 212 653 8221 0,phone,,22,2,0,0
 "Getty, Mark ",person_name,,22,2,0,1
-0207-446 0560 (w} ,phone,,22,2,0,0
-0207-495 8865(W,phone,,22,2,0,0
+0207-446 0560 (w} ,phone,1,22,2,0,0
+0207-495 8865(W,phone,1,22,2,0,0
 0207-821-8581 (0) ,phone,,22,2,0,0
 "Getty, Pia and Chris ",person_name,,22,2,0,1
 20 East 78th Street ,street,,22,2,0,0
 "New York, NY 10021 ",zip,,22,2,0,0
-001 212 717 6590(h) ,phone,,22,2,0,0
+001 212 717 6590(h) ,phone,1,22,2,0,0
 001 212 297 1727{w} ,phone,,22,2,0,0
 Email: plag@aol.com ,email,,22,2,0,0
 001 917 927 6788 ,phone,,22,2,0,0
 "Gibbs, Emma ",person_name,,22,2,0,1
-Garden Frat ,,,22,2,0,0
+Garden Frat ,street,1,22,2,0,0
 61 lfield Road ,street,,22,2,0,0
-"London, SW10 SAU UK ",,,22,2,0,0
-0207-351-31721) ,phone,,22,2,0,0
+"London, SW10 SAU UK ",address,,22,2,0,0
+0207-351-31721) ,phone,1,22,2,0,0
 +44 7710 816 355 (p) ,phone,,22,2,0,0
 Email: ,,,22,2,0,0
 emmagibbsuk@hotmail.com ,email,,22,2,0,0
 0207-352 3040 work ,phone,0,22,2,1,0
-"Gibson, Caroline ",person_name,,22,3,0,0
+"Gibson, Caroline ",person_name,,22,3,0,1
 43 Camberwelt ,street,,22,3,0,0
-London SE5. ,,,22,3,0,0
-0207-703 5974 {} ,phone,,22,3,0,0
+London SE5. ,address,,22,3,0,0
+0207-703 5974 {} ,phone,1,22,3,0,0
 0207-937 6044 (W) ,phone,,22,3,0,0
 "Gillfilan, Andrew ",person_name,,22,3,0,1
-Box 65014 ,zip,,22,3,0,0
-Beamare ,,,22,3,0,0
-Sandtan 2010 South Africa ,,,22,3,0,0
-00 27 11 7832650 (P) ,phone,,22,3,0,0
+Box 65014 ,address,1,22,3,0,0
+Beamare ,address,1,22,3,0,0
+Sandtan 2010 South Africa ,address,,22,3,0,0
+00 27 11 7832650 (P) ,phone,1,22,3,0,0
 0207-730 3412 (w) ,phone,,22,3,0,0
 "Gillford, Lord & Lady ",person_name,,22,3,0,1
-12 Ashcombe Street ,street,,22,3,0,0
-"London SW6, ",,,22,3,0,0
-0207-384 2129 (h} ,phone,,22,3,0,0
+12 Ashcombe Street ,street,1,22,3,0,0
+"London SW6, ",street,,22,3,0,0
+0207-384 2129 (h} ,phone,1,22,3,0,0
 0207-245 1245 (W) ,phone,,22,3,0,0
-"Gillmour, Andrew & ",person_name,,22,3,0,1
+"Gillmour, Andrew & ",person_name,1,22,3,0,1
 Emma ,,,22,3,0,0
 001 212 533 0656 (h) ,phone,,22,3,0,0
 Ginsberg Gary ,person_name,,22,3,0,1
-001 212 852 7016(w) ,phone,,22,3,0,0
+001 212 852 7016(w) ,phone,1,22,3,0,0
 001 917 679 74451p) ,phone,,22,3,0,0
 Email: ,,,22,3,0,0
 gginsberg@newscorp.COTTI ,email,,22,3,0,0
 "Gittis, Howard ",person_name,,22,3,0,1
-MacAndrews ,,,22,3,0,0
+MacAndrews ,company,,22,3,0,0
 35 East 62nd Street ,street,,22,3,0,0
 "New York, NY 10021 ",zip,0,22,3,1,0
-212-572-5090 ,phone,,22,4,0,0
-212-572-8400 ,phone,,22,4,0,0
+212-572-5090 ,phone,1,22,4,0,0
+212-572-8400 ,phone,1,22,4,0,0
 407-835-8760 Palm Beach ,phone,,22,4,0,0
 Giussani Luca ,person_name,,22,4,0,1
-011 305 673 9811 ,phone,,22,4,0,0
+011 305 673 9811 ,phone,1,22,4,0,0
 011 305 467 7737(p) ,phone,,22,4,0,0
 Email: lgiussani@dorial.net ,email,0,22,4,0,0
 Glanville Mary ,person_name,,22,4,0,1
-58a Radnor Walk ,street,,22,4,0,0
-London SW3 ,,,22,4,0,0
+58a Radnor Walk ,street,1,22,4,0,0
+London SW3 ,street,,22,4,0,0
 0207-352 3436(h) ,phone,,22,4,0,0
 "Glass, Charlie ",person_name,,22,4,0,1
-07 727 7638(b) ,phone,,22,4,0,0
+07 727 7638(b) ,phone,1,22,4,0,0
 07 979 857 810(p) ,phone,,22,4,0,0
-"Glentworth, Edmund & ",person_name,,22,4,0,1
+"Glentworth, Edmund & ",person_name,1,22,4,0,1
 Emily ,,,22,4,0,0
 0207-735 2832 ,phone,,22,4,0,0
 "Goess, Pilar ",person_name,,22,4,0,1
-00 43 1 505 1775 ,phone,,22,4,0,0
-00 43 1 713 3905 ,phone,,22,4,0,0
-00 33 1 47224137 ,phone,,22,4,0,0
+00 43 1 505 1775 ,phone,1,22,4,0,0
+00 43 1 713 3905 ,phone,1,22,4,0,0
+00 33 1 47224137 ,phone,1,22,4,0,0
 00 16 4 453 3098 ,phone,,22,4,0,0
 "Goldberg, Ellen ",person_name,,22,4,0,1
-Sante Fa Institute ,,,22,4,0,0
+Sante Fa Institute ,company,,22,4,0,0
 505 946 3643 (,phone,0,22,4,1,0
 "Goldsmith, Isabel ",person_name,,22,5,0,0
 1362 Angelo Or. ,street,,22,5,0,0
 "Beverly Hills, CA 90210 ",zip,,22,5,0,0
-11 Road ,street,,22,5,0,0
-Trend SW10 SLS ,,,22,5,0,0
-818 783 7048 Home ,phone,,22,5,0,1
+11 Road ,street,1,22,5,0,0
+Trend SW10 SLS ,street,,22,5,0,0
+818 783 7048 Home ,phone,1,22,5,0,1
 310 271 7150 LA - Home ,phone,,22,5,0,0
-7657 Mexico City ,street,,22,5,0,0
+7657 Mexico City ,street,1,22,5,0,0
 765819 Mexico City - ,,,22,5,0,0
 52 3 337 0161 (hi) ,phone,,22,5,0,0
 0836 285 485 London - Car ,,,22,5,0,0
@@ -2529,114 +2529,114 @@ Sandy Golinkin@condenas ,email,,22,5,0,0
 220 E. 651h Street ,address,,22,5,0,0
 Penthouse B ,,,22,5,0,0
 001 212 826 2766 ,phone,0,22,5,1,0
-"Greece, MC & Pavios ",person_name,,23,2,0,0
-Ath Praca Pavlos ,,,23,2,0,0
-001 212 452 1542(h) ,phone,,23,2,0,0
+"Greece, MC & Pavios ",person_name,,23,2,0,1
+Ath Praca Pavlos ,company,,23,2,0,0
+001 212 452 1542(h) ,phone,1,23,2,0,0
 001 860 868 1737 ,phone,,23,2,0,0
 Emailpavlos@ivorycapital.com ,email,,23,2,0,0
-Hm 001 917 770 2922(pp) ,phone,,23,2,0,0
-001 212 692 6362 pW) ,phone,,23,2,0,0
-001 212 861 6492(ph) ,phone,,23,2,0,0
+Hm 001 917 770 2922(pp) ,phone,1,23,2,0,0
+001 212 692 6362 pW) ,phone,1,23,2,0,0
+001 212 861 6492(ph) ,phone,1,23,2,0,0
 212 861 6963 MC (w) ,phone,,23,2,0,0
 "Green, Deborah ",person_name,,23,2,0,1
-0207-235 8305 ,phone,,23,2,0,0
-00 41 30 45 671 ,phone,,23,2,0,0
+0207-235 8305 ,phone,1,23,2,0,0
+00 41 30 45 671 ,phone,1,23,2,0,0
 001 213 858 8625 (h,phone,0,23,2,0,0
 "Green, Jeremy ",person_name,,23,2,0,1
-4 Avenue Fontainbleuh) ,street,,23,2,0,0
-"Fresnaye, 8001 ",,,23,2,0,0
-"Capetown, South Africa ",,,23,2,0,0
-21 83 323 7007(,phone,,23,2,0,0
+4 Avenue Fontainbleuh) ,street,1,23,2,0,0
+"Fresnaye, 8001 ",street,,23,2,0,0
+"Capetown, South Africa ",address,,23,2,0,0
+21 83 323 7007(,phone,1,23,2,0,0
 07947 131910 ,phone,,23,2,0,0
 Email: jeremy@bugan.com ,email,,23,2,0,0
-Hm 121 Victoria Junction (w) ,,,23,2,0,0
-Prestwich Street ,,,23,2,0,0
-"Green Point, 8005 ",,,23,2,0,0
-"Cape Town, South Africa ",,,23,2,0,0
-27 21 434 8189 h ,phone,,23,2,0,0
-00 21 461 38320 ,phone,,23,2,0,0
+Hm 121 Victoria Junction (w) ,street,1,23,2,0,0
+Prestwich Street ,street,1,23,2,0,0
+"Green Point, 8005 ",street,,23,2,0,0
+"Cape Town, South Africa ",address,,23,2,0,0
+27 21 434 8189 h ,phone,1,23,2,0,0
+00 21 461 38320 ,phone,1,23,2,0,0
 27 21 425 6383 Jeanine ,phone,,23,2,0,0
 "Green, Judy ",person_name,,23,2,0,1
 555 Park Ave. ,street,,23,2,0,0
 "New York, NY 10021 ",zip,,23,2,0,0
 001 212 486-1077 ,phone,0,23,2,1,0
-Gregg Geordie & Kath-,person_name,1,23,3,0,0
+Gregg Geordie & Kath-,person_name,1,23,3,0,1
 erine ,,,23,3,0,0
 36 Kensington Park Grdns ,street,,23,3,0,0
-0207-499 9080 w ,phone,,23,3,0,0
-0207-221 5758h) ,phone,,23,3,0,0
-0207-351 1413 ,phone,,23,3,0,0
+0207-499 9080 w ,phone,1,23,3,0,0
+0207-221 5758h) ,phone,1,23,3,0,0
+0207-351 1413 ,phone,1,23,3,0,0
 077 47 695 830 cell ,phone,,23,3,0,0
 "Grenfell, Natasha ",person_name,,23,3,0,1
-19 Cheyne Place ,street,,23,3,0,0
-Royal Hospital Road ,street,,23,3,0,0
-London SW3. ,,,23,3,0,0
+19 Cheyne Place ,street,1,23,3,0,0
+Royal Hospital Road ,street,1,23,3,0,0
+London SW3. ,street,,23,3,0,0
 0207-351 1413 (7) ,phone,,23,3,0,0
 "Griffen, Ted ",person_name,,23,3,0,1
 001 646 486 6573 ,phone,0,23,3,0,0
 "Griscom, Nina ",person_name,,23,3,0,1
-asst. Kelly ,,,23,3,0,0
+asst. Kelly ,company,,23,3,0,0
 640 Park Avenue ,street,,23,3,0,0
 "New York, NY 10021 ",zip,,23,3,0,0
-001 212 744 0442 ,phone,,23,3,0,0
+001 212 744 0442 ,phone,1,23,3,0,0
 "001 631,283 8505 ",phone,,23,3,0,0
 Email: ninaggg@aol.com ,email,,23,3,0,0
-001 212 879 6883 () ,phone,,23,3,0,0
+001 212 879 6883 () ,phone,1,23,3,0,0
 212-744-1805 Home Tax ,phone,,23,3,0,0
-"Gross, Pamela & ",person_name,,23,3,0,1
+"Gross, Pamela & ",person_name,1,23,3,0,1
 Jimmy Finkelst ,,,23,3,0,0
 655 Park Avenue ,street,,23,3,0,0
 "New York, NY 10021 ",zip,,23,3,0,0
 212 737 4292 (h) ,phone,,23,3,0,0
 Email: pglo@aol.com (pamela) ,email,,23,3,0,0
 (Hm}505 First Neck Lane ,address,0,23,3,1,0
-"Gomme, William & ",person_name,,23,4,0,0
-27 Ladbroke ,street,,23,4,0,0
-Square ,street,,23,4,0,0
-London Wit ,,,23,4,0,0
+"Gomme, William & Emma",person_name,,23,4,0,1
+27 Ladbroke ,street,1,23,4,0,0
+Square ,street,1,23,4,0,0
+London W11,street,,23,4,0,0
 0207-221 0899 (h) ,phone,,23,4,0,0
 "Gordon, Jacobo ",person_name,,23,4,0,1
-CG Investments ,,,23,4,0,0
-"Ppe de Vergara, 128. ",,,23,4,0,0
-Entreplanta ,,,23,4,0,0
+CG Investments ,company,,23,4,0,0
+"Ppe de Vergara, 128. ",street,,23,4,0,0
+Entreplanta ,address,1,23,4,0,0
 28002 Madrid ,address,,23,4,0,0
-34 917 453 540 (0) ,phone,,23,4,0,0
+34 917 453 540 (0) ,phone,1,23,4,0,0
 34 914 111 988 0 ,phone,0,23,4,0,0
 "Gore, Juliet ",person_name,,23,4,0,1
-49 Smith Street ,street,,23,4,0,0
-London SW3 ,,,23,4,0,0
+49 Smith Street ,street,1,23,4,0,0
+London SW3 ,street,,23,4,0,0
 0207-581 4178 () ,phone,,23,4,0,0
 "Gottlieb, Steve ",person_name,,23,4,0,1
-001 212 713 0572 (h) ,phone,,23,4,0,0
+001 212 713 0572 (h) ,phone,1,23,4,0,0
 001 212 979 6410 () ,phone,,23,4,0,0
-Goulandris ,person_name,,23,4,0,1
+Goulandris ,person_name,1,23,4,0,1
 Dimitri ,,,23,4,0,0
-0207-221 2532(h ,phone,,23,4,0,0
-0707-425 3640w) ,phone,,23,4,0,0
+0207-221 2532(h ,phone,1,23,4,0,0
+0707-425 3640w) ,phone,1,23,4,0,0
 0468 875060 ,phone,,23,4,0,0
 "Grabau, Lorenzo ",person_name,,23,4,0,1
-0207-370 6454 (h) ,phone,,23,4,0,0
-0207-867 2925 w. ,phone,,23,4,0,0
+0207-370 6454 (h) ,phone,1,23,4,0,0
+0207-867 2925 w. ,phone,1,23,4,0,0
 00 39 6 320 1435 (Rome) ,phone,0,23,4,1,0
 Emma ,person_name,,23,5,0,0
-"Graff, Francois ",person_name,,23,5,0,0
-Managing Director ,,,23,5,0,0
-Graff ,,,23,5,0,0
+"Graff, Francois ",person_name,,23,5,0,1
+Managing Director ,company,,23,5,0,0
+Graff ,street,1,23,5,0,0
 721 Madison Ave. ,street,,23,5,0,0
-NY ,address,,23,5,0,0
+NY ,address,1,23,5,0,0
 10021,address,,23,5,0,0
-001 212 355 9292(w) ,phone,,23,5,0,0
+001 212 355 9292(w) ,phone,1,23,5,0,0
 0207 584 857114 ,phone,,23,5,0,0
-(Hm}6 87 new bond Street ,,,23,5,0,0
-London ,,,23,5,0,0
+(Hm}6 87 new bond Street ,address,1,23,5,0,0
+London ,address,1,23,5,0,0
 WIS ,address,0,23,5,0,0
 "Granby, David ",person_name,,23,5,0,1
-51 Seymour Walk ,street,,23,5,0,0
-"London SW10, ",,,23,5,0,0
-01476 870798(h) ,phone,,23,5,0,0
-0207-352 4074 (h) ,phone,,23,5,0,0
-0629 812014 th) ,phone,,23,5,0,0
-01476 870246 (ph) ,phone,,23,5,0,0
+51 Seymour Walk ,street,1,23,5,0,0
+"London SW10, ",street,,23,5,0,0
+01476 870798(h) ,phone,1,23,5,0,0
+0207-352 4074 (h) ,phone,1,23,5,0,0
+0629 812014 th) ,phone,1,23,5,0,0
+01476 870246 (ph) ,phone,1,23,5,0,0
 01629 812014 ,phone,0,23,5,0,0
 "Grange, Jacques ",person_name,,23,5,0,1
 9 rue de Beaujolais ,street,,23,5,0,0
@@ -2644,370 +2644,370 @@ WIS ,address,0,23,5,0,0
 0033 1 47034455 (h) ,phone,,23,5,0,0
 Grant Jamie ,person_name,,23,5,0,1
 001 212 851 6571(h) ,phone,,23,5,0,0
-Greece ,person_name,,23,5,0,1
+Greece ,person_name,1,23,5,0,1
 Princess Olga ,,,23,5,0,0
 001 212 628 1237 ,phone,0,23,5,1,0
 "Souti ton, NY 11968 ",zip,,24,2,0,0
 743 (hf) ,street,,24,2,0,0
-631 287 5597 hi ,phone,,24,2,0,0
+631 287 5597 hi ,phone,1,24,2,0,0
 213 839 5025 W ,phone,,24,2,0,0
 297 Pamela p ,street,,24,2,0,0
-917 825 0299 James car p ,phone,,24,2,0,0
+917 825 0299 James car p ,phone,1,24,2,0,0
 212 212 212 689 288 689 4018 8600 1470 Pamela (James W) w w ,phone,0,24,2,0,0
-Grossman ,person_name,,24,2,0,1
+Grossman ,person_name,1,24,2,0,1
 Lloyd ,,,24,2,0,0
 0207-736 7376 ,phone,0,24,2,0,0
 "Gubelmann, Marjorie ",person_name,,24,2,0,1
 40 East 62nd St ,street,,24,2,0,0
-Now York ,,,24,2,0,0
-NY ,address,,24,2,0,0
+Now York ,address,1,24,2,0,0
+NY ,address,1,24,2,0,0
 10021,address,,24,2,0,0
-212 758 0508 ,phone,,24,2,0,0
+212 758 0508 ,phone,1,24,2,0,0
 917 282 2112 ,phone,0,24,2,0,0
 "Guccioni, Tony ",person_name,,24,2,0,1
-001 212 941 8303(w) ,phone,,24,2,0,0
+001 212 941 8303(w) ,phone,1,24,2,0,0
 001 212 226 6751 h) ,phone,,24,2,0,0
 "Gudefin, Christian ",person_name,,24,2,0,1
-Deutshce Bank ,,,24,2,0,0
-01 212 250 646810) ,phone,,24,2,0,0
+Deutshce Bank ,company,,24,2,0,0
+01 212 250 646810) ,phone,1,24,2,0,0
 01 212 722 3747h,phone,,24,2,0,0
 Email: ,,,24,2,0,0
 001 212 christian.g.gudefin@db.co 722 3727 () ,email,,24,2,0,0
 0207-584 9668 (h) ,phone,0,24,2,1,0
 ESKASTETISTAS ,,,24,3,0,0
-"Guedroitz, Solina & ",person_name,,24,3,0,0
+"Guedroitz, Solina & ",person_name,1,24,3,0,1
 Nicolas ,,,24,3,0,0
-Sally & Rufus' bestfriends ,,,24,3,0,0
+Sally & Rufus' bestfriends ,company,,24,3,0,0
 24 Pimlico Road ,street,,24,3,0,0
 "London011 44 207 , England 730 3111 SW1W SL ",phone,,24,3,0,0
 011 44 207 730 14411 ,phone,,24,3,0,0
-Guerini ,person_name,,24,3,0,1
-"Maraldi, ",,,24,3,0,0
+Guerini ,person_name,1,24,3,0,1
+"Maraldi, ",,1,24,3,0,0
 Alessandro ,,,24,3,0,0
-11 Elm Park Rd. ,street,,24,3,0,0
-London SW3 ,,,24,3,0,0
-0207-860 9057 (w ,phone,,24,3,0,0
-0207 795 1060 (h). ,phone,,24,3,0,0
+11 Elm Park Rd. ,street,1,24,3,0,0
+London SW3 ,street,,24,3,0,0
+0207-860 9057 (w ,phone,1,24,3,0,0
+0207 795 1060 (h). ,phone,1,24,3,0,0
 0776 823 1728 ) ,phone,0,24,3,0,0
-"Guerrand-Hermes, ",person_name,,24,3,0,1
+"Guerrand-Hermes, ",person_name,1,24,3,0,1
 Valesca ,,,24,3,0,0
-mathias ,,,24,3,0,0
-1 West 67th ,street,,24,3,0,0
-#514 ,,,24,3,0,0
+mathias ,company,,24,3,0,0
+1 West 67th ,street,1,24,3,0,0
+#514 ,street,,24,3,0,0
 New York ,address,,24,3,0,0
 "NY, 10023 ",zip,,24,3,0,0
-1 212 579 7572 ,phone,,24,3,0,0
+1 212 579 7572 ,phone,1,24,3,0,0
 1 917 400 1144 () ,phone,,24,3,0,0
 "Guest, Cornelia ",person_name,,24,3,0,1
-001 917 861 0426(P) ,phone,,24,3,0,0
+001 917 861 0426(P) ,phone,1,24,3,0,0
 001 516 997 2576 ,phone,0,24,3,0,0
-"Guggenheim, Barbara ",person_name,,24,3,0,1
+"Guggenheim, Barbara ",person_name,1,24,3,0,1
 & Bert Fie ,,,24,3,0,0
-Barbara Guggenheim ,,,24,3,0,0
+Barbara Guggenheim ,company,,24,3,0,0
 8328 Marmont Lane ,street,0,24,3,1,0
 "Los Angeles, CA 90069 (h) ",zip,,24,4,0,0
 63 East 82nd Street ,street,,24,4,0,0
 "New York, NY 10028 ",zip,,24,4,0,0
-Home ,,,24,4,0,1
-NY - Barbara Home ,,,24,4,0,0
-132810553,phone,,24,4,0,0
-310 2017454 Burt's work ,,,24,4,0,0
-212 265 6633 Burt NY home ,phone,,24,4,0,0
-310 801 9621 Barb (p) ,phone,,24,4,0,0
+Home ,phone,1,24,4,0,1
+NY - Barbara Home ,phone,1,24,4,0,0
+132810553,phone,1,24,4,0,0
+310 2017454 Burt's work ,phone,1,24,4,0,0
+212 265 6633 Burt NY home ,phone,1,24,4,0,0
+310 801 9621 Barb (p) ,phone,1,24,4,0,0
 310 456 8824 beach fiouse ,phone,,24,4,0,0
 "Guiness, Sabrina ",person_name,,24,4,0,1
-101 561 964 8316 ,phone,,24,4,0,0
+101 561 964 8316 ,phone,1,24,4,0,0
 001 213 656 0470 (h) ,phone,0,24,4,0,0
 "Guinness, Mr Hugo ",person_name,,24,4,0,1
-29 Brechin Place ,street,,24,4,0,0
-London SW7,,,24,4,0,0
+29 Brechin Place ,street,1,24,4,0,0
+London SW7,street,,24,4,0,0
 0207-370 1947 (h) ,phone,0,24,4,0,0
 "Guissaini, Luca ",person_name,,24,4,0,1
-001 305 673 9811(h) ,phone,,24,4,0,0
+001 305 673 9811(h) ,phone,1,24,4,0,0
 011 305 467 7737 ,phone,0,24,4,0,0
 "Gumberg, Ira ",person_name,,24,4,0,1
 001 412 244 4007 ,phone,0,24,4,1,0
-Guttfreund Susan ,person_name,,24,5,0,0
+Guttfreund Susan ,person_name,1,24,5,0,1
 & John ,,,24,5,0,0
-212 517 3455 ,phone,,24,5,0,0
-212 956 1283 john work ,phone,,24,5,0,0
-508 228 1776 ,phone,,24,5,0,0
-508 325 5480 Sec Diana ,,,24,5,0,0
+212 517 3455 ,phone,1,24,5,0,0
+212 956 1283 john work ,phone,1,24,5,0,0
+508 228 1776 ,phone,1,24,5,0,0
+508 325 5480 Sec Diana ,phone,,24,5,0,0
 "Hahn, Dr & Mrs ",person_name,,24,5,0,1
-PO Box 383 ,address,,24,5,0,0
-Porto Rotondo Sardinia ,,,24,5,0,0
-& Rothehof 3180 Wolfsburg ,,,24,5,0,0
-Germ ,,,24,5,0,0
+PO Box 383 ,address,1,24,5,0,0
+Porto Rotondo Sardinia ,address,1,24,5,0,0
+& Rothehof 3180 Wolfsburg ,address,1,24,5,0,0
+Germ ,address,,24,5,0,0
 "Hail, Pippa ",person_name,,24,5,0,1
 OB04 25302 ,zip,,24,5,0,0
 Halpern Jen ,person_name,,24,5,0,1
-38 Ringmarthe Street SW6 ,street,,24,5,0,0
-(hm Halpern Associales ,,,24,5,0,0
-250A Kings Road ,street,,24,5,0,0
-London SW3 SUE ,,,24,5,0,0
-"0207 351 2888, ",phone,,24,5,0,0
-0207-736 9940'n) ,phone,,24,5,0,0
-0207-589 3614 w) ,phone,,24,5,0,0
-0777 419 7871 (p) ,phone,,24,5,0,0
+38 Ringmarthe Street SW6 ,street,1,24,5,0,0
+(hm Halpern Associales ,street,1,24,5,0,0
+250A Kings Road ,street,1,24,5,0,0
+London SW3 SUE ,street,,24,5,0,0
+"0207 351 2888, ",phone,1,24,5,0,0
+0207-736 9940'n) ,phone,1,24,5,0,0
+0207-589 3614 w) ,phone,1,24,5,0,0
+0777 419 7871 (p) ,phone,1,24,5,0,0
 "Hambro, Clementine ",person_name,,24,5,0,1
-001 917 405 8490 ,phone,,24,5,0,0
+001 917 405 8490 ,phone,1,24,5,0,0
 0207-823 4115 ,phone,,24,5,0,0
 "Hamilton, George ",person_name,,24,5,0,1
-21 Eaton Mews South SW1 ,street,0,24,5,1,0
-(Hm)139 South ,,,25,2,0,0
+21 Eaton Mews South SW1 ,street,1,24,5,1,0
+(Hm)139 South ,street,1,25,2,0,0
 Suité 233 Beverly Drive ,street,,25,2,0,0
-Beverly Hills ,,,25,2,0,0
+Beverly Hills ,address,,25,2,0,0
 CA 90212 ,zip,,25,2,0,0
-0207-235 ,phone,,25,2,0,0
-5338 (h) ,,,25,2,0,0
-001 310 276 5646 ,phone,,25,2,0,0
-001 001 001 001 310 310 310 303 503 702 925 278 1930 6578 8055 1000 (Aspenpeggy p) ) w) ,phone,0,25,2,0,1
-"Hammond, Dana ",person_name,,25,2,0,0
+0207-235 ,phone,1,25,2,0,0
+5338 (h) ,phone,1,25,2,0,0
+001 310 276 5646 ,phone,1,25,2,0,0
+001 001 001 001 310 310 310 303 503 702 925 278 1930 6578 8055 1000 (Aspenpeggy p) ) w) ,phone,0,25,2,0,0
+"Hammond, Dana ",person_name,,25,2,0,1
 117 East 72nd Street ,street,,25,2,0,0
-001 001 212 212 288 283 0403 5047 (,phone,,25,2,0,0
+001 001 212 212 288 283 0403 5047 (,phone,1,25,2,0,0
 001 561 588 7532 ,phone,0,25,2,0,0
 "Handler, Sharon ",person_name,,25,2,0,1
-530 Park Avenue ,street,,25,2,0,0
-Apt 5H ,,,25,2,0,0
-"New 212 001 001 212 230 212 York888 758 1445 , NY 7676 9129 (hl10021 ) (Wh) ) ",phone,,25,2,0,1
-"917 230 1445, p) ",phone,,25,2,0,0
-Loeb's 212509 office 1500 In July try John ,,,25,2,0,0
+530 Park Avenue ,street,1,25,2,0,0
+Apt 5H ,street,,25,2,0,0
+"New 212 001 001 212 230 212 York888 758 1445 , NY 7676 9129 (hl10021 ) (Wh) ) ",phone,1,25,2,0,0
+"917 230 1445, p) ",phone,1,25,2,0,0
+Loeb's 212509 office 1500 In July try John ,phone,1,25,2,0,0
 914 684 6165 weekends' ,phone,,25,2,0,0
-Hanover ,person_name,,25,2,0,1
-Hurtingham ro Ernst & chantal ,,,25,2,0,0
-London SW6 ,,,25,2,0,0
-0207-7314422,phone,,25,2,0,0
-(h) ,,0,25,2,1,0
-"Hanson, Brook ",person_name,,25,3,0,0
-65 Eaton Square ,street,,25,3,0,0
-London SW1,,,25,3,0,0
-0207-235 8179 h) ,phone,,25,3,0,0
-0207-245 ,phone,,25,3,0,0
-1245 (w) ,,0,25,3,0,0
+Hanover Ernst & chantal,person_name,,25,2,0,1
+Hurlingham rd,company,,25,2,0,0
+London SW6 ,street,,25,2,0,0
+0207-7314422,phone,1,25,2,0,0
+(h) ,phone,0,25,2,1,0
+"Hanson, Brook ",person_name,,25,3,0,1
+65 Eaton Square ,street,1,25,3,0,0
+London SW1,street,,25,3,0,0
+0207-235 8179 h) ,phone,1,25,3,0,0
+0207-245 ,phone,1,25,3,0,0
+1245 (w) ,phone,0,25,3,0,0
 "Hanson, Lord & Lady ",person_name,,25,3,0,1
-Kimber ,,,25,3,0,0
-Cottage ,,,25,3,0,0
-Chieveley ,,,25,3,0,0
-Nr Newbury Berks ,,,25,3,0,0
-0635 248835 (,phone,,25,3,0,0
+Kimber ,address,1,25,3,0,0
+Cottage ,address,1,25,3,0,0
+Chieveley ,address,1,25,3,0,0
+Nr Newbury Berks ,address,,25,3,0,0
+0635 248835 (,phone,1,25,3,0,0
 001 001 212 619 320 355 2088 9980 (NYPSpr) ) ,phone,0,25,3,0,0
-"Hanson, The Hon Rob. ",person_name,,25,3,0,1
+"Hanson, The Hon Rob. ",person_name,1,25,3,0,1
 ert ,,,25,3,0,0
-The Garden House ,street,,25,3,0,0
-Westonbirt ,,,25,3,0,0
-01666 Tetbury880 Glos 491GL8 (5). 8QQ ,phone,,25,3,0,0
+The Garden House ,street,1,25,3,0,0
+Westonbirt ,street,,25,3,0,0
+01666 Tetbury880 Glos 491GL8 (5). 8QQ ,phone,1,25,3,0,0
 01666 Hm) 880 313 (hr): ,phone,,25,3,0,0
 48 Eaton Place ,street,,25,3,0,0
-"SW1 X8AL, England ",,,25,3,0,0
+"SW1 X8AL, England ",zip,,25,3,0,0
 0207-235 ,phone,,25,3,0,0
 home) 3889 (48 Eaton ,street,,25,3,0,0
-1666880334,phone,,25,3,0,0
-760 320 9800 (h) ,phone,,25,3,0,0
-020190 () ,,,25,3,0,0
-(w) ,,,25,3,0,1
-001 619 320 4380 9800 FaxParents ) ,phone,,25,3,0,0
+1666880334,phone,1,25,3,0,0
+760 320 9800 (h) ,phone,1,25,3,0,0
+020190 () ,phone,1,25,3,0,0
+(w) ,phone,1,25,3,0,1
+001 619 320 4380 9800 FaxParents ) ,phone,1,25,3,0,0
 0207 001 001 908 212 235 406 355 3892 2514h142912hf ) ) ,phone,0,25,3,1,0
 "Hapsburg, Marie ",person_name,,25,4,0,0
-31 Femshaw Road ,street,,25,4,0,0
-London SW10. ,,,25,4,0,0
+31 Femshaw Road ,street,1,25,4,0,0
+London SW10. ,street,,25,4,0,0
 0207-352 1987 (h) ,phone,,25,4,0,0
 Harvey Victoria ,person_name,,25,4,0,1
 07 798 555999 ,phone,,25,4,0,0
 "Harvie-Watt, Isabelle ",person_name,,25,4,0,1
-0207-602 6944 (ph) ,phone,,25,4,0,0
+0207-602 6944 (ph) ,phone,1,25,4,0,0
 00 39 2 801481 (w) ,phone,,25,4,0,0
 "Haslam, Nick ",person_name,,25,4,0,1
-0207-730 080B(w) ,phone,,25,4,0,0
+0207-730 080B(w) ,phone,1,25,4,0,0
 0207-584 0978h,phone,,25,4,0,0
 Email: n.h.design@btinlemet.com ,email,,25,4,0,0
 0410169700 cell ,phone,0,25,4,0,0
 "Hatkoff, Craig & Jane ",person_name,,25,4,0,1
-Victor Capital Group ,,,25,4,0,0
+Victor Capital Group ,company,,25,4,0,0
 1 West 12nd St. ,street,,25,4,0,0
 "NY, NY 10023 ",zip,,25,4,0,0
 OVA@aol.com ,email,,25,4,0,0
-001 272 273 167 car ,phone,,25,4,0,0
-212 579 4393 Direct Line ,phone,,25,4,0,0
+001 272 273 167 car ,phone,1,25,4,0,0
+212 579 4393 Direct Line ,phone,1,25,4,0,0
 917 434 1600 cell ,phone,,25,4,0,0
 "Hauteville, Marc de ",person_name,,25,4,0,1
 00 33 1 4224 4385 (h) ,phone,0,25,4,1,0
-"Hay, Henry & Patricia ",person_name,,25,5,0,0
+"Hay, Henry & Patricia ",person_name,,25,5,0,1
 24 E 84 st ,address,,25,5,0,0
 NY NY 10028 ,zip,,25,5,0,0
-001 212 452 1485(h). ,phone,,25,5,0,0
-001 646 387 3513 ho) ,phone,,25,5,0,0
+001 212 452 1485(h). ,phone,1,25,5,0,0
+001 646 387 3513 ho) ,phone,1,25,5,0,0
 Email: 001 603 5194 (pp) ,phone,0,25,5,0,0
 Hayworth Reggie ,person_name,,25,5,0,1
-Bradwel grove ,street,,25,5,0,0
-Burford ,,,25,5,0,0
-Oxon ,,,25,5,0,0
+Bradwel grove ,company,,25,5,0,0
+Burford ,street,1,25,5,0,0
+Oxon ,street,,25,5,0,0
 01993 822734 ,phone,0,25,5,0,0
 "Hazell-Iveagh, Clare ",person_name,,25,5,0,1
-Elveden Farms Limited ,,,25,5,0,0
-Thetford ,,,25,5,0,0
-Norfolk ,,,25,5,0,0
+Elveden Farms Limited ,company,,25,5,0,0
+Thetford ,street,1,25,5,0,0
+Norfolk ,street,,25,5,0,0
 "P243TQ, UK ",address,,25,5,0,0
-01 842 890 7871h) ,phone,,25,5,0,0
-01386 584200 (Mom) ,phone,,25,5,0,0
-0208-960 3511 (aunl). ,phone,,25,5,0,0
-1386 584200(mump,phone,,25,5,0,0
-079331 382731 victoria ,phone,,25,5,0,0
-0114479326227596 (P) ,phone,,25,5,0,0
-0207.881 9847 (UK w ,phone,,25,5,0,0
+01 842 890 7871h) ,phone,1,25,5,0,0
+01386 584200 (Mom) ,phone,1,25,5,0,0
+0208-960 3511 (aunl). ,phone,1,25,5,0,0
+1386 584200(mump,phone,1,25,5,0,0
+079331 382731 victoria ,phone,1,25,5,0,0
+0114479326227596 (P) ,phone,1,25,5,0,0
+0207.881 9847 (UK w ,phone,1,25,5,0,0
 01842 890 223 (w) ,phone,,25,5,0,0
 Hearn Barry & Susan ,person_name,,25,5,0,1
-Matchroom ,,,25,5,0,0
+Matchroom ,company,,25,5,0,0
 10 Western Road ,street,,25,5,0,0
-"Romford, Essex ",,,25,5,0,0
-01708 782200 ,phone,,25,5,0,0
-01708 7234250 ,phone,,25,5,0,0
+"Romford, Essex ",address,,25,5,0,0
+01708 782200 ,phone,1,25,5,0,0
+01708 7234250 ,phone,1,25,5,0,0
 01277-217-116 home ,phone,0,25,5,1,0
-"Hefner Ill, Bob ",person_name,,26,2,0,0
-001.405 843 4773 (h) ,phone,,26,2,0,0
-001 405 948 9898 ,phone,,26,2,0,0
+"Hefner Ill, Bob ",person_name,,26,2,0,1
+001.405 843 4773 (h) ,phone,1,26,2,0,0
+001 405 948 9898 ,phone,1,26,2,0,0
 001 303 925 4927 Aspen) ,phone,0,26,2,0,0
 Heiden Lisa ,person_name,,26,2,0,1
 30 East 81st #11B ,street,,26,2,0,0
 NY NY 10028 ,zip,,26,2,0,0
 001 305 865 3436(par ,phone,,26,2,0,0
 Beach 33141 ,zip,,26,2,0,0
-001 305 538 1795ch ,phone,,26,2,0,0
-001 917 518 5210 ,phone,,26,2,0,0
-911 0776 319 5507 sister Leslie (p) ,phone,,26,2,0,0
+001 305 538 1795ch ,phone,1,26,2,0,0
+001 917 518 5210 ,phone,1,26,2,0,0
+911 0776 319 5507 sister Leslie (p) ,phone,1,26,2,0,0
 6044218 (p) ,phone,,26,2,0,0
 "Heineken, Mr Fredie ",person_name,,26,2,0,1
-Domaine ,,,26,2,0,0
-de Grange ,,,26,2,0,0
-Cap d'Antibes ,,,26,2,0,0
-France ,,,26,2,0,0
+Domaine ,street,1,26,2,0,0
+de Grange ,street,1,26,2,0,0
+Cap d'Antibes ,street,1,26,2,0,0
+France ,street,,26,2,0,0
 00 33 93 614101 (h) ,phone,,26,2,0,0
 Helen and Tim Shifter ,person_name,,26,2,0,1
 784 Park Ave ,street,,26,2,0,0
 NY NY 10021 ,zip,0,26,2,0,0
 "Helvin, Marie ",person_name,,26,2,0,1
-0207-834 ,phone,,26,2,0,0
-5321 (h) ,,,26,2,0,0
-Herbert ,person_name,,26,2,0,1
+0207-834 ,phone,1,26,2,0,0
+5321 (h) ,phone,,26,2,0,0
+Herbert ,person_name,1,26,2,0,1
 Jason ,,,26,2,0,0
-0207-292 9600 ,phone,,26,2,0,0
-7974084233,phone,0,26,2,1,0
-001 646 872 9583 ,phone,,26,3,0,0
+0207-292 9600 ,phone,1,26,2,0,0
+7974084233,phone,1,26,2,1,0
+001 646 872 9583 ,phone,1,26,3,0,0
 001 646 613 6100 ,phone,0,26,3,0,0
 "Hermes, Olga & Olaf ",person_name,,26,3,0,1
 165 West 66th Street ,street,,26,3,0,0
 "New York, NY 10023 ",zip,,26,3,0,0
 001 212 874 2527 (h) ,phone,,26,3,0,0
 "Herrero, Juan & Helen ",person_name,,26,3,0,1
-Fransisco Moreno! ,,,26,3,0,0
+Fransisco Moreno! ,address,,26,3,0,0
 "Madrid, 28001 ",zip,,26,3,0,0
 00 34 276 6157 (h) ,phone,0,26,3,0,0
 "Hersov, Robert & Kim ",person_name,,26,3,0,1
-15 Thurlos Sa ,street,,26,3,0,0
-London SW7 ,,,26,3,0,0
-0207-584 0764h ,phone,,26,3,0,0
-0207-439 5184 ) ,phone,,26,3,0,0
-0374 810898 () ,phone,,26,3,0,0
-11442075907552,phone,,26,3,0,0
-Robert's w ,,,26,3,0,0
+15 Thurlos Sa ,street,1,26,3,0,0
+London SW7 ,street,,26,3,0,0
+0207-584 0764h ,phone,1,26,3,0,0
+0207-439 5184 ) ,phone,1,26,3,0,0
+0374 810898 () ,phone,1,26,3,0,0
+11442075907552,phone,1,26,3,0,0
+Robert's w ,phone,,26,3,0,0
 "Heseltine, Mr & Mrs ",person_name,,26,3,0,1
-Thenlord House ,,,26,3,0,0
-Thenlord ,,,26,3,0,0
-Nr Banbury Oxon ,,,26,3,0,0
+Thenlord House ,address,1,26,3,0,0
+Thenlord ,address,1,26,3,0,0
+Nr Banbury Oxon ,address,,26,3,0,0
 0295 711765 (h) ,phone,,26,3,0,0
 "Heseltine, Mr & Mrs ",person_name,,26,3,0,1
-30 Chapel Street ,street,,26,3,0,0
-London SW1,,,26,3,0,0
-295712012,phone,,26,3,0,0
+30 Chapel Street ,street,1,26,3,0,0
+London SW1,street,,26,3,0,0
+295712012,phone,1,26,3,0,0
 295712013,phone,0,26,3,1,0
-"Himmelstein, Howard ",person_name,,26,4,0,0
-ZYZZX ,,,26,4,0,0
+"Himmelstein, Howard ",person_name,,26,4,0,1
+ZYZZX ,company,,26,4,0,0
 212-620-0949 ,phone,,26,4,0,0
 "Hirsch, Jeff ",person_name,,26,4,0,1
-Photo Care ,,,26,4,0,0
+Photo Care ,company,,26,4,0,0
 136 W. 21st Street ,address,,26,4,0,0
-bet 6th 7th ,,,26,4,0,0
-212 741 2990 ,phone,,26,4,0,0
+bet 6th 7th ,street,,26,4,0,0
+212 741 2990 ,phone,1,26,4,0,0
 917 842 9755 Scott (P,phone,0,26,4,0,0
-"Hissom, Robert & ",person_name,,26,4,0,1
+"Hissom, Robert & ",person_name,1,26,4,0,1
 Andrea ,,,26,4,0,0
 6a Herbert Cresent ,street,,26,4,0,0
-"Knightsbridge, London ",,,26,4,0,0
-0207-584 8070(h) ,phone,,26,4,0,0
+"Knightsbridge, London ",address,,26,4,0,0
+0207-584 8070(h) ,phone,1,26,4,0,0
 01428 656744 ,phone,,26,4,0,0
 Email: rdhiss@aol.com ,email,,26,4,0,0
-001 303-920-4680 ,phone,,26,4,0,0
-0207-589 8555 ,phone,,26,4,0,0
-001 713 739 0750 (W) ,phone,,26,4,0,0
-001 713 956 5613th,phone,,26,4,0,0
-00 i 713 965 5613 ,phone,,26,4,0,0
+001 303-920-4680 ,phone,1,26,4,0,0
+0207-589 8555 ,phone,1,26,4,0,0
+001 713 739 0750 (W) ,phone,1,26,4,0,0
+001 713 956 5613th,phone,1,26,4,0,0
+00 i 713 965 5613 ,phone,1,26,4,0,0
 07836 360 460 (p) ,phone,,26,4,0,0
 "Hoffman, Dustin ",person_name,,26,4,0,1
 001 212 207 8127w) ,phone,,26,4,0,0
 "Hoffman, Hetty ",person_name,,26,4,0,1
 "0207,373 4203 (h). ",phone,,26,4,0,0
-& Brocas Ellisti eld ,,,26,4,0,0
-"Nr Basingstoke, Ha nis ",,,26,4,0,0
-0256 83279 (C) ,phone,,26,4,0,0
+& Brocas Ellisti eld ,address,1,26,4,0,0
+"Nr Basingstoke, Ha nis ",address,,26,4,0,0
+0256 83279 (C) ,phone,1,26,4,0,0
 0207-373 4203 (h,phone,0,26,4,1,0
-"Heseltine, Ms Annabel ",person_name,,26,5,0,0
-Husband: Peter Butler ,,,26,5,0,0
-4 Palace Gardens Terrace ,street,,26,5,0,0
-"London, England W8 4RP ",,,26,5,0,0
-0711 442 0913p) ,phone,,26,5,0,0
-0207 727 9907 ,phone,,26,5,0,0
-0207 727 (h) ,phone,,26,5,0,0
+"Heseltine, Ms Annabel ",person_name,,26,5,0,1
+Husband: Peter Butler ,company,,26,5,0,0
+4 Palace Gardens Terrace ,street,1,26,5,0,0
+"London, England W8 4RP ",street,,26,5,0,0
+0711 442 0913p) ,phone,1,26,5,0,0
+0207 727 9907 ,phone,1,26,5,0,0
+0207 727 (h) ,phone,1,26,5,0,0
 01295 7127740) ,phone,0,26,5,0,0
 "Heseltine, Rupert ",person_name,,26,5,0,1
-001 212 532 9200(w) ,phone,,26,5,0,0
-001 212 744 8613h ,phone,,26,5,0,0
-0207-221 6201 (h) ,phone,,26,5,0,0
+001 212 532 9200(w) ,phone,1,26,5,0,0
+001 212 744 8613h ,phone,1,26,5,0,0
+0207-221 6201 (h) ,phone,1,26,5,0,0
 071-351 5776 ,phone,,26,5,0,0
 Hicks India ,person_name,,26,5,0,1
-David Fiintwood ,,,26,5,0,0
-Hibiscus Hill ,,,26,5,0,0
-PO Box 225 ,address,,26,5,0,0
-Harbour Island ,,,26,5,0,0
-"Bahamas, ",,,26,5,0,0
-001 242 333 2180 ,phone,,26,5,0,0
-001 242 333 2180th ,phone,,26,5,0,0
-001 242 333 20601 ,phone,,26,5,0,0
+David Fiintwood ,company,,26,5,0,0
+Hibiscus Hill ,address,1,26,5,0,0
+PO Box 225 ,address,1,26,5,0,0
+Harbour Island ,address,1,26,5,0,0
+"Bahamas, ",address,,26,5,0,0
+001 242 333 2180 ,phone,1,26,5,0,0
+001 242 333 2180th ,phone,1,26,5,0,0
+001 242 333 20601 ,phone,1,26,5,0,0
 0208-878 0111 ,phone,,26,5,0,0
 "Hill, Anthony ",person_name,,26,5,0,1
-105 Oxford Gardans ,street,,26,5,0,0
-London W10 ,,,26,5,0,0
+105 Oxford Gardans ,street,1,26,5,0,0
+London W10 ,street,,26,5,0,0
 0207-283 8577 W) ,phone,,26,5,0,0
-Cliflon Castle ,,,26,5,0,0
-Ripon N Yorks ,,,26,5,0,0
-0765 89326 (h) ,phone,0,26,5,1,0
+Cliflon Castle ,address,1,26,5,0,0
+Ripon N Yorks ,address,,26,5,0,0
+0765 89326 (h) ,phone,1,26,5,1,0
 0207-229 7566 (h) ,phone,,27,2,0,0
-"Hunter, Carlyn & ",person_name,,27,2,0,1
-9 Mallard SL ,street,,27,2,0,0
-"London, England SW3 6DT ",,,27,2,0,0
-0207-3767652 ,phone,,27,2,0,0
-0207-584 4168 (h) ,phone,,27,2,0,0
+"Hunter, Carlyn & Laurie",person_name,,27,2,0,1
+9 Mallard SL ,street,1,27,2,0,0
+"London, England SW3 6DT ",street,,27,2,0,0
+0207-3767652 ,phone,1,27,2,0,0
+0207-584 4168 (h) ,phone,1,27,2,0,0
 001 307 733 7149 ,phone,0,27,2,0,0
-"Huntsman, Jon & Mary ",person_name,,27,2,0,1
+"Huntsman, Jon & Mary ",person_name,1,27,2,0,1
 Kaye ,,,27,2,0,0
 1369 Military Way ,street,,27,2,0,0
 Salt Lake CyUB84303 ,zip,,27,2,0,0
 001 801 364 0998 (W) ,phone,,27,2,0,0
 "Hurd, Nick & Kim ",person_name,,27,2,0,1
-Hartley Court ,street,,27,2,0,0
-Three Mile Cross ,,,27,2,0,0
-Reading Berkshire ,,,27,2,0,0
-0207 792 5354(h) ,phone,,27,2,0,0
+Hartley Court ,street,1,27,2,0,0
+Three Mile Cross ,street,1,27,2,0,0
+Reading Berkshire ,street,,27,2,0,0
+0207 792 5354(h) ,phone,1,27,2,0,0
 0781 804 8464 ,phone,,27,2,0,0
 Email: ,,,27,2,0,0
 nhurd@nhurd.homechoice.co ,email,,27,2,0,0
 Wifi ,,,27,2,0,0
 Chepstow Place ,street,,27,2,0,0
-0208-995 3031.() ,phone,,27,2,0,0
-0207-7925354h) ,phone,,27,2,0,0
+0208-995 3031.() ,phone,1,27,2,0,0
+0207-7925354h) ,phone,1,27,2,0,0
 0993 841828 np ,phone,,27,2,0,0
 "Hurley, Liz ",person_name,,27,2,0,1
-Simlant Füms ,,,27,2,0,0
-3 Cromwell Place ,street,,27,2,0,0
-London SW7 2JE ,,,27,2,0,0
+Simlan Films ,company,,27,2,0,0
+3 Cromwell Place ,street,1,27,2,0,0
+London SW7 2JE ,street,,27,2,0,0
 0207-589 6822(w ,phone,0,27,2,1,0
 home Farmhouse ,person_name,,27,3,0,0
 Near on Sherboume and Clapton ,,0,27,3,0,0
@@ -3025,177 +3025,177 @@ assislant) ,,,27,3,0,0
 "Hovenian, Nina ",person_name,,27,3,0,1
 001 212 996 1687(h) ,phone,,27,3,0,0
 James ,,,27,3,0,0
-"Hovnanian, Shaunt ",person_name,,27,3,0,0
-Hovanian Group ,,,27,3,0,0
+"Hovnanian, Shaunt ",person_name,,27,3,0,1
+Hovanian Group ,company,,27,3,0,0
 520 Naversink River Road ,street,,27,3,0,0
 "Red Bank, NJ 07701 h). ",zip,,27,3,0,0
-Ste 12 Dag Hammarskjold Bivd ,,,27,3,0,0
+Ste 12 Dag Hammarskjold Bivd ,address,,27,3,0,0
 "Freehold, NJ 07728 ",zip,,27,3,0,0
-908-462-3200 ,phone,,27,3,0,0
-908-462-2789 ,phone,,27,3,0,0
-908-530-8511 Sally ,phone,,27,3,0,0
-dad 908-741-0076 (h) Vahkn - the ,,,27,3,0,0
-917-763-6444 MB ,phone,,27,3,0,0
-212-996-1687 ,phone,,27,3,0,0
-Nina ,,,27,3,0,0
-Howard ,person_name,,27,3,0,1
+908-462-3200 ,phone,1,27,3,0,0
+908-462-2789 ,phone,1,27,3,0,0
+908-530-8511 Sally ,phone,1,27,3,0,0
+dad 908-741-0076 (h) Vahkn - the ,phone,1,27,3,0,0
+917-763-6444 MB ,phone,1,27,3,0,0
+212-996-1687 ,phone,1,27,3,0,0
+Nina ,phone,,27,3,0,0
+Howard ,person_name,1,27,3,0,1
 J. Kaplan ,,,27,3,0,0
-1717 N. Bayshore Drive ,street,,27,3,0,0
-Suite 2000 ,,,27,3,0,0
+1717 N. Bayshore Drive ,street,1,27,3,0,0
+Suite 2000 ,street,,27,3,0,0
 Miami FL 33132 ,zip,,27,3,0,0
-(305) 539-5115 ,phone,0,27,3,1,0
+(305) 539-5115 ,phone,1,27,3,1,0
 305 466 0677 (h) ,phone,,27,4,0,0
-Email: hk@kaplangroup.com ,email,,27,4,0,0
+Email: hk@kaplangroup.com ,email,1,27,4,0,0
 Hmhome) ,,,27,4,0,0
 20023 NE 19 Place ,address,,27,4,0,0
 "North Miami Bea, FL 33179 ",zip,,27,4,0,0
-305 466 9954 ht ,phone,,27,4,0,0
+305 466 9954 ht ,phone,1,27,4,0,0
 305 466 9954 (hi,phone,,27,4,0,0
-Howegego Lucy ,person_name,,27,4,0,1
-(Johnñson) ,,,27,4,0,0
-0410 84180810) ,phone,,27,4,0,0
-0207-903 5310 ,phone,,27,4,0,0
+Howegego Lucy ,person_name,1,27,4,0,1
+(Johnn�son) ,,,27,4,0,0
+0410 84180810) ,phone,1,27,4,0,0
+0207-903 5310 ,phone,1,27,4,0,0
 0207-242 3136 ,phone,0,27,4,0,0
 "Hsu, Peter ",person_name,,27,4,0,1
 001 212 734 6007(h) ,phone,,27,4,0,0
 "Hunt, Laura ",person_name,,27,4,0,1
 "1 E. 62nd, Apl 3C. 10021 ",zip,,27,4,0,0
-001 212 644 1991h) ,phone,,27,4,0,0
+001 212 644 1991h) ,phone,1,27,4,0,0
 001 212 355 3822 ) ,phone,,27,4,0,0
 Email: LBHunt@adi.com ,email,,27,4,0,0
 (Hm)3525 Turtle Creek Blvd. (h) ,street,0,27,4,0,0
-001 214 526 4404 TX (h) ,phone,,27,4,0,1
-001 917 969 9442 NY ) ,phone,,27,4,0,0
-001 970 925 2300 Aspen ,phone,,27,4,0,0
+001 214 526 4404 TX (h) ,phone,1,27,4,0,1
+001 917 969 9442 NY ) ,phone,1,27,4,0,0
+001 970 925 2300 Aspen ,phone,1,27,4,0,0
 214 876 6150 TX (p) ,phone,,27,4,0,0
-"Hunter Gordon, Kit & ",person_name,,27,4,0,1
+"Hunter Gordon, Kit & ",person_name,1,27,4,0,1
 Georgina ,,,27,4,0,0
-31 Alexander Street ,street,,27,4,0,0
-"London W2, ",,0,27,4,1,0
+31 Alexander Street ,street,1,27,4,0,0
+"London W2, ",street,0,27,4,1,0
 & Brocas Eilisfield ,person_name,,27,5,0,0
 "Nt Basingstoke, Hants ",,,27,5,0,0
-0256 83279 (C) ,phone,,27,5,0,0
+0256 83279 (C) ,phone,1,27,5,0,0
 0207--589 1435 ,phone,0,27,5,0,0
 "Hoffman, Jessica ",person_name,,27,5,0,1
 185 Fiddlers Hill Road ,street,,27,5,0,0
 "Edgewater001 410 798-8590 , Maryland 21037 ",,0,27,5,0,0
 "Holland-Martin, Ben ",person_name,,27,5,0,1
-Radnor Walk ,street,,27,5,0,0
-London SW3 ,,,27,5,0,0
+Radnor Walk ,street,1,27,5,0,0
+London SW3 ,street,,27,5,0,0
 0207-351 3631 (h) ,phone,,27,5,0,0
-"Hollond, Mr & Mrs ",person_name,,27,5,0,1
-Rea and James ,,,27,5,0,0
-45 European Rulland Financial Gate (hProducts ) Ld ,street,,27,5,0,0
-London SW71PB ,,,27,5,0,0
-0207-584 4466(h) ,phone,,27,5,0,0
+"Hollond, Mr & Mrs James",person_name,,27,5,0,1
+Rea and James ,company,1,27,5,0,0
+45 European Rulland Financial Gate (hProducts ) Ld ,company,,27,5,0,0
+London SW71PB ,zip,,27,5,0,0
+0207-584 4466(h) ,phone,1,27,5,0,0
 07802 757520p) ,phone,,27,5,0,0
 Email: ,,,27,5,0,0
 b@hallond.com/james@holla ,email,,27,5,0,0
-HmDonhead ,,,27,5,0,0
-Lodge ,,,27,5,0,0
-Shaftesbury ,,,27,5,0,0
-oorestDEB ,,,27,5,0,0
-439 9061 W) ,phone,,27,5,0,0
+HmDonhead ,address,1,27,5,0,0
+Lodge ,address,1,27,5,0,0
+Shaftesbury ,address,1,27,5,0,0
+oorestDEB ,address,,27,5,0,0
+439 9061 W) ,phone,1,27,5,0,0
 07802 757 520 car) ,phone,,27,5,0,0
 77860,address,,27,5,0,0
 0207 201 66671 9258 ((otherW) ) ,phone,0,27,5,0,0
 Horne Adam & Tierney ,person_name,,27,5,0,1
-14 Eafon Terrace ,street,,27,5,0,0
-London SW1 WBEZ ,,0,27,5,1,0
-"Hurst, Anne ",person_name,,28,2,0,0
-212 744 3485 ,phone,,28,2,0,0
+14 Eafon Terrace ,street,1,27,5,0,0
+London SW1 WBEZ ,street,0,27,5,1,0
+"Hurst, Anne ",person_name,,28,2,0,1
+212 744 3485 ,phone,1,28,2,0,0
 631 537 7668 ,phone,0,28,2,0,0
 "Hurst, Robert J. ",person_name,,28,2,0,1
-Goldman Sachs & Co. ,,,28,2,0,0
+Goldman Sachs & Co. ,company,,28,2,0,0
 85 Broad Street ,street,,28,2,0,0
 New York Y 10004 ,zip,,28,2,0,0
-212902,phone,,28,2,0,0
+212902,phone,1,28,2,0,0
 212 346 2850FAX ,phone,,28,2,0,0
 Email: ,,,28,2,0,0
 RJHURST950@aol.com ,email,,28,2,0,0
 Hm)950 Fiih Avenue ,street,,28,2,0,0
 "New York, NY 10021 ",zip,,28,2,0,0
-Hamptons Phone ,,0,28,2,0,0
+Hamptons Phone ,phone,0,28,2,0,0
 "Hussain, Ayla ",person_name,,28,2,0,1
-Sundert ,,,28,2,0,0
-379 West Broadway ,street,,28,2,0,0
-Suite 404 ,,,28,2,0,0
+Sundert ,company,,28,2,0,0
+379 West Broadway ,street,1,28,2,0,0
+Suite 404 ,street,,28,2,0,0
 "New York, NY 10012 ",zip,,28,2,0,0
 212 343 16710 ,phone,,28,2,0,0
 Email: ayla@sundari.cim ,email,0,28,2,0,0
 Hussey Simon ,person_name,,28,2,0,1
-27 Holywood Rd ,street,,28,2,0,0
-London SW10 9 HT ,,,28,2,0,0
-0207-352 2310(h) ,phone,,28,2,0,0
+27 Holywood Rd ,street,1,28,2,0,0
+London SW10 9 HT ,street,,28,2,0,0
+0207-352 2310(h) ,phone,1,28,2,0,0
 0207-567 4726(w) ,phone,,28,2,0,0
 "Hutley, Henry ",person_name,,28,2,0,1
-29 Lansdowne Crescent ,street,,28,2,0,0
-London W11 ,,,28,2,0,0
-0486 32345 (h) ,phone,0,28,2,1,0
+29 Lansdowne Crescent ,street,1,28,2,0,0
+London W11 ,street,,28,2,0,0
+0486 32345 (h) ,phone,1,28,2,1,0
 0207-727 8782 h) ,phone,,28,3,0,0
 "Hutley, Lulu & Edward ",person_name,,28,3,0,1
-33 Edna StreetLondon SW11 ,street,,28,3,0,0
-"Br Slades Farm, Thomcombe Rd, ",,,28,3,0,0
-Near Surrey GS OLT ,,,28,3,0,0
-0207- 385 3735 ,phone,,28,3,0,0
-0207-,,1,28,3,0,0
-0207- 508995 585 0208 (car()) ,phone,,28,3,0,0
-0483 892000 W) ,phone,,28,3,0,0
-0483 208693h) ,phone,,28,3,0,0
+33 Edna StreetLondon SW11 ,street,1,28,3,0,0
+"Br Slades Farm, Thomcombe Rd, ",street,1,28,3,0,0
+Near Surrey GS OLT ,street,,28,3,0,0
+0207- 385 3735 ,phone,1,28,3,0,0
+0207-,phone,1,28,3,0,0
+0207- 508995 585 0208 (car()) ,phone,1,28,3,0,0
+0483 892000 W) ,phone,1,28,3,0,0
+0483 208693h) ,phone,1,28,3,0,0
 0207.493 4211 (n) ,phone,,28,3,0,0
 "Hutley, Mr & Mrs ",person_name,,28,3,0,1
-Wintershall ,,,28,3,0,0
-Nr Bramley ,,,28,3,0,0
-Guilford ,,,28,3,0,0
-Surrey ,,,28,3,0,0
+Wintershall ,address,1,28,3,0,0
+Nr Bramley ,address,1,28,3,0,0
+Guilford ,address,1,28,3,0,0
+Surrey ,address,,28,3,0,0
 0483 892167 () ,phone,,28,3,0,0
 "Hutton, Lauren ",person_name,,28,3,0,1
-212 254-6980 ,phone,,28,3,0,0
-614-0787 boyfriend Luca ,,,28,3,0,0
+212 254-6980 ,phone,1,28,3,0,0
+614-0787 boyfriend Luca ,phone,,28,3,0,0
 Hymes Ivan ,person_name,,28,3,0,1
-Eddle's try fiend) ,,,28,3,0,0
+Eddle's try fiend) ,company,,28,3,0,0
 00 35 3 87234 1489 ,phone,,28,3,0,0
 Inca ,person_name,,28,3,0,1
-8 Gramercy Park South ,street,,28,3,0,0
-Apt #3D ,,,28,3,0,0
-(around corner of 20th & Park) ,,,28,3,0,0
+8 Gramercy Park South ,street,1,28,3,0,0
+Apt #3D ,street,1,28,3,0,0
+(around corner of 20th & Park) ,street,,28,3,0,0
 "New York, NY ",address,0,28,3,1,0
-212 475 2180 ,phone,,28,4,0,0
+212 475 2180 ,phone,1,28,4,0,0
 917 561 6744 (p) ,phone,,28,4,0,0
 "Ind, Charlie ",person_name,,28,4,0,1
-6 Upper Cheyne Row ,street,,28,4,0,0
-London W3 ,,,28,4,0,0
-0207-351 4117 (h) ,phone,,28,4,0,0
+6 Upper Cheyne Row ,street,1,28,4,0,0
+London W3 ,street,,28,4,0,0
+0207-351 4117 (h) ,phone,1,28,4,0,0
 0207-753 5353 W) ,phone,,28,4,0,0
 "Inzerillo, Gerard J. ",person_name,,28,4,0,1
-211 Madison Avenue th) ,street,,28,4,0,0
-Api 18A ,,,28,4,0,0
+211 Madison Avenue th) ,street,1,28,4,0,0
+Api 18A ,street,,28,4,0,0
 "New York, NY 10016 ",zip,,28,4,0,0
-001 212 79 1514 ,phone,,28,4,0,0
+001 212 79 1514 ,phone,1,28,4,0,0
 901 917 306 0895 () ,phone,,28,4,0,0
 jerry.Inzerillo kerzner.c ,email,,28,4,0,0
-Warzier ,,,28,4,0,0
-International New ,,,28,4,0,0
+Warzier ,street,1,28,4,0,0
+International New ,street,1,28,4,0,0
 730 Fiqh Avenue ,street,,28,4,0,0
 "New York, NY 10019 ",zip,,28,4,0,0
-001 212 792 2030 wildfire ,phone,,28,4,0,0
-212 659 5180 (w-direct) ,phone,,28,4,0,0
-"212 659 5202 (Asts. olie, ",,,28,4,0,0
-Justine) ,,,28,4,0,0
+001 212 792 2030 wildfire ,phone,1,28,4,0,0
+212 659 5180 (w-direct) ,phone,1,28,4,0,0
+"212 659 5202 (Asts. olie, ",phone,1,28,4,0,0
+Justine) ,phone,1,28,4,0,0
 917 922 4947 (p) ,phone,0,28,4,0,0
 5th Floor ,street,,28,4,0,0
-"Ireland, George ",,,28,4,0,0
+"Ireland, George ",person_name,,28,4,0,1
 K1 Top Albany Piccadily ,street,,28,4,0,0
-London W1V9RO ,,,28,4,0,0
-0207-287 5114 (h) ,phone,,28,4,0,0
+London W1V9RO ,zip,,28,4,0,0
+0207-287 5114 (h) ,phone,1,28,4,0,0
 0207-822 2498 w} ,phone,,28,4,0,0
 "Irvine, Eddie ",person_name,,28,4,0,1
-0786 660 7693 (p) ,phone,0,28,4,1,0
+0786 660 7693 (p) ,phone,1,28,4,1,0
 011 305 776 9000(p) ,phone,,28,5,0,0
 Email: edirvi@cs.com ,email,,28,5,0,0
-(Hm820 West Toledo ,,,28,5,0,0
-001 305 531 5370h) ,phone,,28,5,0,0
-0793 9500000 () ,phone,,28,5,0,0
+(Hm820 West Toledo ,street,,28,5,0,0
+001 305 531 5370h) ,phone,1,28,5,0,0
+0793 9500000 () ,phone,1,28,5,0,0
 00 353 868298626 Alan pilot ,phone,,28,5,0,0
 alannee1@cs.com Alan pilot ,email,,28,5,0,0
 email ,,,28,5,0,0
@@ -3204,17 +3204,17 @@ Isamel Abdullah ,person_name,,28,5,0,1
 "isham, Chris ",person_name,,28,5,0,1
 001 212 496 5842(w) ,phone,,28,5,0,0
 "Jackson, Michael ",person_name,,28,5,0,1
-Samuel Gen Anomey) ,,,28,5,0,0
+Samuel Gen Anomey) ,address,,28,5,0,0
 240 Central Park South ,street,,28,5,0,0
 "New York, NY 10019 ",zip,,28,5,0,0
-1 212 374 0577 wh ,phone,,28,5,0,0
+1 212 374 0577 wh ,phone,1,28,5,0,0
 1212 974 1117 w ,phone,,28,5,0,0
 Email: ,,,28,5,0,0
 samgeniaw@netscape.com ,email,,28,5,0,0
 "Jacobson, Julian ",person_name,,28,5,0,1
 0207-589 2237 (h) ,phone,,28,5,0,0
 Jagger Mick ,person_name,,28,5,0,1
-212 245 6055 ,phone,,28,5,0,0
+212 245 6055 ,phone,1,28,5,0,0
 0208-877 3100(0) ,phone,0,28,5,1,0
 VA 23 ,address,,29,2,0,0
 310 969 0898 (b-) ,phone,,29,2,0,0
@@ -3236,110 +3236,110 @@ country ,,,29,2,0,0
 barryiosephson@palm.net ,email,,29,2,0,0
 212 226 4090 (w) untii Jan 2004 ,phone,,29,2,0,0
 "Karella, Kalliope ",person_name,,29,2,0,1
-& Michael Rena ,,,29,2,0,0
-116.31 East 72 ,,,29,2,0,0
+& Michael Rena ,address,,29,2,0,0
+116.31 East 72 ,street,,29,2,0,0
 "New York, NY 10021 ",zip,,29,2,0,0
-001 212 288 0438 (h) ,phone,,29,2,0,0
-001 212 303 5916 W ,phone,,29,2,0,0
+001 212 288 0438 (h) ,phone,1,29,2,0,0
+001 212 303 5916 W ,phone,1,29,2,0,0
 001 917 453 4503 p) ,phone,0,29,2,0,0
 "Kastner, Ron ",person_name,,29,2,0,1
-0207-235-2337 ,phone,,29,2,0,0
-07930-561-888 ,phone,,29,2,0,0
-"001917-539-9601, 001 ",phone,,29,2,0,0
+0207-235-2337 ,phone,1,29,2,0,0
+07930-561-888 ,phone,1,29,2,0,0
+"001917-539-9601, 001 ",phone,1,29,2,0,0
 212-977-345 ,phone,,29,2,0,0
-"Katz, Anton & Robin ",person_name,,29,2,0,1
+"Katz, Anton & Robin ",person_name,1,29,2,0,1
 Plant ,,,29,2,0,0
-200 E. 66th st,address,,29,2,0,0
+200 E. 66th st,address,1,29,2,0,0
 C2004 ,address,,29,2,0,0
 "New York, NY 10021 ",zip,0,29,2,1,0
-"Jagger, Hatti ",person_name,,29,3,0,0
-Percy Lodge (h) ,street,,29,3,0,0
+"Jagger, Hatti ",person_name,,29,3,0,1
+Percy Lodge (h) ,street,1,29,3,0,0
 15 Christ Church Road ,street,,29,3,0,0
-"London, England SW147AB ",,,29,3,0,0
-0797 072 8005 ,phone,,29,3,0,0
+"London, England SW147AB ",zip,,29,3,0,0
+0797 072 8005 ,phone,1,29,3,0,0
 0208-878 0111(h) ,phone,,29,3,0,0
-Worlwide ,,,29,3,0,0
+Worlwide ,street,,29,3,0,0
 harrietijagger@hotmail.co ,email,,29,3,0,0
-80,,,29,3,0,0
+80,street,1,29,3,0,0
 Wood Lane ,street,,29,3,0,0
-London ,,,29,3,0,0
+London ,address,,29,3,0,0
 "W12, U.K. ",address,,29,3,0,0
 0208-392 ,phone,,29,3,0,0
 9171h) ,,,29,3,0,0
-jake ,,,29,3,0,1
+jake ,person_name,,29,3,0,1
 011 34 669 467 504 ,phone,,29,3,0,0
 "Jameel, Mohammed ",person_name,,29,3,0,1
-00 966 2 628 3931 ,phone,,29,3,0,0
+00 966 2 628 3931 ,phone,1,29,3,0,0
 001 214 740 9191 ,phone,,29,3,0,0
 Email: MJ3200@aol.com ,email,0,29,3,0,0
 "James, Susie ",person_name,,29,3,0,1
-212 Piccadilly ,street,,29,3,0,0
-London W7V 9LD ,,,29,3,0,0
-0207-229 4648(W ,phone,,29,3,0,0
+212 Piccadilly ,street,1,29,3,0,0
+London W7V 9LD ,street,,29,3,0,0
+0207-229 4648(W ,phone,1,29,3,0,0
 0208-960 9987h1 ,phone,,29,3,0,0
 Email: ,,,29,3,0,0
 susiejames@123send.net ,email,,29,3,0,0
 "Janklow, Linda ",person_name,,29,3,0,1
-Lincoln Center Theatre ,street,,29,3,0,0
+Lincoln Center Theatre ,street,1,29,3,0,0
 150 West 65th Street ,street,,29,3,0,0
 "New York, New York 10023 ",zip,,29,3,0,0
-001 212 362-7600 ,phone,,29,3,0,0
-001 212 873-07611 ,phone,0,29,3,1,0
-"Jeffries, Tim ",person_name,,29,4,0,0
-74 Cornawall Gardens ,street,,29,4,0,0
-London SW 7 ,,,29,4,0,0
+001 212 362-7600 ,phone,1,29,3,0,0
+001 212 873-07611 ,phone,,29,3,1,0
+"Jeffries, Tim ",person_name,,29,4,0,1
+74 Cornawall Gardens ,street,1,29,4,0,0
+London SW 7 ,street,1,29,4,0,0
 6 East 68th Street ,street,,29,4,0,0
 "New York, NY ",address,,29,4,0,0
-0207-937 4002 (h) ,phone,,29,4,0,0
-0207-499 9494 iw ,phone,,29,4,0,0
-"001 212 772 21,3) ",phone,,29,4,0,0
-001212 925 8831(h ,phone,,29,4,0,0
+0207-937 4002 (h) ,phone,1,29,4,0,0
+0207-499 9494 iw ,phone,1,29,4,0,0
+"001 212 772 21,3) ",phone,1,29,4,0,0
+001212 925 8831(h ,phone,1,29,4,0,0
 0777 1767715 ,phone,,29,4,0,0
-Johnson Richard & ,person_name,,29,4,0,1
+Johnson Richard & ,person_name,1,29,4,0,1
 Nadine ,,,29,4,0,0
 32 Perry Street ,street,,29,4,0,0
 "New York, NY 10014 ",zip,,29,4,0,0
-001 212 228 5555(w) ,phone,,29,4,0,0
-001 212 675 59651b1 ,phone,,29,4,0,0
-001516 286 564710) ,phone,,29,4,0,0
+001 212 228 5555(w) ,phone,1,29,4,0,0
+001 212 675 59651b1 ,phone,1,29,4,0,0
+001516 286 564710) ,phone,1,29,4,0,0
 212 982 9939 work fáx ,phone,0,29,4,0,0
 "Johnson, Lucy ",person_name,,29,4,0,1
-2 Chester Street ,street,,29,4,0,0
-London sw1X 7BB ,,,29,4,0,0
-0207-235 2088 h) ,phone,,29,4,0,0
+2 Chester Street ,street,1,29,4,0,0
+London sw1X 7BB ,street,,29,4,0,0
+0207-235 2088 h) ,phone,1,29,4,0,0
 0207-370 7070 (W,phone,,29,4,0,0
 Jones Ann & Mick ,person_name,,29,4,0,1
 001 212 799 7424) ,phone,0,29,4,0,0
-"Josephson, Barry & ",person_name,,29,4,0,1
+"Josephson, Barry & ",person_name,1,29,4,0,1
 Jackie ,,,29,4,0,0
-(Barry w) ,,,29,4,0,0
+(Barry w) ,address,,29,4,0,0
 "Hollywood, CA 90038 ",zip,,29,4,0,0
 310 369 7497 (b-w) ,phone,0,29,4,1,0
-"Jarecki, Nancy & An-",person_name,1,29,5,0,0
+"Jarecki, Nancy & An-",person_name,1,29,5,0,1
 drew ,,,29,5,0,0
-hit the ground running films ,,,29,5,0,0
-Room 200 West 1304 57th St (W) Andrew ,,,29,5,0,0
+hit the ground running films ,company,,29,5,0,0
+Room 200 West 1304 57th St (W) Andrew ,street,,29,5,0,0
 "New York, NY 10019 ",zip,,29,5,0,0
 586 3059 (w,phone,,29,5,0,0
 Email: arjarecki@aol.com ,email,,29,5,0,0
-Hm)131'E 66th ,address,,29,5,0,0
-40,,,29,5,0,0
+Hm)131'E 66th ,address,1,29,5,0,0
+40,address,,29,5,0,0
 NY NY 10021 ,zip,,29,5,0,0
-"39 06 69200457, 00 39 06 ",phone,,29,5,0,0
-699211,phone,,29,5,0,0
-212 717 14009 Nancy ,phone,,29,5,0,0
-212 717 3900 Andrew ,phone,0,29,5,0,0
+"39 06 69200457, 00 39 06 ",phone,1,29,5,0,0
+699211,phone,1,29,5,0,0
+212 717 14009 Nancy ,phone,1,29,5,0,0
+212 717 3900 Andrew ,phone,1,29,5,0,0
 213581 31173 ,phone,,29,5,0,0
-"Jarecki, Nick ",person_name,,29,5,0,0
-Falconwood ,,,29,5,0,0
-565 Fifth Avenue ,street,,29,5,0,0
+"Jarecki, Nick ",person_name,,29,5,0,1
+Falconwood ,company,,29,5,0,0
+565 Fifth Avenue ,street,1,29,5,0,0
 3rd floor ,street,,29,5,0,0
 "New York, NY 10017 ",zip,,29,5,0,0
 01 01 212 212 984 593 04341470(wh) ,phone,,29,5,0,0
 Email: njarecki@mail.com ,email,,29,5,0,0
 01 917 359 1554 cell ,phone,0,29,5,0,0
 Jason (canada) ,person_name,,29,5,0,1
-001 514 989 9797 ,phone,,29,5,0,0
+001 514 989 9797 ,phone,1,29,5,0,0
 001 514 979 6010(p) ,phone,,29,5,0,0
 Javier ,person_name,,29,5,0,1
 001 646 734 7618 ,phone,,29,5,0,0
@@ -4467,7 +4467,7 @@ Morris Stephen ,person_name,,39,3,0,1
 "Capita Advisors, Inc ",,,39,3,0,0
 10 East 63rd St ,street,,39,3,0,0
 New York ,address,,39,3,0,0
-10021. ,address,,39,3,0,0
+10021,address,,39,3,0,0
 001 212 813 0347(w} ,phone,,39,3,0,0
 0207-584 6252 ,phone,,39,3,0,0
 07801 163399 ,phone,,39,3,0,0
@@ -7491,9 +7491,9 @@ Berkeley Hotel ,person_name,,66,2,0,1
 0207 235 6000 ,phone,0,66,2,1,0
 contact) ,,,66,3,0,0
 388,,,66,3,0,0
-100904. ,,,66,3,0,0
+100904,,,66,3,0,0
 Magdal ,,,66,3,0,0
-2. ,,,66,3,0,0
+2,,,66,3,0,0
 Lancois 08207 Donna ,zip,0,66,3,0,0
 contact). ,,,66,3,0,0
 3314766 3727 Karine (Nicole's ,,,66,3,0,0
@@ -7900,7 +7900,7 @@ coadleri 520@aol.com ,email,,69,4,0,0
 (m)1520 . Ocean Blvd. ,street,,69,4,0,0
 Palm Beach ,address,,69,4,0,0
 FL ,address,,69,4,0,0
-33480. ,address,0,69,4,1,0
+33480,address,0,69,4,1,0
 212 318 3201 ,phone,,69,5,0,0
 516 287 3553 ,phone,,69,5,0,0
 516 287 29217Cath. ,phone,,69,5,0,0
@@ -7972,7 +7972,7 @@ Brown Companies ,,,70,3,0,0
 "461 Park Ave., South ",street,,70,3,0,0
 New York ,address,,70,3,0,0
 NY ,address,,70,3,0,0
-10016. ,address,,70,3,0,0
+10016,address,,70,3,0,0
 212-500 7000 ,phone,,70,3,0,0
 0,,,70,3,0,0
 (Am)59 East 90th ,,,70,3,0,0
@@ -8439,7 +8439,7 @@ NY ,address,,73,4,0,0
 Email: greg@hirschandadier.com ,email,,73,4,0,0
 (Am21 East 70th St. (W) ,street,,73,4,0,0
 New York ,address,,73,4,0,0
-10021. ,address,,73,4,0,0
+10021,address,,73,4,0,0
 212472-3783 (b,phone,,73,4,0,0
 212-744-9251 hl,phone,,73,4,0,0
 508-257-6621 Summer th) ,phone,,73,4,0,0
@@ -8487,7 +8487,7 @@ Lake PA 18624 ,zip,,73,5,0,0
 House ,,,73,5,0,0
 212 202 7666 E-Fax ,phone,,73,5,0,0
 675 597 1165 New House ,phone,,73,5,0,0
-8/19/2003 ,phone,,73,5,0,0
+8/19/2003,phone,,73,5,0,0
 973 439 7222 DKI Graphics ,,,73,5,0,0
 349,,,73,5,0,0
 Parents ,,0,73,5,1,0
@@ -8958,7 +8958,7 @@ Protective Operation ,,,77,3,0,0
 Suite 101 ,,,77,3,0,0
 "Towson, MD 21286 ",zip,,77,3,0,0
 410,,,77,3,0,0
-116301. ,address,,77,3,0,0
+116301,address,,77,3,0,0
 Hm)Three Limited Parkway. ,,,77,3,0,0
 "Columbus, OH 43230 ",zip,,77,3,0,0
 Hote-Coi ,,,77,3,0,0
@@ -9529,7 +9529,7 @@ ups) ,,,80,4,0,0
 Jenner & Block ,,,80,4,0,0
 One IBM Plaza ,,,80,4,0,0
 "Chicago, Illinois 60611 ",zip,,80,4,0,0
-31332.9350 ,phone,,80,4,0,0
+31332.935,phone,,80,4,0,0
 708-866-8348 Home ,phone,0,80,4,1,0
 "Visoski, Larry ",person_name,,80,5,0,0
 1131 Pine Point Road ,street,,80,5,0,0
@@ -10350,7 +10350,7 @@ boyfriend hse ,,0,86,2,1,0
 561 707 1789 ,phone,,86,3,0,0
 561 714 9719 ,phone,,86,3,0,0
 5613807,phone,,86,3,0,0
-17. ,,,86,3,0,0
+17,,,86,3,0,0
 554,,,86,3,0,0
 561 533 7599 ,phone,,86,3,0,0
 561 312 1408 ,phone,,86,3,0,0
@@ -11204,7 +11204,7 @@ leave ,,,92,4,0,0
 702 743 0620 p Gypsy(p) ,phone,,92,4,0,0
 out ,,,92,4,0,0
 love ,,,92,4,0,0
-314: ,,,92,4,0,1
+314:00:00,,,92,4,0,1
 friend ,,,92,4,0,0
 338 Gypsy (,street,,92,4,0,0
 EN ,address,0,92,4,1,0
